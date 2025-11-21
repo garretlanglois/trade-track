@@ -44,8 +44,14 @@ export default async function AdminPage() {
   return (
     <AdminClient
       users={users}
-      allowedEmails={allowedEmails}
-      trades={trades}
+      allowedEmails={allowedEmails.map((email) => ({
+        ...email,
+        createdAt: email.createdAt.toISOString(),
+      }))}
+      trades={trades.map((trade) => ({
+        ...trade,
+        createdAt: trade.createdAt.toISOString(),
+      }))}
     />
   );
 }
