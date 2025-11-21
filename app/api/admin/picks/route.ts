@@ -53,7 +53,7 @@ export async function DELETE(request: Request) {
     const pick = await prisma.draftPick.findUnique({
       where: { id: pickId },
       include: {
-        tradeItems: {
+        trades: {
           include: {
             trade: true,
           },
@@ -61,7 +61,7 @@ export async function DELETE(request: Request) {
       },
     });
 
-    if (pick?.tradeItems.some(item => item.trade.status === "accepted")) {
+    if (pick?.trades.some(item => item.trade.status === "accepted")) {
       return NextResponse.json(
         { error: "Cannot delete pick that's part of an accepted trade" },
         { status: 400 }
