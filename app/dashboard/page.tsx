@@ -42,7 +42,9 @@ export default async function Dashboard() {
   });
 
   if (!user) {
-    redirect("/auth/signin");
+    // User has a session but doesn't exist in database (e.g., after migration)
+    // Redirect to a cleanup route that will delete the session
+    redirect("/auth/cleanup");
   }
 
   const allUsers = await prisma.user.findMany({
