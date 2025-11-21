@@ -16,12 +16,16 @@ export default async function Dashboard() {
       draftPicks: {
         orderBy: { round: "asc" },
       },
+      players: {
+        orderBy: { name: "asc" },
+      },
       sentTrades: {
         include: {
           toUser: true,
           items: {
             include: {
               draftPick: true,
+              player: true,
             },
           },
         },
@@ -33,6 +37,7 @@ export default async function Dashboard() {
           items: {
             include: {
               draftPick: true,
+              player: true,
             },
           },
         },

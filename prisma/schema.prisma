@@ -49,6 +49,8 @@ model User {
   sentTrades    Trade[]   @relation("SentTrades")
   receivedTrades Trade[]  @relation("ReceivedTrades")
   draftPicks    DraftPick[]
+  players       Player[]
+  playerClaims  PlayerClaim[]
   createdAt     DateTime  @default(now())
   updatedAt     DateTime  @updatedAt
 }
@@ -93,12 +95,56 @@ model Trade {
   updatedAt    DateTime    @updatedAt
 }
 
+model Player {
+  id            String   @id @default(cuid())
+  userId        String?
+  user          User?    @relation(fields: [userId], references: [id], onDelete: Cascade)
+  nhlPlayerId   String   @unique // PlayerID from NHL data
+  name          String
+  team          String?
+  position      String
+  headshotUrl   String?
+  teamLogoUrl   String?
+  jerseyNumber  Int?
+  age           Int?
+  dateOfBirth   String?
+  birthCity     String?
+  birthCountry  String?
+  nationality   String?
+  height        Int?     // Height in inches
+  weight        Int?     // Weight in lbs
+  draftYear     Int?
+  draftTeam     String?
+  draftRound    Int?
+  draftPosition Int?
+  isTraded      Boolean  @default(false)
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+  trades        TradeItem[]
+  claims        PlayerClaim[]
+}
+
+model PlayerClaim {
+  id          String   @id @default(cuid())
+  userId      String
+  user        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  playerId    String
+  player      Player   @relation(fields: [playerId], references: [id], onDelete: Cascade)
+  status      String   @default("pending") // pending, approved, rejected
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@unique([userId, playerId])
+}
+
 model TradeItem {
-  id          String    @id @default(cuid())
+  id          String     @id @default(cuid())
   tradeId     String
-  trade       Trade     @relation(fields: [tradeId], references: [id], onDelete: Cascade)
-  draftPickId String
-  draftPick   DraftPick @relation(fields: [draftPickId], references: [id], onDelete: Cascade)
-  direction   String    // "from" or "to" - indicates which user is giving this pick
-  createdAt   DateTime  @default(now())
+  trade       Trade      @relation(fields: [tradeId], references: [id], onDelete: Cascade)
+  draftPickId String?
+  draftPick   DraftPick? @relation(fields: [draftPickId], references: [id], onDelete: Cascade)
+  playerId    String?
+  player      Player?    @relation(fields: [playerId], references: [id], onDelete: Cascade)
+  direction   String     // "from" or "to" - indicates which user is giving this item
+  createdAt   DateTime   @default(now())
 }

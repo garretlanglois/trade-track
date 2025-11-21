@@ -10,12 +10,22 @@ interface DraftPick {
   isTraded: boolean;
 }
 
+interface Player {
+  id: string;
+  name: string;
+  team: string | null;
+  position: string;
+  headshotUrl: string | null;
+  isTraded: boolean;
+}
+
 interface User {
   id: string;
   name: string | null;
   email: string;
   image: string | null;
   draftPicks: DraftPick[];
+  players: Player[];
 }
 
 interface OtherUser {
@@ -35,14 +45,16 @@ export default function TradeModal({ currentUser, allUsers, onClose }: Props) {
   const router = useRouter();
   const [selectedUser, setSelectedUser] = useState<string>("");
   const [myPicks, setMyPicks] = useState<string[]>([]);
+  const [myPlayers, setMyPlayers] = useState<string[]>([]);
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [error, setError] = useState("");
 
   const availableMyPicks = currentUser.draftPicks.filter((p) => !p.isTraded);
+  const availableMyPlayers = currentUser.players.filter((p) => !p.isTraded);
 
   const handleSubmit = async () => {
-    if (!selectedUser || myPicks.length === 0) {
-      setError("Please select a trade partner and at least one of your picks");
+    if (!selectedUser || (myPicks.length === 0 && myPlayers.length === 0)) {
+      setError("Please select a trade partner and at least one pick or player to trade");
       return;
     }
 
@@ -58,7 +70,9 @@ export default function TradeModal({ currentUser, allUsers, onClose }: Props) {
         body: JSON.stringify({
           toUserId: selectedUser,
           myPickIds: myPicks,
+          myPlayerIds: myPlayers,
           theirPickIds: [],
+          theirPlayerIds: [],
         }),
       });
 
@@ -79,6 +93,12 @@ export default function TradeModal({ currentUser, allUsers, onClose }: Props) {
   const toggleMyPick = (pickId: string) => {
     setMyPicks((prev) =>
       prev.includes(pickId) ? prev.filter((id) => id !== pickId) : [...prev, pickId]
+    );
+  };
+
+  const toggleMyPlayer = (playerId: string) => {
+    setMyPlayers((prev) =>
+      prev.includes(playerId) ? prev.filter((id) => id !== playerId) : [...prev, playerId]
     );
   };
 
@@ -162,14 +182,63 @@ export default function TradeModal({ currentUser, allUsers, onClose }: Props) {
             </div>
           </div>
 
+          {/* Your Players */}
+          <div>
+            <label className="block text-sm font-medium text-gray-900 mb-3">
+              Your players to trade
+            </label>
+            <div className="space-y-2 max-h-64 overflow-y-auto">
+              {availableMyPlayers.map((player) => (
+                <label
+                  key={player.id}
+                  className={`flex items-center gap-3 p-4 border rounded-lg cursor-pointer transition-colors ${
+                    myPlayers.includes(player.id)
+                      ? "border-gray-900 bg-gray-50"
+                      : "border-gray-300 hover:border-gray-400"
+                  }`}
+                >
+                  <input
+                    type="checkbox"
+                    checked={myPlayers.includes(player.id)}
+                    onChange={() => toggleMyPlayer(player.id)}
+                    className="w-4 h-4 text-gray-900 rounded focus:ring-gray-900"
+                  />
+                  {player.headshotUrl && (
+                    <img
+                      src={player.headshotUrl}
+                      alt={player.name}
+                      className="w-10 h-10 rounded-full object-cover bg-gray-100"
+                      onError={(e) => {
+                        (e.target as HTMLImageElement).style.display = 'none';
+                      }}
+                    />
+                  )}
+                  <div className="flex-1 min-w-0">
+                    <p className="font-medium text-gray-900 truncate">{player.name}</p>
+                    <p className="text-sm text-gray-600">
+                      {player.position}{player.team ? ` - ${player.team}` : ''}
+                    </p>
+                  </div>
+                </label>
+              ))}
+              {availableMyPlayers.length === 0 && (
+                <p className="text-gray-500 text-sm text-center py-8">
+                  You have no available players to trade
+                </p>
+              )}
+            </div>
+          </div>
+
           {/* Trade Summary */}
-          {myPicks.length > 0 && selectedUser && (
+          {(myPicks.length > 0 || myPlayers.length > 0) && selectedUser && (
             <div className="bg-gray-50 border border-gray-200 rounded-lg p-4">
               <h3 className="font-medium text-gray-900 mb-2">Summary</h3>
               <div className="text-sm space-y-1">
                 <p className="text-gray-700">
-                  <span className="font-medium">You give:</span> {myPicks.length} pick
-                  {myPicks.length > 1 ? "s" : ""}
+                  <span className="font-medium">You give:</span>{" "}
+                  {myPicks.length > 0 && `${myPicks.length} pick${myPicks.length > 1 ? "s" : ""}`}
+                  {myPicks.length > 0 && myPlayers.length > 0 && ", "}
+                  {myPlayers.length > 0 && `${myPlayers.length} player${myPlayers.length > 1 ? "s" : ""}`}
                 </p>
                 <p className="text-gray-700">
                   <span className="font-medium">To:</span>{" "}
@@ -192,7 +261,7 @@ export default function TradeModal({ currentUser, allUsers, onClose }: Props) {
           </button>
           <button
             onClick={handleSubmit}
-            disabled={isSubmitting || !selectedUser || myPicks.length === 0}
+            disabled={isSubmitting || !selectedUser || (myPicks.length === 0 && myPlayers.length === 0)}
             className="flex-1 px-6 py-3 bg-black text-white rounded-lg font-medium hover:bg-gray-800 transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
           >
             {isSubmitting ? "Sending..." : "Propose trade"}

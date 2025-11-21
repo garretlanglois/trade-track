@@ -15,11 +15,13 @@ export async function POST(request: Request) {
       return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
     }
 
-    const { toUserId, myPickIds, theirPickIds } = await request.json();
+    const { toUserId, myPickIds, theirPickIds, myPlayerIds, theirPlayerIds } = await request.json();
 
-    if (!toUserId || !myPickIds || myPickIds.length === 0) {
+    // At least one item must be offered
+    if (!toUserId ||
+        ((!myPickIds || myPickIds.length === 0) && (!myPlayerIds || myPlayerIds.length === 0))) {
       return NextResponse.json(
-        { error: "Invalid trade data" },
+        { error: "Invalid trade data - must offer at least one pick or player" },
         { status: 400 }
       );
     }
@@ -33,19 +35,70 @@ export async function POST(request: Request) {
     }
 
     // Verify the picks belong to the current user and are not already traded
-    const myPicks = await prisma.draftPick.findMany({
-      where: {
-        id: { in: myPickIds },
-        userId: currentUser.id,
-        isTraded: false,
-      },
-    });
+    if (myPickIds && myPickIds.length > 0) {
+      const myPicks = await prisma.draftPick.findMany({
+        where: {
+          id: { in: myPickIds },
+          userId: currentUser.id,
+          isTraded: false,
+        },
+      });
 
-    if (myPicks.length !== myPickIds.length) {
-      return NextResponse.json(
-        { error: "Invalid or already traded picks" },
-        { status: 400 }
-      );
+      if (myPicks.length !== myPickIds.length) {
+        return NextResponse.json(
+          { error: "Invalid or already traded picks" },
+          { status: 400 }
+        );
+      }
+    }
+
+    // Verify the players belong to the current user and are not already traded
+    if (myPlayerIds && myPlayerIds.length > 0) {
+      const myPlayers = await prisma.player.findMany({
+        where: {
+          id: { in: myPlayerIds },
+          userId: currentUser.id,
+          isTraded: false,
+        },
+      });
+
+      if (myPlayers.length !== myPlayerIds.length) {
+        return NextResponse.json(
+          { error: "Invalid or already traded players" },
+          { status: 400 }
+        );
+      }
+    }
+
+    // Build trade items array
+    const tradeItems: any[] = [];
+
+    if (myPickIds && myPickIds.length > 0) {
+      tradeItems.push(...myPickIds.map((pickId: string) => ({
+        draftPickId: pickId,
+        direction: "from",
+      })));
+    }
+
+    if (myPlayerIds && myPlayerIds.length > 0) {
+      tradeItems.push(...myPlayerIds.map((playerId: string) => ({
+        playerId: playerId,
+        direction: "from",
+      })));
+    }
+
+    if (theirPickIds && theirPickIds.length > 0) {
+      tradeItems.push(...theirPickIds.map((pickId: string) => ({
+        draftPickId: pickId,
+        direction: "to",
+      })));
+    }
+
+    if (theirPlayerIds && theirPlayerIds.length > 0) {
+      tradeItems.push(...theirPlayerIds.map((playerId: string) => ({
+        playerId: playerId,
+        direction: "to",
+      })));
     }
 
     // Create the trade
@@ -55,20 +108,16 @@ export async function POST(request: Request) {
         toUserId: toUserId,
         status: "pending",
         items: {
-          create: [
-            ...myPickIds.map((pickId: string) => ({
-              draftPickId: pickId,
-              direction: "from",
-            })),
-            ...(theirPickIds || []).map((pickId: string) => ({
-              draftPickId: pickId,
-              direction: "to",
-            })),
-          ],
+          create: tradeItems,
         },
       },
       include: {
-        items: true,
+        items: {
+          include: {
+            draftPick: true,
+            player: true,
+          },
+        },
       },
     });
 
@@ -131,7 +180,7 @@ export async function PATCH(request: Request) {
     }
 
     if (action === "accept") {
-      // Update trade status and mark picks as traded
+      // Update trade status and mark picks/players as traded
       await prisma.$transaction(async (tx) => {
         await tx.trade.update({
           where: { id: tradeId },
@@ -140,12 +189,21 @@ export async function PATCH(request: Request) {
 
         // Transfer ownership of picks
         const fromPicks = trade.items
-          .filter((item) => item.direction === "from")
-          .map((item) => item.draftPickId);
+          .filter((item) => item.direction === "from" && item.draftPickId)
+          .map((item) => item.draftPickId!);
 
         const toPicks = trade.items
-          .filter((item) => item.direction === "to")
-          .map((item) => item.draftPickId);
+          .filter((item) => item.direction === "to" && item.draftPickId)
+          .map((item) => item.draftPickId!);
+
+        // Transfer ownership of players
+        const fromPlayers = trade.items
+          .filter((item) => item.direction === "from" && item.playerId)
+          .map((item) => item.playerId!);
+
+        const toPlayers = trade.items
+          .filter((item) => item.direction === "to" && item.playerId)
+          .map((item) => item.playerId!);
 
         // Update from picks to toUser
         if (fromPicks.length > 0) {
@@ -159,6 +217,22 @@ export async function PATCH(request: Request) {
         if (toPicks.length > 0) {
           await tx.draftPick.updateMany({
             where: { id: { in: toPicks } },
+            data: { userId: trade.fromUserId, isTraded: true },
+          });
+        }
+
+        // Update from players to toUser
+        if (fromPlayers.length > 0) {
+          await tx.player.updateMany({
+            where: { id: { in: fromPlayers } },
+            data: { userId: trade.toUserId, isTraded: true },
+          });
+        }
+
+        // Update to players to fromUser
+        if (toPlayers.length > 0) {
+          await tx.player.updateMany({
+            where: { id: { in: toPlayers } },
             data: { userId: trade.fromUserId, isTraded: true },
           });
         }

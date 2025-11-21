@@ -6,11 +6,27 @@ import Image from "next/image";
 import Link from "next/link";
 import TradeModal from "./TradeModal";
 import TradeList from "./TradeList";
+import PlayerCard from "./PlayerCard";
 
 interface DraftPick {
   id: string;
   round: number;
   year: number;
+  isTraded: boolean;
+}
+
+interface Player {
+  id: string;
+  nhlPlayerId: string;
+  name: string;
+  team: string | null;
+  position: string;
+  headshotUrl: string | null;
+  teamLogoUrl: string | null;
+  jerseyNumber: number | null;
+  age: number | null;
+  height: number | null;
+  weight: number | null;
   isTraded: boolean;
 }
 
@@ -20,6 +36,7 @@ interface User {
   email: string;
   image: string | null;
   draftPicks: DraftPick[];
+  players: Player[];
   sentTrades: any[];
   receivedTrades: any[];
 }
@@ -54,6 +71,7 @@ export default function DashboardClient({ user, allUsers }: Props) {
     (t) => t.status === "pending"
   );
   const activePicks = user.draftPicks.filter((p) => !p.isTraded);
+  const activePlayers = user.players.filter((p) => !p.isTraded);
 
   return (
     <div className="min-h-screen bg-gray-50">
@@ -125,10 +143,15 @@ export default function DashboardClient({ user, allUsers }: Props) {
         </div>
 
         {/* Stats */}
-        <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 mb-8">
+        <div className="grid grid-cols-2 lg:grid-cols-5 gap-4 mb-8">
           <div className="bg-white border border-gray-200 rounded-lg p-4">
             <p className="text-sm text-gray-600 mb-1">Active picks</p>
             <p className="text-3xl font-bold text-gray-900">{activePicks.length}</p>
+          </div>
+
+          <div className="bg-white border border-gray-200 rounded-lg p-4">
+            <p className="text-sm text-gray-600 mb-1">Active players</p>
+            <p className="text-3xl font-bold text-gray-900">{activePlayers.length}</p>
           </div>
 
           <div className="bg-white border border-gray-200 rounded-lg p-4">
@@ -168,36 +191,41 @@ export default function DashboardClient({ user, allUsers }: Props) {
 
         {/* Main Content Grid */}
         <div className="grid lg:grid-cols-3 gap-6">
-          {/* Draft Picks */}
-          <div className="lg:col-span-1">
+          {/* Left Column - Draft Picks & Players */}
+          <div className="lg:col-span-1 space-y-6">
+            {/* Draft Picks */}
             <div className="bg-white border border-gray-200 rounded-lg overflow-hidden">
               <div className="p-6 border-b border-gray-200">
                 <h2 className="text-lg font-semibold text-gray-900">Your draft picks</h2>
               </div>
 
               <div className="p-6 space-y-3">
-                {user.draftPicks.map((pick) => (
-                  <div
-                    key={pick.id}
-                    className={`border rounded-lg p-4 transition-colors ${
-                      pick.isTraded
-                        ? "border-gray-200 bg-gray-50"
-                        : "border-gray-300 bg-white"
-                    }`}
-                  >
-                    <div className="flex items-center justify-between">
-                      <div>
-                        <p className="font-semibold text-gray-900">Round {pick.round}</p>
-                        <p className="text-sm text-gray-600">{pick.year}</p>
+                {user.draftPicks.length > 0 ? (
+                  user.draftPicks.map((pick) => (
+                    <div
+                      key={pick.id}
+                      className={`border rounded-lg p-4 transition-colors ${
+                        pick.isTraded
+                          ? "border-gray-200 bg-gray-50"
+                          : "border-gray-300 bg-white"
+                      }`}
+                    >
+                      <div className="flex items-center justify-between">
+                        <div>
+                          <p className="font-semibold text-gray-900">Round {pick.round}</p>
+                          <p className="text-sm text-gray-600">{pick.year}</p>
+                        </div>
+                        {pick.isTraded && (
+                          <span className="text-xs font-medium text-gray-500 bg-gray-200 px-2 py-1 rounded">
+                            Traded
+                          </span>
+                        )}
                       </div>
-                      {pick.isTraded && (
-                        <span className="text-xs font-medium text-gray-500 bg-gray-200 px-2 py-1 rounded">
-                          Traded
-                        </span>
-                      )}
                     </div>
-                  </div>
-                ))}
+                  ))
+                ) : (
+                  <p className="text-sm text-gray-500 text-center py-4">No draft picks</p>
+                )}
 
                 <button
                   onClick={() => setIsTradeModalOpen(true)}
@@ -208,6 +236,23 @@ export default function DashboardClient({ user, allUsers }: Props) {
                   </svg>
                   Propose trade
                 </button>
+              </div>
+            </div>
+
+            {/* Players */}
+            <div className="bg-white border border-gray-200 rounded-lg overflow-hidden">
+              <div className="p-6 border-b border-gray-200">
+                <h2 className="text-lg font-semibold text-gray-900">Your players</h2>
+              </div>
+
+              <div className="p-6 space-y-3 max-h-[600px] overflow-y-auto">
+                {user.players.length > 0 ? (
+                  user.players.map((player) => (
+                    <PlayerCard key={player.id} player={player} />
+                  ))
+                ) : (
+                  <p className="text-sm text-gray-500 text-center py-4">No players assigned</p>
+                )}
               </div>
             </div>
 

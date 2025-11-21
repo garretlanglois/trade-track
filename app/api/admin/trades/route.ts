@@ -20,6 +20,7 @@ export async function GET() {
         items: {
           include: {
             draftPick: true,
+            player: true,
           },
         },
       },
@@ -61,17 +62,30 @@ export async function DELETE(request: Request) {
       );
     }
 
-    // If trade was accepted, we need to reverse the pick ownership
+    // If trade was accepted, we need to reverse the pick/player ownership
     if (trade.status === "accepted") {
       await prisma.$transaction(async (tx) => {
         // Get all picks involved
         const fromPicks = trade.items
-          .filter((item) => item.direction === "from")
-          .map((item) => item.draftPickId);
+          .filter((item) => item.direction === "from" && item.draftPickId)
+          .map((item) => item.draftPickId!)
+          .filter((id): id is string => id !== null);
 
         const toPicks = trade.items
-          .filter((item) => item.direction === "to")
-          .map((item) => item.draftPickId);
+          .filter((item) => item.direction === "to" && item.draftPickId)
+          .map((item) => item.draftPickId!)
+          .filter((id): id is string => id !== null);
+
+        // Get all players involved
+        const fromPlayers = trade.items
+          .filter((item) => item.direction === "from" && item.playerId)
+          .map((item) => item.playerId!)
+          .filter((id): id is string => id !== null);
+
+        const toPlayers = trade.items
+          .filter((item) => item.direction === "to" && item.playerId)
+          .map((item) => item.playerId!)
+          .filter((id): id is string => id !== null);
 
         // Reverse ownership back to original owners
         if (fromPicks.length > 0) {
@@ -84,6 +98,20 @@ export async function DELETE(request: Request) {
         if (toPicks.length > 0) {
           await tx.draftPick.updateMany({
             where: { id: { in: toPicks } },
+            data: { userId: trade.toUserId, isTraded: false },
+          });
+        }
+
+        if (fromPlayers.length > 0) {
+          await tx.player.updateMany({
+            where: { id: { in: fromPlayers } },
+            data: { userId: trade.fromUserId, isTraded: false },
+          });
+        }
+
+        if (toPlayers.length > 0) {
+          await tx.player.updateMany({
+            where: { id: { in: toPlayers } },
             data: { userId: trade.toUserId, isTraded: false },
           });
         }

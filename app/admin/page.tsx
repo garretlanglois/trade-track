@@ -34,6 +34,7 @@ export default async function AdminPage() {
         items: {
           include: {
             draftPick: true,
+            player: true,
           },
         },
       },

@@ -17,10 +17,15 @@ interface Trade {
   };
   items: Array<{
     direction: string;
-    draftPick: {
+    draftPick?: {
       round: number;
       year: number;
-    };
+    } | null;
+    player?: {
+      name: string;
+      position: string;
+      team: string | null;
+    } | null;
   }>;
 }
 
@@ -64,10 +69,19 @@ export default function TradeList({ sentTrades, receivedTrades, userId }: Props)
   };
 
   const getTradeItems = (trade: Trade, direction: "from" | "to") => {
-    return trade.items
+    const items = trade.items
       .filter((item) => item.direction === direction)
-      .map((item) => `Round ${item.draftPick.round} (${item.draftPick.year})`)
-      .join(", ");
+      .map((item) => {
+        if (item.draftPick) {
+          return `Round ${item.draftPick.round} (${item.draftPick.year})`;
+        } else if (item.player) {
+          return `${item.player.name} (${item.player.position}${item.player.team ? ` - ${item.player.team}` : ''})`;
+        }
+        return null;
+      })
+      .filter(Boolean);
+
+    return items.length > 0 ? items.join(", ") : "Nothing";
   };
 
   const trades = activeTab === "received" ? receivedTrades : sentTrades;
@@ -162,13 +176,13 @@ export default function TradeList({ sentTrades, receivedTrades, userId }: Props)
                 <div>
                   <span className="font-medium text-gray-700">They give: </span>
                   <span className="text-gray-900">
-                    {getTradeItems(trade, "from") || "Nothing"}
+                    {getTradeItems(trade, "from")}
                   </span>
                 </div>
                 <div>
                   <span className="font-medium text-gray-700">You give: </span>
                   <span className="text-gray-900">
-                    {getTradeItems(trade, "to") || "Nothing"}
+                    {getTradeItems(trade, "to")}
                   </span>
                 </div>
               </div>

@@ -1,0 +1,1313 @@
+,GameID,DatetimeEST,Date,TimeEST,Home Team,Home Abbreviation,Visiting Team,Visiting Abbreviation,Home Score,Visiting Score,Home Win,Visitor Win,Overtime
+1,2024020001,2024-10-04T13:00:00,2024-10-04,13:00:00,Buffalo Sabres,BUF,New Jersey Devils,NJD,1.0,4.0,False,True,False
+2,2024020002,2024-10-05T10:00:00,2024-10-05,10:00:00,New Jersey Devils,NJD,Buffalo Sabres,BUF,3.0,1.0,True,False,False
+3,2024020003,2024-10-08T16:30:00,2024-10-08,16:30:00,Seattle Kraken,SEA,St. Louis Blues,STL,2.0,3.0,False,True,False
+4,2024020004,2024-10-08T19:00:00,2024-10-08,19:00:00,Florida Panthers,FLA,Boston Bruins,BOS,6.0,4.0,True,False,False
+5,2024020005,2024-10-08T22:00:00,2024-10-08,22:00:00,Utah Hockey Club,UTA,Chicago Blackhawks,CHI,5.0,2.0,True,False,False
+6,2024020006,2024-10-09T19:00:00,2024-10-09,19:00:00,Montréal Canadiens,MTL,Toronto Maple Leafs,TOR,1.0,0.0,True,False,False
+7,2024020007,2024-10-09T19:30:00,2024-10-09,19:30:00,Pittsburgh Penguins,PIT,New York Rangers,NYR,0.0,6.0,False,True,False
+8,2024020008,2024-10-09T22:00:00,2024-10-09,22:00:00,Edmonton Oilers,EDM,Winnipeg Jets,WPG,0.0,6.0,False,True,False
+9,2024020009,2024-10-09T22:00:00,2024-10-09,22:00:00,Vancouver Canucks,VAN,Calgary Flames,CGY,5.0,6.0,False,True,True
+10,2024020010,2024-10-09T22:00:00,2024-10-09,22:00:00,Vegas Golden Knights,VGK,Colorado Avalanche,COL,8.0,4.0,True,False,False
+11,2024020011,2024-10-10T19:00:00,2024-10-10,19:00:00,Boston Bruins,BOS,Montréal Canadiens,MTL,6.0,4.0,True,False,False
+12,2024020012,2024-10-10T19:00:00,2024-10-10,19:00:00,Buffalo Sabres,BUF,Los Angeles Kings,LAK,1.0,3.0,False,True,False
+13,2024020013,2024-10-10T19:00:00,2024-10-10,19:00:00,Ottawa Senators,OTT,Florida Panthers,FLA,3.0,1.0,True,False,False
+14,2024020014,2024-10-10T20:00:00,2024-10-10,20:00:00,Detroit Red Wings,DET,Pittsburgh Penguins,PIT,3.0,6.0,False,True,False
+15,2024020015,2024-10-10T19:00:00,2024-10-10,19:00:00,New Jersey Devils,NJD,Toronto Maple Leafs,TOR,2.0,4.0,False,True,False
+16,2024020016,2024-10-10T19:30:00,2024-10-10,19:30:00,New York Islanders,NYI,Utah Hockey Club,UTA,4.0,5.0,False,True,True
+17,2024020017,2024-10-10T20:00:00,2024-10-10,20:00:00,Nashville Predators,NSH,Dallas Stars,DAL,3.0,4.0,False,True,False
+18,2024020018,2024-10-10T20:00:00,2024-10-10,20:00:00,Minnesota Wild,MIN,Columbus Blue Jackets,CBJ,3.0,2.0,True,False,False
+19,2024020019,2024-10-10T22:30:00,2024-10-10,22:30:00,San Jose Sharks,SJS,St. Louis Blues,STL,4.0,5.0,False,True,True
+20,2024020020,2024-10-11T19:00:00,2024-10-11,19:00:00,Carolina Hurricanes,CAR,Tampa Bay Lightning,TBL,1.0,4.0,False,True,False
+21,2024020021,2024-10-11T20:00:00,2024-10-11,20:00:00,Winnipeg Jets,WPG,Chicago Blackhawks,CHI,2.0,1.0,True,False,True
+22,2024020022,2024-10-11T22:00:00,2024-10-11,22:00:00,Vancouver Canucks,VAN,Philadelphia Flyers,PHI,2.0,3.0,False,True,True
+23,2024020023,2024-10-11T22:00:00,2024-10-11,22:00:00,Vegas Golden Knights,VGK,St. Louis Blues,STL,4.0,3.0,True,False,False
+24,2024020024,2024-10-12T13:00:00,2024-10-12,13:00:00,Boston Bruins,BOS,Los Angeles Kings,LAK,2.0,1.0,True,False,True
+25,2024020025,2024-10-12T19:00:00,2024-10-12,19:00:00,Buffalo Sabres,BUF,Florida Panthers,FLA,5.0,2.0,True,False,False
+26,2024020026,2024-10-12T19:00:00,2024-10-12,19:00:00,Toronto Maple Leafs,TOR,Pittsburgh Penguins,PIT,4.0,2.0,True,False,False
+27,2024020027,2024-10-12T19:00:00,2024-10-12,19:00:00,Montréal Canadiens,MTL,Ottawa Senators,OTT,4.0,1.0,True,False,False
+28,2024020028,2024-10-12T19:00:00,2024-10-12,19:00:00,Detroit Red Wings,DET,Nashville Predators,NSH,3.0,0.0,True,False,False
+29,2024020029,2025-01-07T19:00:00,2025-01-07,19:00:00,Tampa Bay Lightning,TBL,Carolina Hurricanes,CAR,3.0,2.0,True,False,False
+30,2024020030,2024-10-12T19:00:00,2024-10-12,19:00:00,New York Rangers,NYR,Utah Hockey Club,UTA,5.0,6.0,False,True,True
+31,2024020031,2024-10-12T19:00:00,2024-10-12,19:00:00,Washington Capitals,WSH,New Jersey Devils,NJD,3.0,5.0,False,True,False
+32,2024020032,2024-10-12T20:00:00,2024-10-12,20:00:00,Dallas Stars,DAL,New York Islanders,NYI,3.0,0.0,True,False,False
+33,2024020033,2024-10-12T20:00:00,2024-10-12,20:00:00,Minnesota Wild,MIN,Seattle Kraken,SEA,4.0,5.0,False,True,True
+34,2024020034,2024-10-12T21:00:00,2024-10-12,21:00:00,Colorado Avalanche,COL,Columbus Blue Jackets,CBJ,4.0,6.0,False,True,False
+35,2024020035,2024-10-12T22:00:00,2024-10-12,22:00:00,Calgary Flames,CGY,Philadelphia Flyers,PHI,6.0,3.0,True,False,False
+36,2024020036,2024-10-12T22:00:00,2024-10-12,22:00:00,Edmonton Oilers,EDM,Chicago Blackhawks,CHI,2.0,5.0,False,True,False
+37,2024020037,2024-10-12T22:00:00,2024-10-12,22:00:00,San Jose Sharks,SJS,Anaheim Ducks,ANA,0.0,2.0,False,True,False
+38,2024020038,2024-10-13T18:00:00,2024-10-13,18:00:00,Winnipeg Jets,WPG,Minnesota Wild,MIN,2.0,1.0,True,False,True
+39,2024020039,2024-10-13T20:00:00,2024-10-13,20:00:00,Dallas Stars,DAL,Seattle Kraken,SEA,2.0,0.0,True,False,False
+40,2024020040,2024-10-13T20:00:00,2024-10-13,20:00:00,Edmonton Oilers,EDM,Calgary Flames,CGY,1.0,4.0,False,True,False
+41,2024020041,2024-10-13T22:00:00,2024-10-13,22:00:00,Vegas Golden Knights,VGK,Anaheim Ducks,ANA,3.0,1.0,True,False,False
+42,2024020042,2024-10-14T13:00:00,2024-10-14,13:00:00,Boston Bruins,BOS,Florida Panthers,FLA,3.0,4.0,False,True,False
+43,2024020043,2024-10-14T13:00:00,2024-10-14,13:00:00,Ottawa Senators,OTT,Los Angeles Kings,LAK,8.0,7.0,True,False,True
+44,2024020044,2024-10-14T13:00:00,2024-10-14,13:00:00,New Jersey Devils,NJD,Utah Hockey Club,UTA,3.0,0.0,True,False,False
+45,2024020045,2024-10-14T19:00:00,2024-10-14,19:00:00,New York Rangers,NYR,Detroit Red Wings,DET,4.0,1.0,True,False,False
+46,2024020046,2024-10-14T19:30:00,2024-10-14,19:30:00,Montréal Canadiens,MTL,Pittsburgh Penguins,PIT,3.0,6.0,False,True,False
+47,2024020047,2024-10-14T21:00:00,2024-10-14,21:00:00,Colorado Avalanche,COL,New York Islanders,NYI,2.0,6.0,False,True,False
+48,2024020048,2024-10-15T19:00:00,2024-10-15,19:00:00,Tampa Bay Lightning,TBL,Vancouver Canucks,VAN,4.0,1.0,True,False,False
+49,2024020049,2024-10-15T19:00:00,2024-10-15,19:00:00,Washington Capitals,WSH,Vegas Golden Knights,VGK,4.0,2.0,True,False,False
+50,2024020050,2024-10-15T19:00:00,2024-10-15,19:00:00,Carolina Hurricanes,CAR,New Jersey Devils,NJD,4.0,2.0,True,False,False
+51,2024020051,2024-10-15T19:00:00,2024-10-15,19:00:00,Columbus Blue Jackets,CBJ,Florida Panthers,FLA,3.0,4.0,False,True,False
+52,2024020052,2024-10-15T19:30:00,2024-10-15,19:30:00,St. Louis Blues,STL,Minnesota Wild,MIN,1.0,4.0,False,True,False
+53,2024020053,2024-10-15T20:00:00,2024-10-15,20:00:00,Nashville Predators,NSH,Seattle Kraken,SEA,3.0,7.0,False,True,False
+54,2024020054,2024-10-15T20:00:00,2024-10-15,20:00:00,Dallas Stars,DAL,San Jose Sharks,SJS,3.0,2.0,True,False,True
+55,2024020055,2024-10-15T21:00:00,2024-10-15,21:00:00,Calgary Flames,CGY,Chicago Blackhawks,CHI,3.0,1.0,True,False,False
+56,2024020056,2024-10-15T22:00:00,2024-10-15,22:00:00,Edmonton Oilers,EDM,Philadelphia Flyers,PHI,4.0,3.0,True,False,True
+57,2024020057,2024-10-16T19:00:00,2024-10-16,19:00:00,Pittsburgh Penguins,PIT,Buffalo Sabres,BUF,6.0,5.0,True,False,True
+58,2024020058,2024-10-16T19:30:00,2024-10-16,19:30:00,Toronto Maple Leafs,TOR,Los Angeles Kings,LAK,6.0,2.0,True,False,False
+59,2024020059,2024-10-16T21:30:00,2024-10-16,21:30:00,Colorado Avalanche,COL,Boston Bruins,BOS,3.0,5.0,False,True,False
+60,2024020060,2024-10-16T22:00:00,2024-10-16,22:00:00,Anaheim Ducks,ANA,Utah Hockey Club,UTA,5.0,4.0,True,False,True
+61,2024020061,2024-10-17T19:00:00,2024-10-17,19:00:00,Montréal Canadiens,MTL,Los Angeles Kings,LAK,1.0,4.0,False,True,False
+62,2024020062,2024-10-17T19:00:00,2024-10-17,19:00:00,Ottawa Senators,OTT,New Jersey Devils,NJD,1.0,3.0,False,True,False
+63,2024020063,2024-10-17T19:30:00,2024-10-17,19:30:00,Detroit Red Wings,DET,New York Rangers,NYR,2.0,5.0,False,True,False
+64,2024020064,2024-10-17T19:00:00,2024-10-17,19:00:00,Tampa Bay Lightning,TBL,Vegas Golden Knights,VGK,4.0,3.0,True,False,False
+65,2024020065,2024-10-17T19:00:00,2024-10-17,19:00:00,Florida Panthers,FLA,Vancouver Canucks,VAN,2.0,3.0,False,True,True
+66,2024020066,2024-10-17T19:00:00,2024-10-17,19:00:00,Washington Capitals,WSH,Dallas Stars,DAL,3.0,2.0,True,False,False
+67,2024020067,2024-10-17T19:00:00,2024-10-17,19:00:00,Columbus Blue Jackets,CBJ,Buffalo Sabres,BUF,6.0,4.0,True,False,False
+68,2024020068,2024-10-17T20:00:00,2024-10-17,20:00:00,St. Louis Blues,STL,New York Islanders,NYI,1.0,0.0,True,False,True
+69,2024020069,2024-10-17T20:00:00,2024-10-17,20:00:00,Nashville Predators,NSH,Edmonton Oilers,EDM,2.0,4.0,False,True,False
+70,2024020070,2024-10-17T20:30:00,2024-10-17,20:30:00,Chicago Blackhawks,CHI,San Jose Sharks,SJS,4.0,2.0,True,False,False
+71,2024020071,2024-10-17T22:00:00,2024-10-17,22:00:00,Seattle Kraken,SEA,Philadelphia Flyers,PHI,6.0,4.0,True,False,False
+72,2024020072,2024-10-18T19:00:00,2024-10-18,19:00:00,Pittsburgh Penguins,PIT,Carolina Hurricanes,CAR,1.0,4.0,False,True,False
+73,2024020073,2024-10-18T20:00:00,2024-10-18,20:00:00,Winnipeg Jets,WPG,San Jose Sharks,SJS,8.0,3.0,True,False,False
+74,2024020074,2024-10-18T21:00:00,2024-10-18,21:00:00,Colorado Avalanche,COL,Anaheim Ducks,ANA,4.0,3.0,True,False,True
+75,2024020075,2024-10-19T13:00:00,2024-10-19,13:00:00,Ottawa Senators,OTT,Tampa Bay Lightning,TBL,5.0,4.0,True,False,False
+76,2024020076,2024-10-19T14:00:00,2024-10-19,14:00:00,Nashville Predators,NSH,Detroit Red Wings,DET,2.0,5.0,False,True,False
+77,2024020077,2024-10-19T16:00:00,2024-10-19,16:00:00,Dallas Stars,DAL,Edmonton Oilers,EDM,4.0,1.0,True,False,False
+78,2024020078,2024-10-19T18:00:00,2024-10-19,18:00:00,Florida Panthers,FLA,Vegas Golden Knights,VGK,4.0,3.0,True,False,True
+79,2024020079,2024-10-19T19:00:00,2024-10-19,19:00:00,Toronto Maple Leafs,TOR,New York Rangers,NYR,1.0,4.0,False,True,False
+80,2024020080,2024-10-19T19:00:00,2024-10-19,19:00:00,New Jersey Devils,NJD,Washington Capitals,WSH,5.0,6.0,False,True,True
+81,2024020081,2024-10-19T19:00:00,2024-10-19,19:00:00,New York Islanders,NYI,Montréal Canadiens,MTL,4.0,3.0,True,False,True
+82,2024020082,2024-10-19T19:00:00,2024-10-19,19:00:00,Philadelphia Flyers,PHI,Vancouver Canucks,VAN,0.0,3.0,False,True,False
+83,2024020083,2024-10-19T19:00:00,2024-10-19,19:00:00,Columbus Blue Jackets,CBJ,Minnesota Wild,MIN,1.0,3.0,False,True,False
+84,2024020084,2024-10-19T19:00:00,2024-10-19,19:00:00,St. Louis Blues,STL,Carolina Hurricanes,CAR,4.0,3.0,True,False,False
+85,2024020085,2024-10-19T20:00:00,2024-10-19,20:00:00,Chicago Blackhawks,CHI,Buffalo Sabres,BUF,2.0,4.0,False,True,False
+86,2024020086,2024-10-19T21:00:00,2024-10-19,21:00:00,Utah Hockey Club,UTA,Boston Bruins,BOS,2.0,1.0,True,False,True
+87,2024020087,2024-10-19T22:00:00,2024-10-19,22:00:00,Seattle Kraken,SEA,Calgary Flames,CGY,2.0,1.0,True,False,True
+88,2024020088,2024-10-20T15:00:00,2024-10-20,15:00:00,Winnipeg Jets,WPG,Pittsburgh Penguins,PIT,6.0,3.0,True,False,False
+89,2024020089,2024-10-20T20:00:00,2024-10-20,20:00:00,San Jose Sharks,SJS,Colorado Avalanche,COL,1.0,4.0,False,True,False
+90,2024020090,2024-10-20T20:00:00,2024-10-20,20:00:00,Anaheim Ducks,ANA,Los Angeles Kings,LAK,1.0,4.0,False,True,False
+91,2024020091,2024-10-21T19:30:00,2024-10-21,19:30:00,Toronto Maple Leafs,TOR,Tampa Bay Lightning,TBL,5.0,2.0,True,False,False
+92,2024020092,2024-10-22T18:00:00,2024-10-22,18:00:00,Philadelphia Flyers,PHI,Washington Capitals,WSH,1.0,4.0,False,True,False
+93,2024020093,2024-10-22T18:30:00,2024-10-22,18:30:00,Florida Panthers,FLA,Minnesota Wild,MIN,1.0,5.0,False,True,False
+94,2024020094,2024-10-22T18:45:00,2024-10-22,18:45:00,New Jersey Devils,NJD,Tampa Bay Lightning,TBL,5.0,8.0,False,True,False
+95,2024020095,2024-10-22T19:00:00,2024-10-22,19:00:00,Buffalo Sabres,BUF,Dallas Stars,DAL,4.0,2.0,True,False,False
+96,2024020096,2024-10-22T19:15:00,2024-10-22,19:15:00,Montréal Canadiens,MTL,New York Rangers,NYR,2.0,7.0,False,True,False
+97,2024020097,2024-10-22T19:30:00,2024-10-22,19:30:00,Columbus Blue Jackets,CBJ,Toronto Maple Leafs,TOR,6.0,2.0,True,False,False
+98,2024020098,2024-10-22T19:45:00,2024-10-22,19:45:00,New York Islanders,NYI,Detroit Red Wings,DET,0.0,1.0,False,True,False
+99,2024020099,2024-10-22T20:00:00,2024-10-22,20:00:00,St. Louis Blues,STL,Winnipeg Jets,WPG,2.0,3.0,False,True,False
+100,2024020100,2024-10-22T20:15:00,2024-10-22,20:15:00,Chicago Blackhawks,CHI,Vancouver Canucks,VAN,3.0,6.0,False,True,False
+101,2024020101,2024-10-22T20:45:00,2024-10-22,20:45:00,Nashville Predators,NSH,Boston Bruins,BOS,4.0,0.0,True,False,False
+102,2024020102,2024-10-22T21:30:00,2024-10-22,21:30:00,Calgary Flames,CGY,Pittsburgh Penguins,PIT,4.0,3.0,True,False,True
+103,2024020103,2024-10-22T21:00:00,2024-10-22,21:00:00,Edmonton Oilers,EDM,Carolina Hurricanes,CAR,2.0,3.0,False,True,True
+104,2024020104,2024-10-22T21:15:00,2024-10-22,21:15:00,Utah Hockey Club,UTA,Ottawa Senators,OTT,0.0,4.0,False,True,False
+105,2024020105,2024-10-22T22:15:00,2024-10-22,22:15:00,Anaheim Ducks,ANA,San Jose Sharks,SJS,3.0,1.0,True,False,False
+106,2024020106,2024-10-22T20:30:00,2024-10-22,20:30:00,Seattle Kraken,SEA,Colorado Avalanche,COL,2.0,3.0,False,True,False
+107,2024020107,2024-10-22T23:00:00,2024-10-22,23:00:00,Vegas Golden Knights,VGK,Los Angeles Kings,LAK,6.0,1.0,True,False,False
+108,2024020108,2024-10-23T19:30:00,2024-10-23,19:30:00,Washington Capitals,WSH,Philadelphia Flyers,PHI,6.0,3.0,True,False,False
+109,2024020109,2024-10-24T19:00:00,2024-10-24,19:00:00,Boston Bruins,BOS,Dallas Stars,DAL,2.0,5.0,False,True,False
+110,2024020110,2024-10-24T19:00:00,2024-10-24,19:00:00,Toronto Maple Leafs,TOR,St. Louis Blues,STL,1.0,5.0,False,True,False
+111,2024020111,2024-10-24T19:00:00,2024-10-24,19:00:00,Detroit Red Wings,DET,New Jersey Devils,NJD,5.0,3.0,True,False,False
+112,2024020112,2024-10-24T19:00:00,2024-10-24,19:00:00,Tampa Bay Lightning,TBL,Minnesota Wild,MIN,2.0,4.0,False,True,False
+113,2024020113,2024-10-24T19:00:00,2024-10-24,19:00:00,New York Rangers,NYR,Florida Panthers,FLA,1.0,3.0,False,True,False
+114,2024020114,2024-10-24T21:00:00,2024-10-24,21:00:00,Calgary Flames,CGY,Carolina Hurricanes,CAR,2.0,4.0,False,True,False
+115,2024020115,2024-10-24T21:00:00,2024-10-24,21:00:00,Utah Hockey Club,UTA,Colorado Avalanche,COL,1.0,5.0,False,True,False
+116,2024020116,2024-10-24T22:00:00,2024-10-24,22:00:00,Seattle Kraken,SEA,Winnipeg Jets,WPG,3.0,4.0,False,True,True
+117,2024020117,2024-10-24T22:30:00,2024-10-24,22:30:00,Los Angeles Kings,LAK,San Jose Sharks,SJS,3.0,2.0,True,False,False
+118,2024020118,2024-10-25T18:00:00,2024-10-25,18:00:00,Vegas Golden Knights,VGK,Ottawa Senators,OTT,6.0,4.0,True,False,False
+119,2024020119,2024-10-25T19:00:00,2024-10-25,19:00:00,New Jersey Devils,NJD,New York Islanders,NYI,3.0,4.0,False,True,True
+120,2024020120,2024-10-25T20:30:00,2024-10-25,20:30:00,Chicago Blackhawks,CHI,Nashville Predators,NSH,2.0,3.0,False,True,False
+121,2024020121,2024-10-25T21:00:00,2024-10-25,21:00:00,Edmonton Oilers,EDM,Pittsburgh Penguins,PIT,4.0,0.0,True,False,False
+122,2024020122,2024-10-26T13:00:00,2024-10-26,13:00:00,Buffalo Sabres,BUF,Detroit Red Wings,DET,5.0,3.0,True,False,False
+123,2024020123,2024-10-26T13:00:00,2024-10-26,13:00:00,Philadelphia Flyers,PHI,Minnesota Wild,MIN,7.0,5.0,True,False,False
+124,2024020124,2024-10-26T16:00:00,2024-10-26,16:00:00,Los Angeles Kings,LAK,Utah Hockey Club,UTA,3.0,2.0,True,False,False
+125,2024020125,2024-10-26T19:00:00,2024-10-26,19:00:00,Boston Bruins,BOS,Toronto Maple Leafs,TOR,4.0,3.0,True,False,True
+126,2024020126,2024-10-26T19:00:00,2024-10-26,19:00:00,Montréal Canadiens,MTL,St. Louis Blues,STL,5.0,2.0,True,False,False
+127,2024020127,2024-10-26T19:00:00,2024-10-26,19:00:00,Tampa Bay Lightning,TBL,Washington Capitals,WSH,3.0,0.0,True,False,False
+128,2024020128,2024-10-26T19:00:00,2024-10-26,19:00:00,New York Rangers,NYR,Anaheim Ducks,ANA,2.0,1.0,True,False,False
+129,2024020129,2024-10-26T19:00:00,2024-10-26,19:00:00,Calgary Flames,CGY,Winnipeg Jets,WPG,3.0,5.0,False,True,False
+130,2024020130,2024-10-26T19:30:00,2024-10-26,19:30:00,New York Islanders,NYI,Florida Panthers,FLA,3.0,6.0,False,True,False
+131,2024020131,2024-10-26T20:00:00,2024-10-26,20:00:00,Nashville Predators,NSH,Columbus Blue Jackets,CBJ,4.0,3.0,True,False,True
+132,2024020132,2024-10-26T20:00:00,2024-10-26,20:00:00,Dallas Stars,DAL,Chicago Blackhawks,CHI,4.0,2.0,True,False,False
+133,2024020133,2024-10-26T22:00:00,2024-10-26,22:00:00,Vancouver Canucks,VAN,Pittsburgh Penguins,PIT,4.0,3.0,True,False,False
+134,2024020134,2024-10-26T22:00:00,2024-10-26,22:00:00,Vegas Golden Knights,VGK,San Jose Sharks,SJS,7.0,3.0,True,False,False
+135,2024020135,2024-10-26T22:00:00,2024-10-26,22:00:00,Seattle Kraken,SEA,Carolina Hurricanes,CAR,1.0,4.0,False,True,False
+136,2024020136,2024-10-27T18:00:00,2024-10-27,18:00:00,Detroit Red Wings,DET,Edmonton Oilers,EDM,2.0,3.0,False,True,True
+137,2024020137,2024-10-27T19:00:00,2024-10-27,19:00:00,New Jersey Devils,NJD,Anaheim Ducks,ANA,6.0,2.0,True,False,False
+138,2024020138,2024-10-27T19:00:00,2024-10-27,19:00:00,Philadelphia Flyers,PHI,Montréal Canadiens,MTL,3.0,4.0,False,True,False
+139,2024020139,2024-10-27T21:00:00,2024-10-27,21:00:00,Colorado Avalanche,COL,Ottawa Senators,OTT,5.0,4.0,True,False,False
+140,2024020140,2024-10-28T19:00:00,2024-10-28,19:00:00,Buffalo Sabres,BUF,Florida Panthers,FLA,2.0,5.0,False,True,False
+141,2024020141,2024-10-28T19:30:00,2024-10-28,19:30:00,Tampa Bay Lightning,TBL,Nashville Predators,NSH,3.0,2.0,True,False,True
+142,2024020142,2024-10-28T19:00:00,2024-10-28,19:00:00,Columbus Blue Jackets,CBJ,Edmonton Oilers,EDM,6.0,1.0,True,False,False
+143,2024020143,2024-10-28T19:30:00,2024-10-28,19:30:00,Winnipeg Jets,WPG,Toronto Maple Leafs,TOR,4.0,6.0,False,True,False
+144,2024020144,2024-10-28T21:00:00,2024-10-28,21:00:00,Colorado Avalanche,COL,Chicago Blackhawks,CHI,2.0,5.0,False,True,False
+145,2024020145,2024-10-28T21:00:00,2024-10-28,21:00:00,Utah Hockey Club,UTA,San Jose Sharks,SJS,4.0,5.0,False,True,True
+146,2024020146,2024-10-28T22:00:00,2024-10-28,22:00:00,Vancouver Canucks,VAN,Carolina Hurricanes,CAR,3.0,4.0,False,True,True
+147,2024020147,2024-10-28T22:00:00,2024-10-28,22:00:00,Vegas Golden Knights,VGK,Calgary Flames,CGY,5.0,0.0,True,False,False
+148,2024020148,2024-10-29T19:00:00,2024-10-29,19:00:00,Boston Bruins,BOS,Philadelphia Flyers,PHI,0.0,2.0,False,True,False
+149,2024020149,2024-10-29T19:00:00,2024-10-29,19:00:00,Montréal Canadiens,MTL,Seattle Kraken,SEA,2.0,8.0,False,True,False
+150,2024020150,2024-10-29T19:00:00,2024-10-29,19:00:00,Ottawa Senators,OTT,St. Louis Blues,STL,8.0,1.0,True,False,False
+151,2024020151,2024-10-29T19:30:00,2024-10-29,19:30:00,Washington Capitals,WSH,New York Rangers,NYR,5.0,3.0,True,False,False
+152,2024020152,2024-10-29T19:00:00,2024-10-29,19:00:00,New York Islanders,NYI,Anaheim Ducks,ANA,1.0,3.0,False,True,False
+153,2024020153,2024-10-29T19:00:00,2024-10-29,19:00:00,Pittsburgh Penguins,PIT,Minnesota Wild,MIN,3.0,5.0,False,True,False
+154,2024020154,2024-10-29T22:00:00,2024-10-29,22:00:00,San Jose Sharks,SJS,Los Angeles Kings,LAK,4.0,2.0,True,False,False
+155,2024020155,2024-10-30T19:00:00,2024-10-30,19:00:00,Columbus Blue Jackets,CBJ,New York Islanders,NYI,2.0,0.0,True,False,False
+156,2024020156,2024-10-30T19:30:00,2024-10-30,19:30:00,Detroit Red Wings,DET,Winnipeg Jets,WPG,2.0,6.0,False,True,False
+157,2024020157,2024-10-30T21:00:00,2024-10-30,21:00:00,Colorado Avalanche,COL,Tampa Bay Lightning,TBL,2.0,5.0,False,True,False
+158,2024020158,2024-10-30T21:30:00,2024-10-30,21:30:00,Utah Hockey Club,UTA,Calgary Flames,CGY,5.0,1.0,True,False,False
+159,2024020159,2024-10-30T22:30:00,2024-10-30,22:30:00,Vancouver Canucks,VAN,New Jersey Devils,NJD,0.0,6.0,False,True,False
+160,2024020160,2024-10-30T22:00:00,2024-10-30,22:00:00,Los Angeles Kings,LAK,Vegas Golden Knights,VGK,6.0,3.0,True,False,False
+161,2024020161,2024-10-31T19:00:00,2024-10-31,19:00:00,Toronto Maple Leafs,TOR,Seattle Kraken,SEA,4.0,1.0,True,False,False
+162,2024020162,2024-10-31T19:00:00,2024-10-31,19:00:00,Philadelphia Flyers,PHI,St. Louis Blues,STL,2.0,1.0,True,False,False
+163,2024020163,2024-10-31T19:00:00,2024-10-31,19:00:00,Pittsburgh Penguins,PIT,Anaheim Ducks,ANA,2.0,1.0,True,False,True
+164,2024020164,2024-10-31T19:00:00,2024-10-31,19:00:00,Washington Capitals,WSH,Montréal Canadiens,MTL,6.0,3.0,True,False,False
+165,2024020165,2024-10-31T19:00:00,2024-10-31,19:00:00,Carolina Hurricanes,CAR,Boston Bruins,BOS,8.0,2.0,True,False,False
+166,2024020166,2024-10-31T20:00:00,2024-10-31,20:00:00,Nashville Predators,NSH,Edmonton Oilers,EDM,1.0,5.0,False,True,False
+167,2024020167,2024-10-31T22:30:00,2024-10-31,22:30:00,San Jose Sharks,SJS,Chicago Blackhawks,CHI,3.0,2.0,True,False,False
+168,2024020168,2024-11-01T14:00:00,2024-11-01,14:00:00,Dallas Stars,DAL,Florida Panthers,FLA,4.0,6.0,False,True,False
+169,2024020169,2024-11-01T19:00:00,2024-11-01,19:00:00,Buffalo Sabres,BUF,New York Islanders,NYI,3.0,4.0,False,True,False
+170,2024020170,2024-11-01T19:00:00,2024-11-01,19:00:00,New York Rangers,NYR,Ottawa Senators,OTT,2.0,1.0,True,False,False
+171,2024020171,2024-11-01T19:00:00,2024-11-01,19:00:00,Columbus Blue Jackets,CBJ,Winnipeg Jets,WPG,2.0,6.0,False,True,False
+172,2024020172,2024-11-01T20:00:00,2024-11-01,20:00:00,Minnesota Wild,MIN,Tampa Bay Lightning,TBL,5.0,3.0,True,False,False
+173,2024020173,2024-11-01T21:00:00,2024-11-01,21:00:00,Calgary Flames,CGY,New Jersey Devils,NJD,3.0,0.0,True,False,False
+174,2024020174,2024-11-02T12:00:00,2024-11-02,12:00:00,Florida Panthers,FLA,Dallas Stars,DAL,4.0,2.0,True,False,False
+175,2024020175,2024-11-02T13:00:00,2024-11-02,13:00:00,Philadelphia Flyers,PHI,Boston Bruins,BOS,0.0,3.0,False,True,False
+176,2024020176,2024-11-02T16:00:00,2024-11-02,16:00:00,Los Angeles Kings,LAK,Chicago Blackhawks,CHI,3.0,4.0,False,True,True
+177,2024020177,2024-11-02T17:00:00,2024-11-02,17:00:00,Washington Capitals,WSH,Columbus Blue Jackets,CBJ,7.0,2.0,True,False,False
+178,2024020178,2024-11-02T19:00:00,2024-11-02,19:00:00,Ottawa Senators,OTT,Seattle Kraken,SEA,3.0,0.0,True,False,False
+179,2024020179,2024-11-02T19:00:00,2024-11-02,19:00:00,Detroit Red Wings,DET,Buffalo Sabres,BUF,2.0,1.0,True,False,False
+180,2024020180,2024-11-02T19:00:00,2024-11-02,19:00:00,Pittsburgh Penguins,PIT,Montréal Canadiens,MTL,3.0,1.0,True,False,False
+181,2024020181,2024-11-02T19:00:00,2024-11-02,19:00:00,St. Louis Blues,STL,Toronto Maple Leafs,TOR,4.0,2.0,True,False,False
+182,2024020182,2024-11-02T20:00:00,2024-11-02,20:00:00,Nashville Predators,NSH,Colorado Avalanche,COL,5.0,2.0,True,False,False
+183,2024020183,2024-11-02T22:00:00,2024-11-02,22:00:00,Vegas Golden Knights,VGK,Utah Hockey Club,UTA,4.0,3.0,True,False,True
+184,2024020184,2024-11-02T22:00:00,2024-11-02,22:00:00,San Jose Sharks,SJS,Vancouver Canucks,VAN,2.0,3.0,False,True,False
+185,2024020185,2024-11-03T13:00:00,2024-11-03,13:00:00,New York Rangers,NYR,New York Islanders,NYI,5.0,2.0,True,False,False
+186,2024020186,2024-11-03T15:00:00,2024-11-03,15:00:00,Winnipeg Jets,WPG,Tampa Bay Lightning,TBL,7.0,4.0,True,False,False
+187,2024020187,2024-11-03T17:00:00,2024-11-03,17:00:00,Boston Bruins,BOS,Seattle Kraken,SEA,2.0,0.0,True,False,False
+188,2024020188,2024-11-03T17:00:00,2024-11-03,17:00:00,Carolina Hurricanes,CAR,Washington Capitals,WSH,4.0,2.0,True,False,False
+189,2024020189,2024-11-03T18:00:00,2024-11-03,18:00:00,Minnesota Wild,MIN,Toronto Maple Leafs,TOR,2.0,1.0,True,False,True
+190,2024020190,2024-11-03T20:00:00,2024-11-03,20:00:00,Calgary Flames,CGY,Edmonton Oilers,EDM,2.0,4.0,False,True,False
+191,2024020191,2024-11-03T20:00:00,2024-11-03,20:00:00,Anaheim Ducks,ANA,Chicago Blackhawks,CHI,2.0,4.0,False,True,False
+192,2024020192,2024-11-04T20:00:00,2024-11-04,20:00:00,Nashville Predators,NSH,Los Angeles Kings,LAK,0.0,3.0,False,True,False
+193,2024020193,2024-11-04T20:30:00,2024-11-04,20:30:00,Edmonton Oilers,EDM,New Jersey Devils,NJD,0.0,3.0,False,True,False
+194,2024020194,2024-11-05T19:00:00,2024-11-05,19:00:00,Buffalo Sabres,BUF,Ottawa Senators,OTT,5.0,1.0,True,False,False
+195,2024020195,2024-11-05T19:00:00,2024-11-05,19:00:00,Toronto Maple Leafs,TOR,Boston Bruins,BOS,4.0,0.0,True,False,False
+196,2024020196,2024-11-05T19:00:00,2024-11-05,19:00:00,Montréal Canadiens,MTL,Calgary Flames,CGY,2.0,3.0,False,True,True
+197,2024020197,2024-11-05T19:00:00,2024-11-05,19:00:00,Carolina Hurricanes,CAR,Philadelphia Flyers,PHI,6.0,4.0,True,False,False
+198,2024020198,2024-11-05T19:30:00,2024-11-05,19:30:00,New York Islanders,NYI,Pittsburgh Penguins,PIT,4.0,3.0,True,False,True
+199,2024020199,2024-11-05T20:00:00,2024-11-05,20:00:00,St. Louis Blues,STL,Tampa Bay Lightning,TBL,3.0,2.0,True,False,False
+200,2024020200,2024-11-05T20:00:00,2024-11-05,20:00:00,Minnesota Wild,MIN,Los Angeles Kings,LAK,1.0,5.0,False,True,False
+201,2024020201,2024-11-05T20:00:00,2024-11-05,20:00:00,Winnipeg Jets,WPG,Utah Hockey Club,UTA,3.0,0.0,True,False,False
+202,2024020202,2024-11-05T21:00:00,2024-11-05,21:00:00,Colorado Avalanche,COL,Seattle Kraken,SEA,6.0,3.0,True,False,False
+203,2024020203,2024-11-05T22:00:00,2024-11-05,22:00:00,Anaheim Ducks,ANA,Vancouver Canucks,VAN,1.0,5.0,False,True,False
+204,2024020204,2024-11-05T22:30:00,2024-11-05,22:30:00,San Jose Sharks,SJS,Columbus Blue Jackets,CBJ,2.0,1.0,True,False,True
+205,2024020205,2024-11-06T19:00:00,2024-11-06,19:00:00,Washington Capitals,WSH,Nashville Predators,NSH,3.0,2.0,True,False,False
+206,2024020206,2024-11-06T20:00:00,2024-11-06,20:00:00,Chicago Blackhawks,CHI,Detroit Red Wings,DET,1.0,4.0,False,True,False
+207,2024020207,2024-11-06T20:30:00,2024-11-06,20:30:00,Edmonton Oilers,EDM,Vegas Golden Knights,VGK,2.0,4.0,False,True,False
+208,2024020208,2024-11-07T19:00:00,2024-11-07,19:00:00,Boston Bruins,BOS,Calgary Flames,CGY,4.0,3.0,True,False,True
+209,2024020209,2024-11-07T19:00:00,2024-11-07,19:00:00,Ottawa Senators,OTT,New York Islanders,NYI,2.0,4.0,False,True,False
+210,2024020210,2024-11-07T19:30:00,2024-11-07,19:30:00,Tampa Bay Lightning,TBL,Philadelphia Flyers,PHI,1.0,2.0,False,True,True
+211,2024020211,2024-11-07T19:00:00,2024-11-07,19:00:00,Florida Panthers,FLA,Nashville Predators,NSH,6.0,2.0,True,False,False
+212,2024020212,2024-11-07T19:00:00,2024-11-07,19:00:00,New Jersey Devils,NJD,Montréal Canadiens,MTL,5.0,3.0,True,False,False
+213,2024020213,2024-11-07T19:00:00,2024-11-07,19:00:00,New York Rangers,NYR,Buffalo Sabres,BUF,1.0,6.0,False,True,False
+214,2024020214,2024-11-07T19:00:00,2024-11-07,19:00:00,Carolina Hurricanes,CAR,Pittsburgh Penguins,PIT,5.0,1.0,True,False,False
+215,2024020215,2024-11-07T20:00:00,2024-11-07,20:00:00,St. Louis Blues,STL,Utah Hockey Club,UTA,2.0,4.0,False,True,False
+216,2024020216,2024-11-07T20:00:00,2024-11-07,20:00:00,Dallas Stars,DAL,Chicago Blackhawks,CHI,3.0,1.0,True,False,False
+217,2024020217,2024-11-07T20:00:00,2024-11-07,20:00:00,Winnipeg Jets,WPG,Colorado Avalanche,COL,1.0,0.0,True,False,False
+218,2024020218,2024-11-07T22:30:00,2024-11-07,22:30:00,Los Angeles Kings,LAK,Vancouver Canucks,VAN,2.0,4.0,False,True,False
+219,2024020219,2024-11-07T22:30:00,2024-11-07,22:30:00,San Jose Sharks,SJS,Minnesota Wild,MIN,2.0,5.0,False,True,False
+220,2024020220,2024-11-08T19:00:00,2024-11-08,19:00:00,Toronto Maple Leafs,TOR,Detroit Red Wings,DET,3.0,1.0,True,False,False
+221,2024020221,2024-11-08T19:30:00,2024-11-08,19:30:00,Washington Capitals,WSH,Pittsburgh Penguins,PIT,2.0,4.0,False,True,False
+222,2024020222,2024-11-08T22:00:00,2024-11-08,22:00:00,Anaheim Ducks,ANA,Minnesota Wild,MIN,2.0,5.0,False,True,False
+223,2024020223,2024-11-08T22:00:00,2024-11-08,22:00:00,Seattle Kraken,SEA,Vegas Golden Knights,VGK,4.0,3.0,True,False,True
+224,2024020224,2024-11-09T13:00:00,2024-11-09,13:00:00,Buffalo Sabres,BUF,Calgary Flames,CGY,3.0,2.0,True,False,True
+225,2024020225,2024-11-09T18:00:00,2024-11-09,18:00:00,Florida Panthers,FLA,Philadelphia Flyers,PHI,4.0,3.0,True,False,True
+226,2024020226,2024-11-09T19:00:00,2024-11-09,19:00:00,Boston Bruins,BOS,Ottawa Senators,OTT,2.0,3.0,False,True,True
+227,2024020227,2024-11-09T19:00:00,2024-11-09,19:00:00,Toronto Maple Leafs,TOR,Montréal Canadiens,MTL,4.0,1.0,True,False,False
+228,2024020228,2024-11-09T19:00:00,2024-11-09,19:00:00,Detroit Red Wings,DET,New York Rangers,NYR,0.0,4.0,False,True,False
+229,2024020229,2024-11-09T19:00:00,2024-11-09,19:00:00,St. Louis Blues,STL,Washington Capitals,WSH,1.0,8.0,False,True,False
+230,2024020230,2024-11-09T15:00:00,2024-11-09,15:00:00,Winnipeg Jets,WPG,Dallas Stars,DAL,4.0,1.0,True,False,False
+231,2024020231,2024-11-09T19:30:00,2024-11-09,19:30:00,New York Islanders,NYI,New Jersey Devils,NJD,3.0,4.0,False,True,True
+232,2024020232,2024-11-09T20:00:00,2024-11-09,20:00:00,Nashville Predators,NSH,Utah Hockey Club,UTA,4.0,0.0,True,False,False
+233,2024020233,2024-11-09T21:00:00,2024-11-09,21:00:00,Colorado Avalanche,COL,Carolina Hurricanes,CAR,6.0,4.0,True,False,False
+234,2024020234,2024-11-09T21:00:00,2024-11-09,21:00:00,Los Angeles Kings,LAK,Columbus Blue Jackets,CBJ,5.0,2.0,True,False,False
+235,2024020235,2024-11-09T22:00:00,2024-11-09,22:00:00,Vancouver Canucks,VAN,Edmonton Oilers,EDM,3.0,7.0,False,True,False
+236,2024020236,2024-11-10T19:00:00,2024-11-10,19:00:00,New Jersey Devils,NJD,San Jose Sharks,SJS,0.0,1.0,False,True,False
+237,2024020237,2024-11-10T19:00:00,2024-11-10,19:00:00,Chicago Blackhawks,CHI,Minnesota Wild,MIN,2.0,1.0,True,False,True
+238,2024020238,2024-11-10T20:00:00,2024-11-10,20:00:00,Anaheim Ducks,ANA,Columbus Blue Jackets,CBJ,4.0,2.0,True,False,False
+239,2024020239,2024-11-11T12:30:00,2024-11-11,12:30:00,Buffalo Sabres,BUF,Montréal Canadiens,MTL,5.0,7.0,False,True,False
+240,2024020240,2024-11-11T19:00:00,2024-11-11,19:00:00,Philadelphia Flyers,PHI,San Jose Sharks,SJS,4.0,3.0,True,False,True
+241,2024020241,2024-11-11T19:00:00,2024-11-11,19:00:00,Pittsburgh Penguins,PIT,Dallas Stars,DAL,1.0,7.0,False,True,False
+242,2024020242,2024-11-11T20:30:00,2024-11-11,20:30:00,Calgary Flames,CGY,Los Angeles Kings,LAK,3.0,1.0,True,False,False
+243,2024020243,2024-11-11T21:00:00,2024-11-11,21:00:00,Colorado Avalanche,COL,Nashville Predators,NSH,3.0,2.0,True,False,True
+244,2024020244,2024-11-11T22:00:00,2024-11-11,22:00:00,Vegas Golden Knights,VGK,Carolina Hurricanes,CAR,2.0,5.0,False,True,False
+245,2024020245,2024-11-12T19:00:00,2024-11-12,19:00:00,Toronto Maple Leafs,TOR,Ottawa Senators,OTT,0.0,3.0,False,True,False
+246,2024020246,2024-11-12T19:30:00,2024-11-12,19:30:00,Florida Panthers,FLA,New Jersey Devils,NJD,1.0,4.0,False,True,False
+247,2024020247,2024-11-12T19:00:00,2024-11-12,19:00:00,New York Rangers,NYR,Winnipeg Jets,WPG,3.0,6.0,False,True,False
+248,2024020248,2024-11-12T20:00:00,2024-11-12,20:00:00,St. Louis Blues,STL,Boston Bruins,BOS,2.0,3.0,False,True,False
+249,2024020249,2024-11-12T21:00:00,2024-11-12,21:00:00,Edmonton Oilers,EDM,New York Islanders,NYI,4.0,3.0,True,False,True
+250,2024020250,2024-11-12T22:00:00,2024-11-12,22:00:00,Vancouver Canucks,VAN,Calgary Flames,CGY,3.0,1.0,True,False,False
+251,2024020251,2024-11-12T22:00:00,2024-11-12,22:00:00,Seattle Kraken,SEA,Columbus Blue Jackets,CBJ,5.0,2.0,True,False,False
+252,2024020252,2024-11-13T19:30:00,2024-11-13,19:30:00,Pittsburgh Penguins,PIT,Detroit Red Wings,DET,2.0,3.0,False,True,True
+253,2024020253,2024-11-13T19:30:00,2024-11-13,19:30:00,Washington Capitals,WSH,Toronto Maple Leafs,TOR,3.0,4.0,False,True,True
+254,2024020254,2024-11-13T21:00:00,2024-11-13,21:00:00,Utah Hockey Club,UTA,Carolina Hurricanes,CAR,4.0,1.0,True,False,False
+255,2024020255,2024-11-13T22:00:00,2024-11-13,22:00:00,Colorado Avalanche,COL,Los Angeles Kings,LAK,4.0,2.0,True,False,False
+256,2024020256,2024-11-13T22:00:00,2024-11-13,22:00:00,Anaheim Ducks,ANA,Vegas Golden Knights,VGK,2.0,3.0,False,True,False
+257,2024020257,2024-11-14T19:30:00,2024-11-14,19:30:00,Buffalo Sabres,BUF,St. Louis Blues,STL,4.0,3.0,True,False,True
+258,2024020258,2024-11-14T19:00:00,2024-11-14,19:00:00,Ottawa Senators,OTT,Philadelphia Flyers,PHI,4.0,5.0,False,True,True
+259,2024020259,2024-11-14T19:00:00,2024-11-14,19:00:00,Tampa Bay Lightning,TBL,Winnipeg Jets,WPG,4.0,1.0,True,False,False
+260,2024020260,2024-11-14T19:00:00,2024-11-14,19:00:00,Florida Panthers,FLA,New Jersey Devils,NJD,2.0,6.0,False,True,False
+261,2024020261,2024-11-14T19:00:00,2024-11-14,19:00:00,New York Rangers,NYR,San Jose Sharks,SJS,3.0,2.0,True,False,False
+262,2024020262,2024-11-14T20:00:00,2024-11-14,20:00:00,Dallas Stars,DAL,Boston Bruins,BOS,7.0,2.0,True,False,False
+263,2024020263,2024-11-14T20:00:00,2024-11-14,20:00:00,Minnesota Wild,MIN,Montréal Canadiens,MTL,3.0,0.0,True,False,False
+264,2024020264,2024-11-14T21:00:00,2024-11-14,21:00:00,Edmonton Oilers,EDM,Nashville Predators,NSH,3.0,2.0,True,False,True
+265,2024020265,2024-11-14T22:00:00,2024-11-14,22:00:00,Vancouver Canucks,VAN,New York Islanders,NYI,2.0,5.0,False,True,False
+266,2024020266,2024-11-14T22:00:00,2024-11-14,22:00:00,Seattle Kraken,SEA,Chicago Blackhawks,CHI,3.0,1.0,True,False,False
+267,2024020267,2024-11-15T19:00:00,2024-11-15,19:00:00,Columbus Blue Jackets,CBJ,Pittsburgh Penguins,PIT,6.0,2.0,True,False,False
+268,2024020268,2024-11-15T21:00:00,2024-11-15,21:00:00,Colorado Avalanche,COL,Washington Capitals,WSH,2.0,5.0,False,True,False
+269,2024020269,2024-11-15T21:00:00,2024-11-15,21:00:00,Calgary Flames,CGY,Nashville Predators,NSH,2.0,0.0,True,False,False
+270,2024020270,2024-11-15T21:00:00,2024-11-15,21:00:00,Utah Hockey Club,UTA,Vegas Golden Knights,VGK,2.0,4.0,False,True,False
+271,2024020271,2024-11-15T22:00:00,2024-11-15,22:00:00,Anaheim Ducks,ANA,Detroit Red Wings,DET,6.0,4.0,True,False,False
+272,2024020272,2024-11-16T13:00:00,2024-11-16,13:00:00,Boston Bruins,BOS,St. Louis Blues,STL,2.0,3.0,False,True,True
+273,2024020273,2024-11-16T16:00:00,2024-11-16,16:00:00,Seattle Kraken,SEA,New York Islanders,NYI,3.0,2.0,True,False,False
+274,2024020274,2024-11-16T19:00:00,2024-11-16,19:00:00,Toronto Maple Leafs,TOR,Edmonton Oilers,EDM,4.0,3.0,True,False,True
+275,2024020275,2024-11-16T19:00:00,2024-11-16,19:00:00,Montréal Canadiens,MTL,Columbus Blue Jackets,CBJ,5.0,1.0,True,False,False
+276,2024020276,2024-11-16T19:00:00,2024-11-16,19:00:00,Tampa Bay Lightning,TBL,New Jersey Devils,NJD,4.0,0.0,True,False,False
+277,2024020277,2024-11-16T19:00:00,2024-11-16,19:00:00,Florida Panthers,FLA,Winnipeg Jets,WPG,5.0,0.0,True,False,False
+278,2024020278,2024-11-16T19:00:00,2024-11-16,19:00:00,Philadelphia Flyers,PHI,Buffalo Sabres,BUF,5.0,2.0,True,False,False
+279,2024020279,2024-11-16T19:00:00,2024-11-16,19:00:00,Pittsburgh Penguins,PIT,San Jose Sharks,SJS,4.0,3.0,True,False,True
+280,2024020280,2024-11-16T19:00:00,2024-11-16,19:00:00,Carolina Hurricanes,CAR,Ottawa Senators,OTT,4.0,0.0,True,False,False
+281,2024020281,2024-11-16T20:00:00,2024-11-16,20:00:00,Minnesota Wild,MIN,Dallas Stars,DAL,1.0,2.0,False,True,False
+282,2024020282,2024-11-16T20:00:00,2024-11-16,20:00:00,Los Angeles Kings,LAK,Detroit Red Wings,DET,4.0,1.0,True,False,False
+283,2024020283,2024-11-16T22:00:00,2024-11-16,22:00:00,Vancouver Canucks,VAN,Chicago Blackhawks,CHI,4.0,1.0,True,False,False
+284,2024020284,2024-11-17T17:00:00,2024-11-17,17:00:00,Carolina Hurricanes,CAR,St. Louis Blues,STL,4.0,1.0,True,False,False
+285,2024020285,2024-11-17T22:00:00,2024-11-17,22:00:00,Vancouver Canucks,VAN,Nashville Predators,NSH,3.0,5.0,False,True,False
+286,2024020286,2024-11-17T20:00:00,2024-11-17,20:00:00,Vegas Golden Knights,VGK,Washington Capitals,WSH,2.0,5.0,False,True,False
+287,2024020287,2024-11-17T21:00:00,2024-11-17,21:00:00,Seattle Kraken,SEA,New York Rangers,NYR,0.0,2.0,False,True,False
+288,2024020288,2024-11-18T19:00:00,2024-11-18,19:00:00,Boston Bruins,BOS,Columbus Blue Jackets,CBJ,1.0,5.0,False,True,False
+289,2024020289,2024-11-18T19:00:00,2024-11-18,19:00:00,Philadelphia Flyers,PHI,Colorado Avalanche,COL,2.0,3.0,False,True,False
+290,2024020290,2024-11-18T19:30:00,2024-11-18,19:30:00,Montréal Canadiens,MTL,Edmonton Oilers,EDM,3.0,0.0,True,False,False
+291,2024020291,2024-11-18T20:00:00,2024-11-18,20:00:00,Dallas Stars,DAL,Anaheim Ducks,ANA,2.0,4.0,False,True,False
+292,2024020292,2024-11-18T21:00:00,2024-11-18,21:00:00,Utah Hockey Club,UTA,Washington Capitals,WSH,2.0,6.0,False,True,False
+293,2024020293,2024-11-18T22:30:00,2024-11-18,22:30:00,San Jose Sharks,SJS,Detroit Red Wings,DET,5.0,4.0,True,False,True
+294,2024020294,2024-11-19T19:00:00,2024-11-19,19:00:00,Ottawa Senators,OTT,Edmonton Oilers,EDM,2.0,5.0,False,True,False
+295,2024020295,2024-11-19T19:00:00,2024-11-19,19:00:00,Pittsburgh Penguins,PIT,Tampa Bay Lightning,TBL,2.0,3.0,False,True,True
+296,2024020296,2024-11-19T20:00:00,2024-11-19,20:00:00,St. Louis Blues,STL,Minnesota Wild,MIN,2.0,4.0,False,True,False
+297,2024020297,2024-11-19T20:00:00,2024-11-19,20:00:00,Winnipeg Jets,WPG,Florida Panthers,FLA,6.0,3.0,True,False,False
+298,2024020298,2024-11-19T20:30:00,2024-11-19,20:30:00,Chicago Blackhawks,CHI,Anaheim Ducks,ANA,2.0,3.0,False,True,False
+299,2024020299,2024-11-19T21:00:00,2024-11-19,21:00:00,Calgary Flames,CGY,New York Islanders,NYI,2.0,1.0,True,False,True
+300,2024020300,2024-11-19T22:00:00,2024-11-19,22:00:00,Vancouver Canucks,VAN,New York Rangers,NYR,3.0,4.0,False,True,False
+301,2024020301,2024-11-20T19:30:00,2024-11-20,19:30:00,Toronto Maple Leafs,TOR,Vegas Golden Knights,VGK,3.0,0.0,True,False,False
+302,2024020302,2024-11-20T19:30:00,2024-11-20,19:30:00,Philadelphia Flyers,PHI,Carolina Hurricanes,CAR,1.0,4.0,False,True,False
+303,2024020303,2024-11-20T20:00:00,2024-11-20,20:00:00,Dallas Stars,DAL,San Jose Sharks,SJS,5.0,2.0,True,False,False
+304,2024020304,2024-11-20T22:00:00,2024-11-20,22:00:00,Seattle Kraken,SEA,Nashville Predators,NSH,3.0,0.0,True,False,False
+305,2024020305,2024-11-20T22:30:00,2024-11-20,22:30:00,Los Angeles Kings,LAK,Buffalo Sabres,BUF,0.0,1.0,False,True,False
+306,2024020306,2024-11-21T19:00:00,2024-11-21,19:00:00,Boston Bruins,BOS,Utah Hockey Club,UTA,1.0,0.0,True,False,False
+307,2024020307,2024-11-21T19:00:00,2024-11-21,19:00:00,Ottawa Senators,OTT,Vegas Golden Knights,VGK,2.0,3.0,False,True,False
+308,2024020308,2024-11-21T19:00:00,2024-11-21,19:00:00,Detroit Red Wings,DET,New York Islanders,NYI,2.0,1.0,True,False,False
+309,2024020309,2024-11-21T19:00:00,2024-11-21,19:00:00,New Jersey Devils,NJD,Carolina Hurricanes,CAR,4.0,2.0,True,False,False
+310,2024020310,2024-11-21T19:00:00,2024-11-21,19:00:00,Washington Capitals,WSH,Colorado Avalanche,COL,1.0,2.0,False,True,False
+311,2024020311,2024-11-21T19:00:00,2024-11-21,19:00:00,Columbus Blue Jackets,CBJ,Tampa Bay Lightning,TBL,7.0,6.0,True,False,True
+312,2024020312,2024-11-21T20:00:00,2024-11-21,20:00:00,St. Louis Blues,STL,San Jose Sharks,SJS,3.0,2.0,True,False,True
+313,2024020313,2024-11-21T20:30:00,2024-11-21,20:30:00,Chicago Blackhawks,CHI,Florida Panthers,FLA,3.0,1.0,True,False,False
+314,2024020314,2024-11-21T21:00:00,2024-11-21,21:00:00,Calgary Flames,CGY,New York Rangers,NYR,3.0,2.0,True,False,False
+315,2024020315,2024-11-21T21:00:00,2024-11-21,21:00:00,Edmonton Oilers,EDM,Minnesota Wild,MIN,3.0,5.0,False,True,False
+316,2024020316,2024-11-22T19:00:00,2024-11-22,19:00:00,Pittsburgh Penguins,PIT,Winnipeg Jets,WPG,1.0,4.0,False,True,False
+317,2024020317,2024-11-22T22:00:00,2024-11-22,22:00:00,Anaheim Ducks,ANA,Buffalo Sabres,BUF,2.0,3.0,False,True,True
+318,2024020318,2024-11-23T13:00:00,2024-11-23,13:00:00,Philadelphia Flyers,PHI,Chicago Blackhawks,CHI,3.0,2.0,True,False,True
+319,2024020319,2024-11-23T16:00:00,2024-11-23,16:00:00,Calgary Flames,CGY,Minnesota Wild,MIN,4.0,3.0,True,False,True
+320,2024020320,2024-11-23T16:00:00,2024-11-23,16:00:00,Los Angeles Kings,LAK,Seattle Kraken,SEA,2.0,1.0,True,False,False
+321,2024020321,2024-11-23T18:00:00,2024-11-23,18:00:00,Florida Panthers,FLA,Colorado Avalanche,COL,4.0,7.0,False,True,False
+322,2024020322,2024-11-23T19:00:00,2024-11-23,19:00:00,Montréal Canadiens,MTL,Vegas Golden Knights,VGK,2.0,6.0,False,True,False
+323,2024020323,2024-11-23T19:00:00,2024-11-23,19:00:00,Ottawa Senators,OTT,Vancouver Canucks,VAN,3.0,4.0,False,True,False
+324,2024020324,2024-11-23T19:00:00,2024-11-23,19:00:00,Detroit Red Wings,DET,Boston Bruins,BOS,1.0,2.0,False,True,False
+325,2024020325,2024-11-23T19:00:00,2024-11-23,19:00:00,Tampa Bay Lightning,TBL,Dallas Stars,DAL,2.0,4.0,False,True,False
+326,2024020326,2024-11-23T19:00:00,2024-11-23,19:00:00,Pittsburgh Penguins,PIT,Utah Hockey Club,UTA,1.0,6.0,False,True,False
+327,2024020327,2024-11-23T19:00:00,2024-11-23,19:00:00,Washington Capitals,WSH,New Jersey Devils,NJD,2.0,3.0,False,True,False
+328,2024020328,2024-11-23T19:00:00,2024-11-23,19:00:00,Columbus Blue Jackets,CBJ,Carolina Hurricanes,CAR,5.0,4.0,True,False,True
+329,2024020329,2024-11-23T19:00:00,2024-11-23,19:00:00,Nashville Predators,NSH,Winnipeg Jets,WPG,4.0,1.0,True,False,False
+330,2024020330,2024-11-23T19:30:00,2024-11-23,19:30:00,New York Islanders,NYI,St. Louis Blues,STL,3.0,1.0,True,False,False
+331,2024020331,2024-11-23T20:00:00,2024-11-23,20:00:00,San Jose Sharks,SJS,Buffalo Sabres,BUF,2.0,4.0,False,True,False
+332,2024020332,2024-11-23T22:00:00,2024-11-23,22:00:00,Edmonton Oilers,EDM,New York Rangers,NYR,6.0,2.0,True,False,False
+333,2024020333,2024-11-24T19:00:00,2024-11-24,19:00:00,Toronto Maple Leafs,TOR,Utah Hockey Club,UTA,3.0,2.0,True,False,False
+334,2024020334,2024-11-25T19:00:00,2024-11-25,19:00:00,Tampa Bay Lightning,TBL,Colorado Avalanche,COL,8.0,2.0,True,False,False
+335,2024020335,2024-11-25T19:00:00,2024-11-25,19:00:00,Florida Panthers,FLA,Washington Capitals,WSH,1.0,4.0,False,True,False
+336,2024020336,2024-11-25T19:00:00,2024-11-25,19:00:00,New Jersey Devils,NJD,Nashville Predators,NSH,5.0,2.0,True,False,False
+337,2024020337,2024-11-25T19:00:00,2024-11-25,19:00:00,New York Rangers,NYR,St. Louis Blues,STL,2.0,5.0,False,True,False
+338,2024020338,2024-11-25T19:00:00,2024-11-25,19:00:00,Philadelphia Flyers,PHI,Vegas Golden Knights,VGK,4.0,5.0,False,True,True
+339,2024020339,2024-11-25T19:00:00,2024-11-25,19:00:00,Carolina Hurricanes,CAR,Dallas Stars,DAL,6.0,4.0,True,False,False
+340,2024020340,2024-11-25T19:30:00,2024-11-25,19:30:00,Ottawa Senators,OTT,Calgary Flames,CGY,4.0,3.0,True,False,False
+341,2024020341,2024-11-25T19:30:00,2024-11-25,19:30:00,New York Islanders,NYI,Detroit Red Wings,DET,2.0,4.0,False,True,False
+342,2024020342,2024-11-25T20:00:00,2024-11-25,20:00:00,Minnesota Wild,MIN,Winnipeg Jets,WPG,1.0,4.0,False,True,False
+343,2024020343,2024-11-25T22:00:00,2024-11-25,22:00:00,Anaheim Ducks,ANA,Seattle Kraken,SEA,2.0,3.0,False,True,False
+344,2024020344,2024-11-25T22:30:00,2024-11-25,22:30:00,San Jose Sharks,SJS,Los Angeles Kings,LAK,7.0,2.0,True,False,False
+345,2024020345,2024-11-26T19:00:00,2024-11-26,19:00:00,Boston Bruins,BOS,Vancouver Canucks,VAN,0.0,2.0,False,True,False
+346,2024020346,2024-11-26T19:00:00,2024-11-26,19:00:00,Montréal Canadiens,MTL,Utah Hockey Club,UTA,2.0,3.0,False,True,True
+347,2024020347,2024-11-27T19:00:00,2024-11-27,19:00:00,Buffalo Sabres,BUF,Minnesota Wild,MIN,0.0,1.0,False,True,False
+348,2024020348,2024-11-27T19:00:00,2024-11-27,19:00:00,New Jersey Devils,NJD,St. Louis Blues,STL,0.0,3.0,False,True,False
+349,2024020349,2024-11-27T19:00:00,2024-11-27,19:00:00,Carolina Hurricanes,CAR,New York Rangers,NYR,4.0,3.0,True,False,False
+350,2024020350,2024-11-27T19:30:00,2024-11-27,19:30:00,Detroit Red Wings,DET,Calgary Flames,CGY,2.0,1.0,True,False,True
+351,2024020351,2024-11-27T19:30:00,2024-11-27,19:30:00,Tampa Bay Lightning,TBL,Washington Capitals,WSH,4.0,5.0,False,True,False
+352,2024020352,2024-11-27T19:30:00,2024-11-27,19:30:00,Florida Panthers,FLA,Toronto Maple Leafs,TOR,5.0,1.0,True,False,False
+353,2024020353,2024-11-27T19:30:00,2024-11-27,19:30:00,New York Islanders,NYI,Boston Bruins,BOS,3.0,6.0,False,True,False
+354,2024020354,2024-11-27T19:30:00,2024-11-27,19:30:00,Pittsburgh Penguins,PIT,Vancouver Canucks,VAN,5.0,4.0,True,False,False
+355,2024020355,2024-11-27T19:30:00,2024-11-27,19:30:00,Columbus Blue Jackets,CBJ,Montréal Canadiens,MTL,3.0,4.0,False,True,True
+356,2024020356,2024-11-27T20:00:00,2024-11-27,20:00:00,Nashville Predators,NSH,Philadelphia Flyers,PHI,2.0,3.0,False,True,True
+357,2024020357,2024-11-27T20:30:00,2024-11-27,20:30:00,Chicago Blackhawks,CHI,Dallas Stars,DAL,6.0,2.0,True,False,False
+358,2024020358,2024-11-27T22:00:00,2024-11-27,22:00:00,Colorado Avalanche,COL,Vegas Golden Knights,VGK,2.0,1.0,True,False,True
+359,2024020359,2024-11-27T22:00:00,2024-11-27,22:00:00,Los Angeles Kings,LAK,Winnipeg Jets,WPG,4.0,1.0,True,False,False
+360,2024020360,2024-11-27T22:00:00,2024-11-27,22:00:00,Seattle Kraken,SEA,Anaheim Ducks,ANA,2.0,5.0,False,True,False
+361,2024020361,2024-11-27T22:30:00,2024-11-27,22:30:00,San Jose Sharks,SJS,Ottawa Senators,OTT,3.0,4.0,False,True,False
+362,2024020362,2024-11-29T13:00:00,2024-11-29,13:00:00,Philadelphia Flyers,PHI,New York Rangers,NYR,3.0,1.0,True,False,False
+363,2024020363,2024-11-29T14:00:00,2024-11-29,14:00:00,Minnesota Wild,MIN,Chicago Blackhawks,CHI,3.0,2.0,True,False,False
+364,2024020364,2024-11-29T15:00:00,2024-11-29,15:00:00,Buffalo Sabres,BUF,Vancouver Canucks,VAN,3.0,4.0,False,True,True
+365,2024020365,2024-11-29T15:00:00,2024-11-29,15:00:00,Detroit Red Wings,DET,New Jersey Devils,NJD,4.0,5.0,False,True,False
+366,2024020366,2024-11-29T15:00:00,2024-11-29,15:00:00,Washington Capitals,WSH,New York Islanders,NYI,5.0,4.0,True,False,True
+367,2024020367,2024-11-29T15:00:00,2024-11-29,15:00:00,Carolina Hurricanes,CAR,Florida Panthers,FLA,3.0,6.0,False,True,False
+368,2024020368,2024-11-29T15:00:00,2024-11-29,15:00:00,Columbus Blue Jackets,CBJ,Calgary Flames,CGY,5.0,2.0,True,False,False
+369,2024020369,2024-11-29T15:00:00,2024-11-29,15:00:00,Nashville Predators,NSH,Tampa Bay Lightning,TBL,2.0,3.0,False,True,True
+370,2024020370,2024-11-29T15:30:00,2024-11-29,15:30:00,Anaheim Ducks,ANA,Los Angeles Kings,LAK,1.0,2.0,False,True,False
+371,2024020371,2024-11-29T15:30:00,2024-11-29,15:30:00,San Jose Sharks,SJS,Seattle Kraken,SEA,8.0,5.0,True,False,False
+372,2024020372,2024-11-29T18:30:00,2024-11-29,18:30:00,Boston Bruins,BOS,Pittsburgh Penguins,PIT,1.0,2.0,False,True,False
+373,2024020373,2024-11-29T21:00:00,2024-11-29,21:00:00,Dallas Stars,DAL,Colorado Avalanche,COL,5.0,3.0,True,False,False
+374,2024020374,2024-11-29T20:30:00,2024-11-29,20:30:00,Vegas Golden Knights,VGK,Winnipeg Jets,WPG,4.0,3.0,True,False,False
+375,2024020375,2024-11-29T21:00:00,2024-11-29,21:00:00,Utah Hockey Club,UTA,Edmonton Oilers,EDM,3.0,4.0,False,True,True
+376,2024020376,2024-11-30T13:00:00,2024-11-30,13:00:00,New York Rangers,NYR,Montréal Canadiens,MTL,4.0,3.0,True,False,False
+377,2024020377,2024-11-30T16:00:00,2024-11-30,16:00:00,Florida Panthers,FLA,Carolina Hurricanes,CAR,6.0,0.0,True,False,False
+378,2024020378,2024-11-30T19:00:00,2024-11-30,19:00:00,Tampa Bay Lightning,TBL,Toronto Maple Leafs,TOR,3.0,5.0,False,True,False
+379,2024020379,2024-11-30T19:00:00,2024-11-30,19:00:00,New Jersey Devils,NJD,Washington Capitals,WSH,5.0,6.0,False,True,False
+380,2024020380,2024-11-30T19:00:00,2024-11-30,19:00:00,Pittsburgh Penguins,PIT,Calgary Flames,CGY,6.0,2.0,True,False,False
+381,2024020381,2024-11-30T19:00:00,2024-11-30,19:00:00,St. Louis Blues,STL,Philadelphia Flyers,PHI,2.0,3.0,False,True,True
+382,2024020382,2024-11-30T19:00:00,2024-11-30,19:00:00,Los Angeles Kings,LAK,Ottawa Senators,OTT,5.0,2.0,True,False,False
+383,2024020383,2024-11-30T19:30:00,2024-11-30,19:30:00,New York Islanders,NYI,Buffalo Sabres,BUF,3.0,0.0,True,False,False
+384,2024020384,2024-11-30T20:00:00,2024-11-30,20:00:00,Minnesota Wild,MIN,Nashville Predators,NSH,3.0,2.0,True,False,True
+385,2024020385,2024-11-30T22:00:00,2024-11-30,22:00:00,Colorado Avalanche,COL,Edmonton Oilers,EDM,1.0,4.0,False,True,False
+386,2024020386,2024-11-30T22:00:00,2024-11-30,22:00:00,Vegas Golden Knights,VGK,Utah Hockey Club,UTA,0.0,6.0,False,True,False
+387,2024020387,2024-11-30T22:00:00,2024-11-30,22:00:00,Seattle Kraken,SEA,San Jose Sharks,SJS,2.0,4.0,False,True,False
+388,2024020388,2024-12-01T12:30:00,2024-12-01,12:30:00,Detroit Red Wings,DET,Vancouver Canucks,VAN,4.0,5.0,False,True,True
+389,2024020389,2024-12-01T15:00:00,2024-12-01,15:00:00,Boston Bruins,BOS,Montréal Canadiens,MTL,6.0,3.0,True,False,False
+390,2024020390,2024-12-01T15:00:00,2024-12-01,15:00:00,Chicago Blackhawks,CHI,Columbus Blue Jackets,CBJ,3.0,6.0,False,True,False
+391,2024020391,2024-12-01T16:30:00,2024-12-01,16:30:00,Dallas Stars,DAL,Winnipeg Jets,WPG,3.0,1.0,True,False,False
+392,2024020392,2024-12-01T20:00:00,2024-12-01,20:00:00,Anaheim Ducks,ANA,Ottawa Senators,OTT,4.0,3.0,True,False,True
+393,2024020393,2024-12-02T19:00:00,2024-12-02,19:00:00,New York Rangers,NYR,New Jersey Devils,NJD,1.0,5.0,False,True,False
+394,2024020394,2024-12-02T19:30:00,2024-12-02,19:30:00,Toronto Maple Leafs,TOR,Chicago Blackhawks,CHI,4.0,1.0,True,False,False
+395,2024020395,2024-12-02T21:00:00,2024-12-02,21:00:00,Utah Hockey Club,UTA,Dallas Stars,DAL,1.0,2.0,False,True,False
+396,2024020396,2024-12-03T19:00:00,2024-12-03,19:00:00,Boston Bruins,BOS,Detroit Red Wings,DET,3.0,2.0,True,False,True
+397,2024020397,2024-12-03T19:00:00,2024-12-03,19:00:00,Buffalo Sabres,BUF,Colorado Avalanche,COL,4.0,5.0,False,True,False
+398,2024020398,2024-12-03T19:00:00,2024-12-03,19:00:00,Montréal Canadiens,MTL,New York Islanders,NYI,2.0,1.0,True,False,True
+399,2024020399,2024-12-03T19:00:00,2024-12-03,19:00:00,Pittsburgh Penguins,PIT,Florida Panthers,FLA,5.0,4.0,True,False,True
+400,2024020400,2024-12-03T19:00:00,2024-12-03,19:00:00,Washington Capitals,WSH,San Jose Sharks,SJS,1.0,2.0,False,True,True
+401,2024020401,2024-12-03T19:00:00,2024-12-03,19:00:00,Carolina Hurricanes,CAR,Seattle Kraken,SEA,2.0,4.0,False,True,False
+402,2024020402,2024-12-03T20:00:00,2024-12-03,20:00:00,Minnesota Wild,MIN,Vancouver Canucks,VAN,3.0,2.0,True,False,True
+403,2024020403,2024-12-03T20:00:00,2024-12-03,20:00:00,Winnipeg Jets,WPG,St. Louis Blues,STL,1.0,4.0,False,True,False
+404,2024020404,2024-12-03T21:00:00,2024-12-03,21:00:00,Calgary Flames,CGY,Columbus Blue Jackets,CBJ,3.0,0.0,True,False,False
+405,2024020405,2024-12-03T22:00:00,2024-12-03,22:00:00,Vegas Golden Knights,VGK,Edmonton Oilers,EDM,1.0,0.0,True,False,False
+406,2024020406,2024-12-04T19:30:00,2024-12-04,19:30:00,Toronto Maple Leafs,TOR,Nashville Predators,NSH,3.0,2.0,True,False,False
+407,2024020407,2024-12-04T19:30:00,2024-12-04,19:30:00,Chicago Blackhawks,CHI,Boston Bruins,BOS,2.0,4.0,False,True,False
+408,2024020408,2024-12-04T22:00:00,2024-12-04,22:00:00,Anaheim Ducks,ANA,Vegas Golden Knights,VGK,1.0,4.0,False,True,False
+409,2024020409,2024-12-04T22:00:00,2024-12-04,22:00:00,Los Angeles Kings,LAK,Dallas Stars,DAL,3.0,2.0,True,False,False
+410,2024020410,2024-12-05T19:00:00,2024-12-05,19:00:00,Buffalo Sabres,BUF,Winnipeg Jets,WPG,2.0,3.0,False,True,True
+411,2024020411,2024-12-05T19:00:00,2024-12-05,19:00:00,Montréal Canadiens,MTL,Nashville Predators,NSH,3.0,0.0,True,False,False
+412,2024020412,2024-12-05T19:00:00,2024-12-05,19:00:00,Ottawa Senators,OTT,Detroit Red Wings,DET,2.0,1.0,True,False,False
+413,2024020413,2024-12-05T19:00:00,2024-12-05,19:00:00,Tampa Bay Lightning,TBL,San Jose Sharks,SJS,8.0,1.0,True,False,False
+414,2024020414,2024-12-05T19:00:00,2024-12-05,19:00:00,Philadelphia Flyers,PHI,Florida Panthers,FLA,5.0,7.0,False,True,False
+415,2024020415,2024-12-05T19:00:00,2024-12-05,19:00:00,Carolina Hurricanes,CAR,Colorado Avalanche,COL,5.0,3.0,True,False,False
+416,2024020416,2024-12-05T19:30:00,2024-12-05,19:30:00,New York Islanders,NYI,Seattle Kraken,SEA,2.0,5.0,False,True,False
+417,2024020417,2024-12-05T21:00:00,2024-12-05,21:00:00,Calgary Flames,CGY,St. Louis Blues,STL,3.0,4.0,False,True,True
+418,2024020418,2024-12-05T21:00:00,2024-12-05,21:00:00,Edmonton Oilers,EDM,Columbus Blue Jackets,CBJ,6.0,3.0,True,False,False
+419,2024020419,2024-12-06T19:00:00,2024-12-06,19:00:00,Toronto Maple Leafs,TOR,Washington Capitals,WSH,1.0,3.0,False,True,False
+420,2024020420,2024-12-06T19:00:00,2024-12-06,19:00:00,New Jersey Devils,NJD,Seattle Kraken,SEA,3.0,2.0,True,False,False
+421,2024020421,2024-12-06T19:30:00,2024-12-06,19:30:00,New York Rangers,NYR,Pittsburgh Penguins,PIT,4.0,2.0,True,False,False
+422,2024020422,2024-12-06T22:00:00,2024-12-06,22:00:00,Vancouver Canucks,VAN,Columbus Blue Jackets,CBJ,5.0,2.0,True,False,False
+423,2024020423,2024-12-06T22:00:00,2024-12-06,22:00:00,Vegas Golden Knights,VGK,Dallas Stars,DAL,3.0,2.0,True,False,False
+424,2024020424,2024-12-06T22:00:00,2024-12-06,22:00:00,Anaheim Ducks,ANA,Minnesota Wild,MIN,1.0,5.0,False,True,False
+425,2024020425,2024-12-07T13:00:00,2024-12-07,13:00:00,Boston Bruins,BOS,Philadelphia Flyers,PHI,4.0,3.0,True,False,True
+426,2024020426,2024-12-07T13:00:00,2024-12-07,13:00:00,Buffalo Sabres,BUF,Utah Hockey Club,UTA,2.0,5.0,False,True,False
+427,2024020427,2024-12-07T16:00:00,2024-12-07,16:00:00,Chicago Blackhawks,CHI,Winnipeg Jets,WPG,2.0,4.0,False,True,False
+428,2024020428,2024-12-07T17:00:00,2024-12-07,17:00:00,New York Islanders,NYI,Carolina Hurricanes,CAR,4.0,3.0,True,False,False
+429,2024020429,2024-12-07T18:00:00,2024-12-07,18:00:00,Florida Panthers,FLA,San Jose Sharks,SJS,3.0,1.0,True,False,False
+430,2024020430,2024-12-07T19:00:00,2024-12-07,19:00:00,Montréal Canadiens,MTL,Washington Capitals,WSH,2.0,4.0,False,True,False
+431,2024020431,2024-12-07T19:00:00,2024-12-07,19:00:00,Ottawa Senators,OTT,Nashville Predators,NSH,3.0,1.0,True,False,False
+432,2024020432,2024-12-07T19:00:00,2024-12-07,19:00:00,Detroit Red Wings,DET,Colorado Avalanche,COL,1.0,2.0,False,True,False
+433,2024020433,2024-12-07T19:00:00,2024-12-07,19:00:00,Pittsburgh Penguins,PIT,Toronto Maple Leafs,TOR,5.0,2.0,True,False,False
+434,2024020434,2024-12-07T20:00:00,2024-12-07,20:00:00,Los Angeles Kings,LAK,Minnesota Wild,MIN,4.0,1.0,True,False,False
+435,2024020435,2024-12-07T22:00:00,2024-12-07,22:00:00,Edmonton Oilers,EDM,St. Louis Blues,STL,4.0,2.0,True,False,False
+436,2024020436,2024-12-08T13:00:00,2024-12-08,13:00:00,New York Rangers,NYR,Seattle Kraken,SEA,5.0,7.0,False,True,False
+437,2024020437,2024-12-08T16:00:00,2024-12-08,16:00:00,Vancouver Canucks,VAN,Tampa Bay Lightning,TBL,2.0,4.0,False,True,False
+438,2024020438,2024-12-08T17:00:00,2024-12-08,17:00:00,Ottawa Senators,OTT,New York Islanders,NYI,2.0,4.0,False,True,False
+439,2024020439,2024-12-08T18:00:00,2024-12-08,18:00:00,Winnipeg Jets,WPG,Columbus Blue Jackets,CBJ,1.0,4.0,False,True,False
+440,2024020440,2024-12-08T19:00:00,2024-12-08,19:00:00,New Jersey Devils,NJD,Colorado Avalanche,COL,0.0,4.0,False,True,False
+441,2024020441,2024-12-08T19:30:00,2024-12-08,19:30:00,Philadelphia Flyers,PHI,Utah Hockey Club,UTA,2.0,4.0,False,True,False
+442,2024020442,2024-12-08T20:00:00,2024-12-08,20:00:00,Dallas Stars,DAL,Calgary Flames,CGY,6.0,2.0,True,False,False
+443,2024020443,2024-12-09T19:00:00,2024-12-09,19:00:00,Buffalo Sabres,BUF,Detroit Red Wings,DET,5.0,6.0,False,True,True
+444,2024020444,2024-12-09T19:00:00,2024-12-09,19:00:00,New York Rangers,NYR,Chicago Blackhawks,CHI,1.0,2.0,False,True,False
+445,2024020445,2024-12-09T19:30:00,2024-12-09,19:30:00,Montréal Canadiens,MTL,Anaheim Ducks,ANA,3.0,2.0,True,False,True
+446,2024020446,2024-12-10T19:00:00,2024-12-10,19:00:00,New Jersey Devils,NJD,Toronto Maple Leafs,TOR,1.0,2.0,False,True,True
+447,2024020447,2024-12-10T19:00:00,2024-12-10,19:00:00,Pittsburgh Penguins,PIT,Colorado Avalanche,COL,2.0,6.0,False,True,False
+448,2024020448,2024-12-10T19:00:00,2024-12-10,19:00:00,Carolina Hurricanes,CAR,San Jose Sharks,SJS,3.0,2.0,True,False,False
+449,2024020449,2024-12-10T19:00:00,2024-12-10,19:00:00,Columbus Blue Jackets,CBJ,Philadelphia Flyers,PHI,3.0,5.0,False,True,False
+450,2024020450,2024-12-10T19:30:00,2024-12-10,19:30:00,New York Islanders,NYI,Los Angeles Kings,LAK,1.0,3.0,False,True,False
+451,2024020451,2024-12-10T20:00:00,2024-12-10,20:00:00,Nashville Predators,NSH,Calgary Flames,CGY,3.0,4.0,False,True,False
+452,2024020452,2024-12-10T20:00:00,2024-12-10,20:00:00,Winnipeg Jets,WPG,Boston Bruins,BOS,8.0,1.0,True,False,False
+453,2024020453,2024-12-10T21:00:00,2024-12-10,21:00:00,Edmonton Oilers,EDM,Tampa Bay Lightning,TBL,2.0,1.0,True,False,False
+454,2024020454,2024-12-10T21:30:00,2024-12-10,21:30:00,Utah Hockey Club,UTA,Minnesota Wild,MIN,4.0,5.0,False,True,True
+455,2024020455,2024-12-10T22:00:00,2024-12-10,22:00:00,Vancouver Canucks,VAN,St. Louis Blues,STL,3.0,4.0,False,True,True
+456,2024020456,2024-12-10T22:00:00,2024-12-10,22:00:00,Seattle Kraken,SEA,Florida Panthers,FLA,1.0,2.0,False,True,True
+457,2024020457,2024-12-11T19:00:00,2024-12-11,19:00:00,Buffalo Sabres,BUF,New York Rangers,NYR,2.0,3.0,False,True,False
+458,2024020458,2024-12-11T19:30:00,2024-12-11,19:30:00,Ottawa Senators,OTT,Anaheim Ducks,ANA,5.0,1.0,True,False,False
+459,2024020459,2024-12-12T19:00:00,2024-12-12,19:00:00,Toronto Maple Leafs,TOR,Anaheim Ducks,ANA,3.0,2.0,True,False,False
+460,2024020460,2024-12-12T19:00:00,2024-12-12,19:00:00,Montréal Canadiens,MTL,Pittsburgh Penguins,PIT,2.0,9.0,False,True,False
+461,2024020461,2024-12-12T19:00:00,2024-12-12,19:00:00,New Jersey Devils,NJD,Los Angeles Kings,LAK,3.0,1.0,True,False,False
+462,2024020462,2024-12-12T19:00:00,2024-12-12,19:00:00,Philadelphia Flyers,PHI,Detroit Red Wings,DET,4.0,1.0,True,False,False
+463,2024020463,2024-12-12T19:00:00,2024-12-12,19:00:00,Columbus Blue Jackets,CBJ,Washington Capitals,WSH,1.0,2.0,False,True,True
+464,2024020464,2024-12-12T19:30:00,2024-12-12,19:30:00,New York Islanders,NYI,Chicago Blackhawks,CHI,5.0,4.0,True,False,False
+465,2024020465,2024-12-12T20:00:00,2024-12-12,20:00:00,St. Louis Blues,STL,San Jose Sharks,SJS,3.0,4.0,False,True,False
+466,2024020466,2024-12-12T20:00:00,2024-12-12,20:00:00,Dallas Stars,DAL,Nashville Predators,NSH,1.0,4.0,False,True,False
+467,2024020467,2024-12-12T20:30:00,2024-12-12,20:30:00,Minnesota Wild,MIN,Edmonton Oilers,EDM,1.0,7.0,False,True,False
+468,2024020468,2024-12-12T20:00:00,2024-12-12,20:00:00,Winnipeg Jets,WPG,Vegas Golden Knights,VGK,2.0,3.0,False,True,True
+469,2024020469,2024-12-12T21:00:00,2024-12-12,21:00:00,Colorado Avalanche,COL,Utah Hockey Club,UTA,1.0,4.0,False,True,False
+470,2024020470,2024-12-12T21:00:00,2024-12-12,21:00:00,Calgary Flames,CGY,Tampa Bay Lightning,TBL,3.0,8.0,False,True,False
+471,2024020471,2024-12-12T22:00:00,2024-12-12,22:00:00,Vancouver Canucks,VAN,Florida Panthers,FLA,4.0,0.0,True,False,False
+472,2024020472,2024-12-12T22:00:00,2024-12-12,22:00:00,Seattle Kraken,SEA,Boston Bruins,BOS,5.0,1.0,True,False,False
+473,2024020473,2024-12-13T19:00:00,2024-12-13,19:00:00,Carolina Hurricanes,CAR,Ottawa Senators,OTT,0.0,3.0,False,True,False
+474,2024020474,2024-12-14T13:00:00,2024-12-14,13:00:00,New Jersey Devils,NJD,Chicago Blackhawks,CHI,4.0,1.0,True,False,False
+475,2024020475,2024-12-14T13:00:00,2024-12-14,13:00:00,New York Rangers,NYR,Los Angeles Kings,LAK,1.0,5.0,False,True,False
+476,2024020476,2024-12-14T14:00:00,2024-12-14,14:00:00,Minnesota Wild,MIN,Philadelphia Flyers,PHI,4.0,1.0,True,False,False
+477,2024020477,2024-12-14T16:00:00,2024-12-14,16:00:00,Edmonton Oilers,EDM,Vegas Golden Knights,VGK,6.0,3.0,True,False,False
+478,2024020478,2024-12-14T19:00:00,2024-12-14,19:00:00,Ottawa Senators,OTT,Pittsburgh Penguins,PIT,3.0,2.0,True,False,True
+479,2024020479,2024-12-14T19:00:00,2024-12-14,19:00:00,Detroit Red Wings,DET,Toronto Maple Leafs,TOR,4.0,2.0,True,False,False
+480,2024020480,2024-12-14T19:00:00,2024-12-14,19:00:00,Washington Capitals,WSH,Buffalo Sabres,BUF,4.0,2.0,True,False,False
+481,2024020481,2024-12-14T19:00:00,2024-12-14,19:00:00,Columbus Blue Jackets,CBJ,Anaheim Ducks,ANA,3.0,4.0,False,True,True
+482,2024020482,2024-12-14T19:00:00,2024-12-14,19:00:00,Winnipeg Jets,WPG,Montréal Canadiens,MTL,4.0,2.0,True,False,False
+483,2024020483,2024-12-14T20:00:00,2024-12-14,20:00:00,Dallas Stars,DAL,St. Louis Blues,STL,2.0,1.0,True,False,True
+484,2024020484,2024-12-14T21:00:00,2024-12-14,21:00:00,Colorado Avalanche,COL,Nashville Predators,NSH,5.0,2.0,True,False,False
+485,2024020485,2024-12-14T22:00:00,2024-12-14,22:00:00,Calgary Flames,CGY,Florida Panthers,FLA,3.0,0.0,True,False,False
+486,2024020486,2024-12-14T22:00:00,2024-12-14,22:00:00,Vancouver Canucks,VAN,Boston Bruins,BOS,1.0,5.0,False,True,False
+487,2024020487,2024-12-14T22:00:00,2024-12-14,22:00:00,San Jose Sharks,SJS,Utah Hockey Club,UTA,3.0,4.0,False,True,False
+488,2024020488,2024-12-14T22:00:00,2024-12-14,22:00:00,Seattle Kraken,SEA,Tampa Bay Lightning,TBL,1.0,5.0,False,True,False
+489,2024020489,2024-12-15T15:00:00,2024-12-15,15:00:00,Chicago Blackhawks,CHI,New York Islanders,NYI,5.0,3.0,True,False,False
+490,2024020490,2024-12-15T17:00:00,2024-12-15,17:00:00,Toronto Maple Leafs,TOR,Buffalo Sabres,BUF,5.0,3.0,True,False,False
+491,2024020491,2024-12-15T17:00:00,2024-12-15,17:00:00,Carolina Hurricanes,CAR,Columbus Blue Jackets,CBJ,4.0,1.0,True,False,False
+492,2024020492,2024-12-15T18:00:00,2024-12-15,18:00:00,St. Louis Blues,STL,New York Rangers,NYR,3.0,2.0,True,False,False
+493,2024020493,2024-12-15T18:00:00,2024-12-15,18:00:00,Minnesota Wild,MIN,Vegas Golden Knights,VGK,2.0,3.0,False,True,False
+494,2024020494,2024-12-16T20:00:00,2024-12-16,20:00:00,Dallas Stars,DAL,Washington Capitals,WSH,3.0,1.0,True,False,False
+495,2024020495,2024-12-16T20:30:00,2024-12-16,20:30:00,Edmonton Oilers,EDM,Florida Panthers,FLA,5.0,6.0,False,True,False
+496,2024020496,2024-12-16T22:30:00,2024-12-16,22:30:00,Vancouver Canucks,VAN,Colorado Avalanche,COL,3.0,1.0,True,False,False
+497,2024020497,2024-12-17T19:00:00,2024-12-17,19:00:00,Montréal Canadiens,MTL,Buffalo Sabres,BUF,6.0,1.0,True,False,False
+498,2024020498,2024-12-17T19:00:00,2024-12-17,19:00:00,Tampa Bay Lightning,TBL,Columbus Blue Jackets,CBJ,5.0,3.0,True,False,False
+499,2024020499,2024-12-17T19:00:00,2024-12-17,19:00:00,Pittsburgh Penguins,PIT,Los Angeles Kings,LAK,3.0,2.0,True,False,True
+500,2024020500,2024-12-17T19:30:00,2024-12-17,19:30:00,Carolina Hurricanes,CAR,New York Islanders,NYI,4.0,0.0,True,False,False
+501,2024020501,2024-12-17T20:00:00,2024-12-17,20:00:00,St. Louis Blues,STL,New Jersey Devils,NJD,1.0,4.0,False,True,False
+502,2024020502,2024-12-17T20:00:00,2024-12-17,20:00:00,Nashville Predators,NSH,New York Rangers,NYR,2.0,0.0,True,False,False
+503,2024020503,2024-12-17T20:30:00,2024-12-17,20:30:00,Chicago Blackhawks,CHI,Washington Capitals,WSH,3.0,2.0,True,False,False
+504,2024020504,2024-12-17T21:00:00,2024-12-17,21:00:00,Calgary Flames,CGY,Boston Bruins,BOS,3.0,4.0,False,True,True
+505,2024020505,2024-12-17T22:00:00,2024-12-17,22:00:00,Seattle Kraken,SEA,Ottawa Senators,OTT,0.0,3.0,False,True,False
+506,2024020506,2024-12-17T22:30:00,2024-12-17,22:30:00,San Jose Sharks,SJS,Winnipeg Jets,WPG,3.0,4.0,False,True,False
+507,2024020507,2024-12-18T19:00:00,2024-12-18,19:00:00,Detroit Red Wings,DET,Philadelphia Flyers,PHI,6.0,4.0,True,False,False
+508,2024020508,2024-12-18T19:30:00,2024-12-18,19:30:00,Dallas Stars,DAL,Toronto Maple Leafs,TOR,3.0,5.0,False,True,False
+509,2024020509,2024-12-18T21:30:00,2024-12-18,21:30:00,Minnesota Wild,MIN,Florida Panthers,FLA,1.0,6.0,False,True,False
+510,2024020510,2024-12-18T22:00:00,2024-12-18,22:00:00,Utah Hockey Club,UTA,Vancouver Canucks,VAN,3.0,2.0,True,False,True
+511,2024020511,2024-12-18T22:00:00,2024-12-18,22:00:00,Anaheim Ducks,ANA,Winnipeg Jets,WPG,3.0,2.0,True,False,False
+512,2024020512,2024-12-19T19:00:00,2024-12-19,19:00:00,Tampa Bay Lightning,TBL,St. Louis Blues,STL,3.0,1.0,True,False,False
+513,2024020513,2024-12-19T19:30:00,2024-12-19,19:30:00,Philadelphia Flyers,PHI,Los Angeles Kings,LAK,3.0,7.0,False,True,False
+514,2024020514,2024-12-19T19:00:00,2024-12-19,19:00:00,Columbus Blue Jackets,CBJ,New Jersey Devils,NJD,4.0,2.0,True,False,False
+515,2024020515,2024-12-19T20:00:00,2024-12-19,20:00:00,Nashville Predators,NSH,Pittsburgh Penguins,PIT,4.0,5.0,False,True,True
+516,2024020516,2024-12-19T20:30:00,2024-12-19,20:30:00,Chicago Blackhawks,CHI,Seattle Kraken,SEA,3.0,1.0,True,False,False
+517,2024020517,2024-12-19T21:00:00,2024-12-19,21:00:00,Calgary Flames,CGY,Ottawa Senators,OTT,2.0,3.0,False,True,True
+518,2024020518,2024-12-19T21:00:00,2024-12-19,21:00:00,Edmonton Oilers,EDM,Boston Bruins,BOS,3.0,2.0,True,False,True
+519,2024020519,2024-12-19T22:00:00,2024-12-19,22:00:00,Vegas Golden Knights,VGK,Vancouver Canucks,VAN,3.0,1.0,True,False,False
+520,2024020520,2024-12-19T22:30:00,2024-12-19,22:30:00,San Jose Sharks,SJS,Colorado Avalanche,COL,2.0,4.0,False,True,False
+521,2024020521,2024-12-20T19:00:00,2024-12-20,19:00:00,Buffalo Sabres,BUF,Toronto Maple Leafs,TOR,3.0,6.0,False,True,False
+522,2024020522,2024-12-20T19:00:00,2024-12-20,19:00:00,Detroit Red Wings,DET,Montréal Canadiens,MTL,3.0,4.0,False,True,False
+523,2024020523,2024-12-20T19:00:00,2024-12-20,19:00:00,Florida Panthers,FLA,St. Louis Blues,STL,2.0,1.0,True,False,True
+524,2024020524,2024-12-20T19:00:00,2024-12-20,19:00:00,Washington Capitals,WSH,Carolina Hurricanes,CAR,3.0,1.0,True,False,False
+525,2024020525,2024-12-20T20:00:00,2024-12-20,20:00:00,Dallas Stars,DAL,New York Rangers,NYR,1.0,3.0,False,True,False
+526,2024020526,2024-12-20T20:00:00,2024-12-20,20:00:00,Minnesota Wild,MIN,Utah Hockey Club,UTA,1.0,2.0,False,True,False
+527,2024020527,2024-12-20T22:00:00,2024-12-20,22:00:00,Anaheim Ducks,ANA,Colorado Avalanche,COL,2.0,4.0,False,True,False
+528,2024020528,2024-12-21T13:30:00,2024-12-21,13:30:00,Nashville Predators,NSH,Los Angeles Kings,LAK,3.0,2.0,True,False,True
+529,2024020529,2024-12-21T16:00:00,2024-12-21,16:00:00,Calgary Flames,CGY,Chicago Blackhawks,CHI,6.0,4.0,True,False,False
+530,2024020530,2024-12-21T16:00:00,2024-12-21,16:00:00,Edmonton Oilers,EDM,San Jose Sharks,SJS,3.0,2.0,True,False,True
+531,2024020531,2024-12-21T19:00:00,2024-12-21,19:00:00,Boston Bruins,BOS,Buffalo Sabres,BUF,3.0,1.0,True,False,False
+532,2024020532,2024-12-21T19:00:00,2024-12-21,19:00:00,Toronto Maple Leafs,TOR,New York Islanders,NYI,3.0,6.0,False,True,False
+533,2024020533,2024-12-21T19:00:00,2024-12-21,19:00:00,Montréal Canadiens,MTL,Detroit Red Wings,DET,5.0,1.0,True,False,False
+534,2024020534,2024-12-21T19:00:00,2024-12-21,19:00:00,New Jersey Devils,NJD,Pittsburgh Penguins,PIT,3.0,0.0,True,False,False
+535,2024020535,2024-12-21T19:00:00,2024-12-21,19:00:00,Philadelphia Flyers,PHI,Columbus Blue Jackets,CBJ,5.0,4.0,True,False,True
+536,2024020536,2024-12-21T19:00:00,2024-12-21,19:00:00,Winnipeg Jets,WPG,Minnesota Wild,MIN,5.0,0.0,True,False,False
+537,2024020537,2024-12-21T22:00:00,2024-12-21,22:00:00,Vancouver Canucks,VAN,Ottawa Senators,OTT,4.0,5.0,False,True,True
+538,2024020538,2024-12-21T22:00:00,2024-12-21,22:00:00,Vegas Golden Knights,VGK,Seattle Kraken,SEA,6.0,2.0,True,False,False
+539,2024020539,2024-12-22T12:30:00,2024-12-22,12:30:00,New York Rangers,NYR,Carolina Hurricanes,CAR,1.0,3.0,False,True,False
+540,2024020540,2024-12-22T17:00:00,2024-12-22,17:00:00,Tampa Bay Lightning,TBL,Florida Panthers,FLA,2.0,4.0,False,True,False
+541,2024020541,2024-12-22T17:00:00,2024-12-22,17:00:00,Washington Capitals,WSH,Los Angeles Kings,LAK,3.0,1.0,True,False,False
+542,2024020542,2024-12-22T17:00:00,2024-12-22,17:00:00,Utah Hockey Club,UTA,Anaheim Ducks,ANA,4.0,5.0,False,True,True
+543,2024020543,2024-12-22T20:00:00,2024-12-22,20:00:00,Colorado Avalanche,COL,Seattle Kraken,SEA,5.0,2.0,True,False,False
+544,2024020544,2024-12-22T20:00:00,2024-12-22,20:00:00,Edmonton Oilers,EDM,Ottawa Senators,OTT,3.0,1.0,True,False,False
+545,2024020545,2024-12-23T13:00:00,2024-12-23,13:00:00,New Jersey Devils,NJD,New York Rangers,NYR,5.0,0.0,True,False,False
+546,2024020546,2024-12-23T14:00:00,2024-12-23,14:00:00,Toronto Maple Leafs,TOR,Winnipeg Jets,WPG,2.0,5.0,False,True,False
+547,2024020547,2024-12-23T19:00:00,2024-12-23,19:00:00,Boston Bruins,BOS,Washington Capitals,WSH,4.0,1.0,True,False,False
+548,2024020548,2024-12-23T19:00:00,2024-12-23,19:00:00,Detroit Red Wings,DET,St. Louis Blues,STL,0.0,4.0,False,True,False
+549,2024020549,2024-12-23T19:00:00,2024-12-23,19:00:00,Florida Panthers,FLA,Tampa Bay Lightning,TBL,0.0,4.0,False,True,False
+550,2024020550,2024-12-23T19:00:00,2024-12-23,19:00:00,Pittsburgh Penguins,PIT,Philadelphia Flyers,PHI,7.0,3.0,True,False,False
+551,2024020551,2024-12-23T19:00:00,2024-12-23,19:00:00,Columbus Blue Jackets,CBJ,Montréal Canadiens,MTL,5.0,4.0,True,False,False
+552,2024020552,2024-12-23T19:30:00,2024-12-23,19:30:00,New York Islanders,NYI,Buffalo Sabres,BUF,1.0,7.0,False,True,False
+553,2024020553,2024-12-23T20:00:00,2024-12-23,20:00:00,Nashville Predators,NSH,Carolina Hurricanes,CAR,5.0,2.0,True,False,False
+554,2024020554,2024-12-23T20:00:00,2024-12-23,20:00:00,Minnesota Wild,MIN,Chicago Blackhawks,CHI,4.0,3.0,True,False,False
+555,2024020555,2024-12-23T21:00:00,2024-12-23,21:00:00,Vancouver Canucks,VAN,San Jose Sharks,SJS,4.0,3.0,True,False,False
+556,2024020556,2024-12-23T21:00:00,2024-12-23,21:00:00,Utah Hockey Club,UTA,Dallas Stars,DAL,2.0,3.0,False,True,False
+557,2024020557,2024-12-23T22:00:00,2024-12-23,22:00:00,Vegas Golden Knights,VGK,Anaheim Ducks,ANA,3.0,1.0,True,False,False
+558,2024020558,2024-12-27T19:00:00,2024-12-27,19:00:00,Buffalo Sabres,BUF,Chicago Blackhawks,CHI,6.0,2.0,True,False,False
+559,2024020559,2024-12-27T19:00:00,2024-12-27,19:00:00,Detroit Red Wings,DET,Toronto Maple Leafs,TOR,2.0,5.0,False,True,False
+560,2024020560,2024-12-27T19:00:00,2024-12-27,19:00:00,New Jersey Devils,NJD,Carolina Hurricanes,CAR,4.0,2.0,True,False,False
+561,2024020561,2024-12-27T19:00:00,2024-12-27,19:00:00,Columbus Blue Jackets,CBJ,Boston Bruins,BOS,6.0,2.0,True,False,False
+562,2024020562,2024-12-27T20:00:00,2024-12-27,20:00:00,St. Louis Blues,STL,Nashville Predators,NSH,7.0,4.0,True,False,False
+563,2024020563,2024-12-27T20:00:00,2024-12-27,20:00:00,Dallas Stars,DAL,Minnesota Wild,MIN,2.0,3.0,False,True,True
+564,2024020564,2024-12-27T21:30:00,2024-12-27,21:30:00,Utah Hockey Club,UTA,Colorado Avalanche,COL,1.0,4.0,False,True,False
+565,2024020565,2024-12-27T22:30:00,2024-12-27,22:30:00,San Jose Sharks,SJS,Vegas Golden Knights,VGK,3.0,6.0,False,True,False
+566,2024020566,2024-12-28T13:00:00,2024-12-28,13:00:00,Florida Panthers,FLA,Montréal Canadiens,MTL,0.0,4.0,False,True,False
+567,2024020567,2024-12-28T16:00:00,2024-12-28,16:00:00,Vancouver Canucks,VAN,Seattle Kraken,SEA,4.0,5.0,False,True,True
+568,2024020568,2024-12-28T16:00:00,2024-12-28,16:00:00,Anaheim Ducks,ANA,Philadelphia Flyers,PHI,1.0,3.0,False,True,False
+569,2024020569,2024-12-28T16:00:00,2024-12-28,16:00:00,Los Angeles Kings,LAK,Edmonton Oilers,EDM,4.0,3.0,True,False,True
+570,2024020570,2024-12-28T19:00:00,2024-12-28,19:00:00,Boston Bruins,BOS,Columbus Blue Jackets,CBJ,4.0,0.0,True,False,False
+571,2024020571,2024-12-28T19:00:00,2024-12-28,19:00:00,Toronto Maple Leafs,TOR,Washington Capitals,WSH,2.0,5.0,False,True,False
+572,2024020572,2024-12-28T19:00:00,2024-12-28,19:00:00,Tampa Bay Lightning,TBL,New York Rangers,NYR,6.0,2.0,True,False,False
+573,2024020573,2024-12-28T19:00:00,2024-12-28,19:00:00,Carolina Hurricanes,CAR,New Jersey Devils,NJD,5.0,2.0,True,False,False
+574,2024020574,2024-12-28T19:00:00,2024-12-28,19:00:00,Winnipeg Jets,WPG,Ottawa Senators,OTT,4.0,2.0,True,False,False
+575,2024020575,2024-12-28T19:30:00,2024-12-28,19:30:00,New York Islanders,NYI,Pittsburgh Penguins,PIT,6.0,3.0,True,False,False
+576,2024020576,2024-12-28T22:00:00,2024-12-28,22:00:00,San Jose Sharks,SJS,Calgary Flames,CGY,1.0,3.0,False,True,False
+577,2024020577,2024-12-29T20:30:00,2024-12-29,20:30:00,Chicago Blackhawks,CHI,Dallas Stars,DAL,1.0,5.0,False,True,False
+578,2024020578,2024-12-29T16:00:00,2024-12-29,16:00:00,Anaheim Ducks,ANA,Edmonton Oilers,EDM,5.0,3.0,True,False,False
+579,2024020579,2024-12-29T17:00:00,2024-12-29,17:00:00,Detroit Red Wings,DET,Washington Capitals,WSH,4.0,2.0,True,False,False
+580,2024020580,2024-12-29T17:00:00,2024-12-29,17:00:00,Tampa Bay Lightning,TBL,Montréal Canadiens,MTL,2.0,5.0,False,True,False
+581,2024020581,2024-12-29T17:30:00,2024-12-29,17:30:00,Pittsburgh Penguins,PIT,New York Islanders,NYI,3.0,2.0,True,False,False
+582,2024020582,2024-12-29T15:00:00,2024-12-29,15:00:00,St. Louis Blues,STL,Buffalo Sabres,BUF,2.0,4.0,False,True,False
+583,2024020583,2024-12-29T20:00:00,2024-12-29,20:00:00,Minnesota Wild,MIN,Ottawa Senators,OTT,1.0,3.0,False,True,False
+584,2024020584,2024-12-29T20:00:00,2024-12-29,20:00:00,Vegas Golden Knights,VGK,Calgary Flames,CGY,3.0,0.0,True,False,False
+585,2024020585,2024-12-29T21:00:00,2024-12-29,21:00:00,Los Angeles Kings,LAK,Philadelphia Flyers,PHI,5.0,4.0,True,False,False
+586,2024020586,2024-12-30T19:00:00,2024-12-30,19:00:00,Florida Panthers,FLA,New York Rangers,NYR,5.0,3.0,True,False,False
+587,2024020587,2024-12-30T19:30:00,2024-12-30,19:30:00,Winnipeg Jets,WPG,Nashville Predators,NSH,3.0,0.0,True,False,False
+588,2024020588,2024-12-30T20:00:00,2024-12-30,20:00:00,Seattle Kraken,SEA,Utah Hockey Club,UTA,5.0,2.0,True,False,False
+589,2024020589,2024-12-31T12:30:00,2024-12-31,12:30:00,Washington Capitals,WSH,Boston Bruins,BOS,3.0,1.0,True,False,False
+590,2024020590,2024-12-31T13:00:00,2024-12-31,13:00:00,Toronto Maple Leafs,TOR,New York Islanders,NYI,3.0,1.0,True,False,False
+591,2024020591,2024-12-31T15:00:00,2024-12-31,15:00:00,Vegas Golden Knights,VGK,Montréal Canadiens,MTL,2.0,3.0,False,True,False
+592,2024020592,2024-12-31T17:00:00,2024-12-31,17:00:00,Chicago Blackhawks,CHI,St. Louis Blues,STL,2.0,6.0,False,True,False
+593,2024020593,2024-12-31T20:00:00,2024-12-31,20:00:00,Detroit Red Wings,DET,Pittsburgh Penguins,PIT,4.0,2.0,True,False,False
+594,2024020594,2024-12-31T20:00:00,2024-12-31,20:00:00,Columbus Blue Jackets,CBJ,Carolina Hurricanes,CAR,4.0,3.0,True,False,True
+595,2024020595,2024-12-31T20:00:00,2024-12-31,20:00:00,Dallas Stars,DAL,Buffalo Sabres,BUF,4.0,2.0,True,False,False
+596,2024020596,2024-12-31T20:00:00,2024-12-31,20:00:00,Minnesota Wild,MIN,Nashville Predators,NSH,5.0,3.0,True,False,False
+597,2024020597,2024-12-31T20:00:00,2024-12-31,20:00:00,Colorado Avalanche,COL,Winnipeg Jets,WPG,5.0,2.0,True,False,False
+598,2024020598,2024-12-31T20:00:00,2024-12-31,20:00:00,Anaheim Ducks,ANA,New Jersey Devils,NJD,3.0,2.0,True,False,False
+599,2024020599,2024-12-31T20:00:00,2024-12-31,20:00:00,San Jose Sharks,SJS,Philadelphia Flyers,PHI,0.0,4.0,False,True,False
+600,2024020600,2024-12-31T21:00:00,2024-12-31,21:00:00,Calgary Flames,CGY,Vancouver Canucks,VAN,3.0,1.0,True,False,False
+601,2024020601,2024-12-31T21:00:00,2024-12-31,21:00:00,Edmonton Oilers,EDM,Utah Hockey Club,UTA,4.0,1.0,True,False,False
+602,2024020602,2025-01-01T18:00:00,2025-01-01,18:00:00,Los Angeles Kings,LAK,New Jersey Devils,NJD,3.0,0.0,True,False,False
+603,2024020603,2025-01-02T19:00:00,2025-01-02,19:00:00,Florida Panthers,FLA,Carolina Hurricanes,CAR,1.0,3.0,False,True,False
+604,2024020604,2025-01-02T19:00:00,2025-01-02,19:00:00,New York Rangers,NYR,Boston Bruins,BOS,2.0,1.0,True,False,False
+605,2024020605,2025-01-02T19:00:00,2025-01-02,19:00:00,Washington Capitals,WSH,Minnesota Wild,MIN,3.0,4.0,False,True,True
+606,2024020606,2025-01-02T19:00:00,2025-01-02,19:00:00,Columbus Blue Jackets,CBJ,Detroit Red Wings,DET,4.0,5.0,False,True,False
+607,2024020607,2025-01-02T19:30:00,2025-01-02,19:30:00,New York Islanders,NYI,Toronto Maple Leafs,TOR,1.0,2.0,False,True,False
+608,2024020608,2025-01-02T20:00:00,2025-01-02,20:00:00,Dallas Stars,DAL,Ottawa Senators,OTT,4.0,2.0,True,False,False
+609,2024020609,2025-01-02T20:00:00,2025-01-02,20:00:00,Winnipeg Jets,WPG,Anaheim Ducks,ANA,3.0,4.0,False,True,True
+610,2024020610,2025-01-02T21:00:00,2025-01-02,21:00:00,Colorado Avalanche,COL,Buffalo Sabres,BUF,6.0,5.0,True,False,True
+611,2024020611,2025-01-02T21:00:00,2025-01-02,21:00:00,Calgary Flames,CGY,Utah Hockey Club,UTA,3.0,5.0,False,True,False
+612,2024020612,2025-01-02T22:00:00,2025-01-02,22:00:00,Vegas Golden Knights,VGK,Philadelphia Flyers,PHI,5.0,2.0,True,False,False
+613,2024020613,2025-01-02T22:00:00,2025-01-02,22:00:00,Seattle Kraken,SEA,Vancouver Canucks,VAN,3.0,4.0,False,True,True
+614,2024020614,2025-01-02T22:30:00,2025-01-02,22:30:00,San Jose Sharks,SJS,Tampa Bay Lightning,TBL,2.0,1.0,True,False,False
+615,2024020615,2025-01-03T19:00:00,2025-01-03,19:00:00,Florida Panthers,FLA,Pittsburgh Penguins,PIT,3.0,2.0,True,False,True
+616,2024020616,2025-01-03T20:00:00,2025-01-03,20:00:00,Chicago Blackhawks,CHI,Montréal Canadiens,MTL,4.0,2.0,True,False,False
+617,2024020617,2025-01-03T20:00:00,2025-01-03,20:00:00,St. Louis Blues,STL,Ottawa Senators,OTT,4.0,0.0,True,False,False
+618,2024020618,2025-01-03T21:00:00,2025-01-03,21:00:00,Edmonton Oilers,EDM,Anaheim Ducks,ANA,3.0,2.0,True,False,False
+619,2024020619,2025-01-03T22:00:00,2025-01-03,22:00:00,Vancouver Canucks,VAN,Nashville Predators,NSH,0.0,3.0,False,True,False
+620,2024020620,2025-01-04T12:00:00,2025-01-04,12:00:00,Washington Capitals,WSH,New York Rangers,NYR,7.0,4.0,True,False,False
+621,2024020621,2025-01-04T19:00:00,2025-01-04,19:00:00,Winnipeg Jets,WPG,Detroit Red Wings,DET,2.0,4.0,False,True,False
+622,2024020622,2025-01-04T16:00:00,2025-01-04,16:00:00,San Jose Sharks,SJS,New Jersey Devils,NJD,3.0,2.0,True,False,False
+623,2024020623,2025-01-04T19:00:00,2025-01-04,19:00:00,Toronto Maple Leafs,TOR,Boston Bruins,BOS,6.0,4.0,True,False,False
+624,2024020624,2025-01-04T19:00:00,2025-01-04,19:00:00,Carolina Hurricanes,CAR,Minnesota Wild,MIN,0.0,4.0,False,True,False
+625,2024020625,2025-01-04T19:00:00,2025-01-04,19:00:00,Columbus Blue Jackets,CBJ,St. Louis Blues,STL,6.0,4.0,True,False,False
+626,2024020626,2025-01-04T19:00:00,2025-01-04,19:00:00,Colorado Avalanche,COL,Montréal Canadiens,MTL,1.0,2.0,False,True,True
+627,2024020627,2025-01-04T22:00:00,2025-01-04,22:00:00,Calgary Flames,CGY,Nashville Predators,NSH,1.0,4.0,False,True,False
+628,2024020628,2025-01-04T20:00:00,2025-01-04,20:00:00,Dallas Stars,DAL,Utah Hockey Club,UTA,3.0,2.0,True,False,True
+629,2024020629,2025-01-04T21:00:00,2025-01-04,21:00:00,Los Angeles Kings,LAK,Tampa Bay Lightning,TBL,2.0,1.0,True,False,False
+630,2024020630,2025-01-04T22:00:00,2025-01-04,22:00:00,Vegas Golden Knights,VGK,Buffalo Sabres,BUF,3.0,1.0,True,False,False
+631,2024020631,2025-01-04T22:00:00,2025-01-04,22:00:00,Seattle Kraken,SEA,Edmonton Oilers,EDM,2.0,4.0,False,True,False
+632,2024020632,2025-01-05T15:00:00,2025-01-05,15:00:00,Chicago Blackhawks,CHI,New York Rangers,NYR,2.0,6.0,False,True,False
+633,2024020633,2025-01-05T18:00:00,2025-01-05,18:00:00,Boston Bruins,BOS,New York Islanders,NYI,4.0,5.0,False,True,True
+634,2024020634,2025-01-05T18:00:00,2025-01-05,18:00:00,Carolina Hurricanes,CAR,Pittsburgh Penguins,PIT,4.0,3.0,True,False,True
+635,2024020635,2025-01-05T19:00:00,2025-01-05,19:00:00,Toronto Maple Leafs,TOR,Philadelphia Flyers,PHI,3.0,2.0,True,False,True
+636,2024020636,2025-01-05T20:00:00,2025-01-05,20:00:00,Anaheim Ducks,ANA,Tampa Bay Lightning,TBL,4.0,1.0,True,False,False
+637,2024020637,2025-01-06T19:00:00,2025-01-06,19:00:00,Buffalo Sabres,BUF,Washington Capitals,WSH,4.0,3.0,True,False,True
+638,2024020638,2025-01-06T19:30:00,2025-01-06,19:30:00,Montréal Canadiens,MTL,Vancouver Canucks,VAN,5.0,4.0,True,False,True
+639,2024020639,2025-01-06T21:00:00,2025-01-06,21:00:00,Colorado Avalanche,COL,Florida Panthers,FLA,3.0,1.0,True,False,False
+640,2024020640,2025-01-06T22:00:00,2025-01-06,22:00:00,Seattle Kraken,SEA,New Jersey Devils,NJD,2.0,3.0,False,True,False
+641,2024020641,2025-01-07T19:00:00,2025-01-07,19:00:00,Boston Bruins,BOS,Edmonton Oilers,EDM,0.0,4.0,False,True,False
+642,2024020642,2025-01-07T19:00:00,2025-01-07,19:00:00,Detroit Red Wings,DET,Ottawa Senators,OTT,3.0,2.0,True,False,True
+643,2024020643,2025-01-07T19:00:00,2025-01-07,19:00:00,New York Rangers,NYR,Dallas Stars,DAL,4.0,5.0,False,True,True
+644,2024020644,2025-01-07T19:30:00,2025-01-07,19:30:00,Philadelphia Flyers,PHI,Toronto Maple Leafs,TOR,2.0,3.0,False,True,False
+645,2024020645,2025-01-07T19:00:00,2025-01-07,19:00:00,Pittsburgh Penguins,PIT,Columbus Blue Jackets,CBJ,3.0,4.0,False,True,True
+646,2024020646,2025-01-07T20:00:00,2025-01-07,20:00:00,Minnesota Wild,MIN,St. Louis Blues,STL,6.0,4.0,True,False,False
+647,2024020647,2025-01-07T20:00:00,2025-01-07,20:00:00,Winnipeg Jets,WPG,Nashville Predators,NSH,5.0,2.0,True,False,False
+648,2024020648,2025-01-07T22:00:00,2025-01-07,22:00:00,Anaheim Ducks,ANA,Calgary Flames,CGY,2.0,3.0,False,True,True
+649,2024020649,2025-01-07T22:30:00,2025-01-07,22:30:00,San Jose Sharks,SJS,Vegas Golden Knights,VGK,2.0,4.0,False,True,False
+650,2024020650,2025-01-08T19:30:00,2025-01-08,19:30:00,Washington Capitals,WSH,Vancouver Canucks,VAN,2.0,1.0,True,False,True
+651,2024020651,2025-01-08T19:30:00,2025-01-08,19:30:00,Chicago Blackhawks,CHI,Colorado Avalanche,COL,3.0,1.0,True,False,False
+652,2024020652,2025-01-08T22:00:00,2025-01-08,22:00:00,Utah Hockey Club,UTA,Florida Panthers,FLA,1.0,4.0,False,True,False
+653,2024020653,2025-04-17T21:30:00,2025-04-17,21:30:00,Los Angeles Kings,LAK,Calgary Flames,CGY,3.163085637277364,2.4440896876216036,0.6395036343516893,0.36049636564831067,0.16562347880725342
+654,2024020654,2025-01-09T19:00:00,2025-01-09,19:00:00,Ottawa Senators,OTT,Buffalo Sabres,BUF,0.0,4.0,False,True,False
+655,2024020655,2025-01-09T19:00:00,2025-01-09,19:00:00,Tampa Bay Lightning,TBL,Boston Bruins,BOS,4.0,1.0,True,False,False
+656,2024020656,2025-01-09T19:00:00,2025-01-09,19:00:00,New York Rangers,NYR,New Jersey Devils,NJD,3.0,2.0,True,False,True
+657,2024020657,2025-01-09T19:00:00,2025-01-09,19:00:00,Philadelphia Flyers,PHI,Dallas Stars,DAL,1.0,4.0,False,True,False
+658,2024020658,2025-01-09T19:00:00,2025-01-09,19:00:00,Pittsburgh Penguins,PIT,Edmonton Oilers,EDM,5.0,3.0,True,False,False
+659,2024020659,2025-01-09T19:30:00,2025-01-09,19:30:00,Carolina Hurricanes,CAR,Toronto Maple Leafs,TOR,6.0,3.0,True,False,False
+660,2024020660,2025-01-09T19:00:00,2025-01-09,19:00:00,Columbus Blue Jackets,CBJ,Seattle Kraken,SEA,6.0,2.0,True,False,False
+661,2024020661,2025-01-09T20:00:00,2025-01-09,20:00:00,St. Louis Blues,STL,Anaheim Ducks,ANA,6.0,2.0,True,False,False
+662,2024020662,2025-01-09T20:00:00,2025-01-09,20:00:00,Minnesota Wild,MIN,Colorado Avalanche,COL,1.0,6.0,False,True,False
+663,2024020663,2025-01-09T22:00:00,2025-01-09,22:00:00,Vegas Golden Knights,VGK,New York Islanders,NYI,0.0,4.0,False,True,False
+664,2024020664,2025-01-10T19:00:00,2025-01-10,19:00:00,Detroit Red Wings,DET,Chicago Blackhawks,CHI,5.0,3.0,True,False,False
+665,2024020665,2025-01-10T19:00:00,2025-01-10,19:00:00,Washington Capitals,WSH,Montréal Canadiens,MTL,2.0,3.0,False,True,True
+666,2024020666,2025-01-10T19:00:00,2025-01-10,19:00:00,Carolina Hurricanes,CAR,Vancouver Canucks,VAN,2.0,0.0,True,False,False
+667,2024020667,2025-01-10T20:00:00,2025-01-10,20:00:00,Winnipeg Jets,WPG,Los Angeles Kings,LAK,1.0,2.0,False,True,True
+668,2024020668,2025-01-10T21:00:00,2025-01-10,21:00:00,Utah Hockey Club,UTA,San Jose Sharks,SJS,2.0,1.0,True,False,False
+669,2024020669,2025-01-11T13:00:00,2025-01-11,13:00:00,Florida Panthers,FLA,Boston Bruins,BOS,3.0,4.0,False,True,True
+670,2024020670,2025-01-11T16:00:00,2025-01-11,16:00:00,Buffalo Sabres,BUF,Seattle Kraken,SEA,2.0,6.0,False,True,False
+671,2024020671,2025-01-11T16:00:00,2025-01-11,16:00:00,Pittsburgh Penguins,PIT,Ottawa Senators,OTT,0.0,5.0,False,True,False
+672,2024020672,2025-01-11T19:00:00,2025-01-11,19:00:00,Toronto Maple Leafs,TOR,Vancouver Canucks,VAN,0.0,3.0,False,True,False
+673,2024020673,2025-01-11T19:00:00,2025-01-11,19:00:00,Montréal Canadiens,MTL,Dallas Stars,DAL,1.0,2.0,False,True,True
+674,2024020674,2025-01-11T19:00:00,2025-01-11,19:00:00,New Jersey Devils,NJD,Tampa Bay Lightning,TBL,3.0,2.0,True,False,True
+675,2024020675,2025-01-11T19:00:00,2025-01-11,19:00:00,Philadelphia Flyers,PHI,Anaheim Ducks,ANA,6.0,0.0,True,False,False
+676,2024020676,2025-01-11T19:00:00,2025-01-11,19:00:00,Chicago Blackhawks,CHI,Edmonton Oilers,EDM,3.0,4.0,False,True,False
+677,2024020677,2025-01-11T19:00:00,2025-01-11,19:00:00,St. Louis Blues,STL,Columbus Blue Jackets,CBJ,1.0,2.0,False,True,False
+678,2024020678,2025-01-11T19:00:00,2025-01-11,19:00:00,Winnipeg Jets,WPG,Colorado Avalanche,COL,3.0,0.0,True,False,False
+679,2024020679,2025-01-11T20:00:00,2025-01-11,20:00:00,Nashville Predators,NSH,Washington Capitals,WSH,1.0,4.0,False,True,False
+680,2024020680,2025-01-11T21:00:00,2025-01-11,21:00:00,Utah Hockey Club,UTA,New York Islanders,NYI,1.0,2.0,False,True,False
+681,2024020681,2025-01-11T22:00:00,2025-01-11,22:00:00,Calgary Flames,CGY,Los Angeles Kings,LAK,2.0,1.0,True,False,False
+682,2024020682,2025-01-11T22:00:00,2025-01-11,22:00:00,Vegas Golden Knights,VGK,New York Rangers,NYR,1.0,2.0,False,True,False
+683,2024020683,2025-01-11T22:00:00,2025-01-11,22:00:00,San Jose Sharks,SJS,Minnesota Wild,MIN,1.0,3.0,False,True,False
+684,2024020684,2025-01-12T15:00:00,2025-01-12,15:00:00,Detroit Red Wings,DET,Seattle Kraken,SEA,6.0,2.0,True,False,False
+685,2024020685,2025-01-12T17:00:00,2025-01-12,17:00:00,Ottawa Senators,OTT,Dallas Stars,DAL,3.0,2.0,True,False,False
+686,2024020686,2025-01-12T17:00:00,2025-01-12,17:00:00,Pittsburgh Penguins,PIT,Tampa Bay Lightning,TBL,2.0,5.0,False,True,False
+687,2024020687,2025-01-12T17:00:00,2025-01-12,17:00:00,Carolina Hurricanes,CAR,Anaheim Ducks,ANA,2.0,3.0,False,True,True
+688,2024020688,2025-01-12T20:00:00,2025-01-12,20:00:00,Vegas Golden Knights,VGK,Minnesota Wild,MIN,4.0,1.0,True,False,False
+689,2024020689,2025-01-13T19:00:00,2025-01-13,19:00:00,Philadelphia Flyers,PHI,Florida Panthers,FLA,4.0,3.0,True,False,False
+690,2024020690,2025-01-13T19:30:00,2025-01-13,19:30:00,Chicago Blackhawks,CHI,Calgary Flames,CGY,2.0,5.0,False,True,False
+691,2024020691,2025-01-13T21:30:00,2025-01-13,21:30:00,Edmonton Oilers,EDM,Los Angeles Kings,LAK,1.0,0.0,True,False,False
+692,2024020692,2025-01-14T19:00:00,2025-01-14,19:00:00,Boston Bruins,BOS,Tampa Bay Lightning,TBL,6.0,2.0,True,False,False
+693,2024020693,2025-01-14T19:00:00,2025-01-14,19:00:00,Toronto Maple Leafs,TOR,Dallas Stars,DAL,1.0,4.0,False,True,False
+694,2024020694,2025-01-14T19:00:00,2025-01-14,19:00:00,Detroit Red Wings,DET,San Jose Sharks,SJS,3.0,6.0,False,True,False
+695,2024020695,2025-01-14T19:30:00,2025-01-14,19:30:00,New Jersey Devils,NJD,Florida Panthers,FLA,1.0,2.0,False,True,True
+696,2024020696,2025-01-14T19:00:00,2025-01-14,19:00:00,Pittsburgh Penguins,PIT,Seattle Kraken,SEA,2.0,4.0,False,True,False
+697,2024020697,2025-01-14T19:00:00,2025-01-14,19:00:00,Washington Capitals,WSH,Anaheim Ducks,ANA,3.0,0.0,True,False,False
+698,2024020698,2025-01-14T19:00:00,2025-01-14,19:00:00,Columbus Blue Jackets,CBJ,Philadelphia Flyers,PHI,3.0,2.0,True,False,True
+699,2024020699,2025-01-14T19:30:00,2025-01-14,19:30:00,New York Islanders,NYI,Ottawa Senators,OTT,0.0,2.0,False,True,False
+700,2024020700,2025-01-14T20:00:00,2025-01-14,20:00:00,St. Louis Blues,STL,Calgary Flames,CGY,2.0,1.0,True,False,False
+701,2024020701,2025-01-14T20:00:00,2025-01-14,20:00:00,Nashville Predators,NSH,Vegas Golden Knights,VGK,5.0,3.0,True,False,False
+702,2024020702,2025-01-14T20:00:00,2025-01-14,20:00:00,Winnipeg Jets,WPG,Vancouver Canucks,VAN,6.0,1.0,True,False,False
+703,2024020703,2025-01-14T21:00:00,2025-01-14,21:00:00,Colorado Avalanche,COL,New York Rangers,NYR,3.0,2.0,True,False,True
+704,2024020704,2025-01-14T21:00:00,2025-01-14,21:00:00,Utah Hockey Club,UTA,Montréal Canadiens,MTL,3.0,5.0,False,True,False
+705,2024020705,2025-01-15T18:00:00,2025-01-15,18:00:00,Buffalo Sabres,BUF,Carolina Hurricanes,CAR,4.0,2.0,True,False,False
+706,2024020706,2025-01-15T20:30:00,2025-01-15,20:30:00,Minnesota Wild,MIN,Edmonton Oilers,EDM,3.0,5.0,False,True,False
+707,2024020707,2025-01-16T19:00:00,2025-01-16,19:00:00,Toronto Maple Leafs,TOR,New Jersey Devils,NJD,4.0,3.0,True,False,True
+708,2024020708,2025-01-16T19:00:00,2025-01-16,19:00:00,Ottawa Senators,OTT,Washington Capitals,WSH,0.0,1.0,False,True,True
+709,2024020709,2025-01-16T19:00:00,2025-01-16,19:00:00,Tampa Bay Lightning,TBL,Anaheim Ducks,ANA,4.0,3.0,True,False,True
+710,2024020710,2025-01-16T19:00:00,2025-01-16,19:00:00,Florida Panthers,FLA,Detroit Red Wings,DET,2.0,5.0,False,True,False
+711,2024020711,2025-01-16T19:00:00,2025-01-16,19:00:00,Columbus Blue Jackets,CBJ,San Jose Sharks,SJS,4.0,1.0,True,False,False
+712,2024020712,2025-01-16T19:30:00,2025-01-16,19:30:00,New York Islanders,NYI,Philadelphia Flyers,PHI,3.0,5.0,False,True,False
+713,2024020713,2025-01-16T20:00:00,2025-01-16,20:00:00,St. Louis Blues,STL,Calgary Flames,CGY,4.0,1.0,True,False,False
+714,2024020714,2025-01-16T20:00:00,2025-01-16,20:00:00,Nashville Predators,NSH,Chicago Blackhawks,CHI,3.0,2.0,True,False,True
+715,2024020715,2025-01-16T20:00:00,2025-01-16,20:00:00,Dallas Stars,DAL,Montréal Canadiens,MTL,1.0,3.0,False,True,False
+716,2024020716,2025-01-16T20:00:00,2025-01-16,20:00:00,Winnipeg Jets,WPG,Seattle Kraken,SEA,2.0,1.0,True,False,False
+717,2024020717,2025-01-16T21:00:00,2025-01-16,21:00:00,Utah Hockey Club,UTA,New York Rangers,NYR,3.0,5.0,False,True,False
+718,2024020718,2025-01-16T21:30:00,2025-01-16,21:30:00,Colorado Avalanche,COL,Edmonton Oilers,EDM,3.0,4.0,False,True,False
+719,2024020719,2025-01-16T22:00:00,2025-01-16,22:00:00,Vancouver Canucks,VAN,Los Angeles Kings,LAK,1.0,5.0,False,True,False
+720,2024020720,2025-01-17T19:00:00,2025-01-17,19:00:00,Buffalo Sabres,BUF,Pittsburgh Penguins,PIT,2.0,5.0,False,True,False
+721,2024020721,2025-01-17T19:00:00,2025-01-17,19:00:00,Carolina Hurricanes,CAR,Vegas Golden Knights,VGK,3.0,2.0,True,False,False
+722,2024020722,2025-01-18T12:30:00,2025-01-18,12:30:00,New Jersey Devils,NJD,Philadelphia Flyers,PHI,1.0,3.0,False,True,False
+723,2024020723,2025-01-18T15:00:00,2025-01-18,15:00:00,Ottawa Senators,OTT,Boston Bruins,BOS,6.0,5.0,True,False,True
+724,2024020724,2025-01-18T16:00:00,2025-01-18,16:00:00,Colorado Avalanche,COL,Dallas Stars,DAL,6.0,3.0,True,False,False
+725,2024020725,2025-01-18T18:00:00,2025-01-18,18:00:00,Florida Panthers,FLA,Anaheim Ducks,ANA,3.0,0.0,True,False,False
+726,2024020726,2025-01-18T19:00:00,2025-01-18,19:00:00,Montréal Canadiens,MTL,Toronto Maple Leafs,TOR,3.0,7.0,False,True,False
+727,2024020727,2025-01-18T19:00:00,2025-01-18,19:00:00,Tampa Bay Lightning,TBL,Detroit Red Wings,DET,5.0,1.0,True,False,False
+728,2024020728,2025-01-18T19:00:00,2025-01-18,19:00:00,New York Rangers,NYR,Columbus Blue Jackets,CBJ,1.0,0.0,True,False,True
+729,2024020729,2025-01-18T19:00:00,2025-01-18,19:00:00,Washington Capitals,WSH,Pittsburgh Penguins,PIT,4.0,1.0,True,False,False
+730,2024020730,2025-01-18T19:00:00,2025-01-18,19:00:00,Winnipeg Jets,WPG,Calgary Flames,CGY,1.0,3.0,False,True,False
+731,2024020731,2025-01-18T19:30:00,2025-01-18,19:30:00,New York Islanders,NYI,San Jose Sharks,SJS,4.0,1.0,True,False,False
+732,2024020732,2025-01-18T20:00:00,2025-01-18,20:00:00,Chicago Blackhawks,CHI,Vegas Golden Knights,VGK,5.0,3.0,True,False,False
+733,2024020733,2025-01-18T20:00:00,2025-01-18,20:00:00,Nashville Predators,NSH,Minnesota Wild,MIN,6.0,2.0,True,False,False
+734,2024020734,2025-01-18T21:00:00,2025-01-18,21:00:00,Utah Hockey Club,UTA,St. Louis Blues,STL,4.0,2.0,True,False,False
+735,2024020735,2025-01-18T22:00:00,2025-01-18,22:00:00,Vancouver Canucks,VAN,Edmonton Oilers,EDM,3.0,2.0,True,False,False
+736,2024020736,2025-01-18T22:00:00,2025-01-18,22:00:00,Seattle Kraken,SEA,Los Angeles Kings,LAK,4.0,2.0,True,False,False
+737,2024020737,2025-01-19T13:00:00,2025-01-19,13:00:00,New Jersey Devils,NJD,Ottawa Senators,OTT,1.0,2.0,False,True,False
+738,2024020738,2025-01-19T19:00:00,2025-01-19,19:00:00,Montréal Canadiens,MTL,New York Rangers,NYR,5.0,4.0,True,False,True
+739,2024020739,2025-01-19T20:00:00,2025-01-19,20:00:00,Dallas Stars,DAL,Detroit Red Wings,DET,4.0,1.0,True,False,False
+740,2024020740,2025-01-20T13:00:00,2025-01-20,13:00:00,Boston Bruins,BOS,San Jose Sharks,SJS,6.0,3.0,True,False,False
+741,2024020741,2025-01-20T15:00:00,2025-01-20,15:00:00,Colorado Avalanche,COL,Minnesota Wild,MIN,1.0,3.0,False,True,False
+742,2024020742,2025-01-20T16:00:00,2025-01-20,16:00:00,Seattle Kraken,SEA,Buffalo Sabres,BUF,6.0,4.0,True,False,False
+743,2024020743,2025-01-20T18:00:00,2025-01-20,18:00:00,Vegas Golden Knights,VGK,St. Louis Blues,STL,4.0,5.0,False,True,True
+744,2024020744,2025-01-20T19:30:00,2025-01-20,19:30:00,Toronto Maple Leafs,TOR,Tampa Bay Lightning,TBL,5.0,3.0,True,False,False
+745,2024020745,2025-01-20T19:30:00,2025-01-20,19:30:00,New York Islanders,NYI,Columbus Blue Jackets,CBJ,3.0,1.0,True,False,False
+746,2024020746,2025-01-20T20:30:00,2025-01-20,20:30:00,Chicago Blackhawks,CHI,Carolina Hurricanes,CAR,3.0,4.0,False,True,True
+747,2024020747,2025-01-20T21:30:00,2025-01-20,21:30:00,Utah Hockey Club,UTA,Winnipeg Jets,WPG,5.0,2.0,True,False,False
+748,2024020748,2025-01-20T22:30:00,2025-01-20,22:30:00,Los Angeles Kings,LAK,Pittsburgh Penguins,PIT,1.0,5.0,False,True,False
+749,2024020749,2025-01-21T19:00:00,2025-01-21,19:00:00,Montréal Canadiens,MTL,Tampa Bay Lightning,TBL,3.0,2.0,True,False,False
+750,2024020750,2025-01-21T19:00:00,2025-01-21,19:00:00,New York Rangers,NYR,Ottawa Senators,OTT,5.0,0.0,True,False,False
+751,2024020751,2025-01-21T19:00:00,2025-01-21,19:00:00,Philadelphia Flyers,PHI,Detroit Red Wings,DET,2.0,1.0,True,False,True
+752,2024020752,2025-01-21T20:00:00,2025-01-21,20:00:00,Nashville Predators,NSH,San Jose Sharks,SJS,7.0,5.0,True,False,False
+753,2024020753,2025-01-21T20:00:00,2025-01-21,20:00:00,Dallas Stars,DAL,Carolina Hurricanes,CAR,1.0,2.0,False,True,False
+754,2024020754,2025-01-21T21:00:00,2025-01-21,21:00:00,Edmonton Oilers,EDM,Washington Capitals,WSH,2.0,3.0,False,True,False
+755,2024020755,2025-01-21T22:00:00,2025-01-21,22:00:00,Vancouver Canucks,VAN,Buffalo Sabres,BUF,2.0,3.0,False,True,False
+756,2024020756,2025-01-21T22:00:00,2025-01-21,22:00:00,Anaheim Ducks,ANA,Florida Panthers,FLA,2.0,5.0,False,True,False
+757,2024020757,2025-01-22T19:30:00,2025-01-22,19:30:00,Toronto Maple Leafs,TOR,Columbus Blue Jackets,CBJ,1.0,5.0,False,True,False
+758,2024020758,2025-01-22T19:00:00,2025-01-22,19:00:00,New Jersey Devils,NJD,Boston Bruins,BOS,5.0,1.0,True,False,False
+759,2024020759,2025-01-22T21:30:00,2025-01-22,21:30:00,Colorado Avalanche,COL,Winnipeg Jets,WPG,2.0,3.0,False,True,True
+760,2024020760,2025-01-22T22:00:00,2025-01-22,22:00:00,Los Angeles Kings,LAK,Florida Panthers,FLA,2.0,1.0,True,False,False
+761,2024020761,2025-01-23T19:00:00,2025-01-23,19:00:00,Boston Bruins,BOS,Ottawa Senators,OTT,2.0,0.0,True,False,False
+762,2024020762,2025-01-23T19:00:00,2025-01-23,19:00:00,Detroit Red Wings,DET,Montréal Canadiens,MTL,4.0,2.0,True,False,False
+763,2024020763,2025-01-23T19:00:00,2025-01-23,19:00:00,New York Rangers,NYR,Philadelphia Flyers,PHI,6.0,1.0,True,False,False
+764,2024020764,2025-01-23T19:00:00,2025-01-23,19:00:00,Carolina Hurricanes,CAR,Columbus Blue Jackets,CBJ,7.0,4.0,True,False,False
+765,2024020765,2025-01-23T20:00:00,2025-01-23,20:00:00,St. Louis Blues,STL,Vegas Golden Knights,VGK,2.0,4.0,False,True,False
+766,2024020766,2025-01-23T20:00:00,2025-01-23,20:00:00,Minnesota Wild,MIN,Utah Hockey Club,UTA,0.0,4.0,False,True,False
+767,2024020767,2025-01-23T21:00:00,2025-01-23,21:00:00,Calgary Flames,CGY,Buffalo Sabres,BUF,5.0,2.0,True,False,False
+768,2024020768,2025-01-23T21:00:00,2025-01-23,21:00:00,Edmonton Oilers,EDM,Vancouver Canucks,VAN,6.0,2.0,True,False,False
+769,2024020769,2025-01-23T22:00:00,2025-01-23,22:00:00,Anaheim Ducks,ANA,Pittsburgh Penguins,PIT,5.0,1.0,True,False,False
+770,2024020770,2025-01-23T22:00:00,2025-01-23,22:00:00,Seattle Kraken,SEA,Washington Capitals,WSH,0.0,3.0,False,True,False
+771,2024020771,2025-01-23T22:30:00,2025-01-23,22:30:00,San Jose Sharks,SJS,Nashville Predators,NSH,5.0,6.0,False,True,False
+772,2024020772,2025-01-24T19:30:00,2025-01-24,19:30:00,New York Islanders,NYI,Philadelphia Flyers,PHI,3.0,1.0,True,False,False
+773,2024020773,2025-01-24T20:00:00,2025-01-24,20:00:00,Chicago Blackhawks,CHI,Tampa Bay Lightning,TBL,3.0,4.0,False,True,True
+774,2024020774,2025-01-24T19:30:00,2025-01-24,19:30:00,Dallas Stars,DAL,Vegas Golden Knights,VGK,4.0,3.0,True,False,False
+775,2024020775,2025-01-24T20:00:00,2025-01-24,20:00:00,Winnipeg Jets,WPG,Utah Hockey Club,UTA,5.0,2.0,True,False,False
+776,2024020776,2025-01-25T13:00:00,2025-01-25,13:00:00,Boston Bruins,BOS,Colorado Avalanche,COL,3.0,1.0,True,False,False
+777,2024020777,2025-01-25T16:00:00,2025-01-25,16:00:00,Edmonton Oilers,EDM,Buffalo Sabres,BUF,3.0,2.0,True,False,False
+778,2024020778,2025-01-25T16:00:00,2025-01-25,16:00:00,Seattle Kraken,SEA,Pittsburgh Penguins,PIT,4.0,1.0,True,False,False
+779,2024020779,2025-01-25T19:00:00,2025-01-25,19:00:00,Montréal Canadiens,MTL,New Jersey Devils,NJD,3.0,4.0,False,True,True
+780,2024020780,2025-01-25T19:00:00,2025-01-25,19:00:00,Ottawa Senators,OTT,Toronto Maple Leafs,TOR,2.0,1.0,True,False,False
+781,2024020781,2025-01-25T19:00:00,2025-01-25,19:00:00,Detroit Red Wings,DET,Tampa Bay Lightning,TBL,2.0,0.0,True,False,False
+782,2024020782,2025-01-25T19:00:00,2025-01-25,19:00:00,Columbus Blue Jackets,CBJ,Los Angeles Kings,LAK,3.0,2.0,True,False,True
+783,2024020783,2025-01-25T19:00:00,2025-01-25,19:00:00,St. Louis Blues,STL,Dallas Stars,DAL,0.0,2.0,False,True,False
+784,2024020784,2025-01-25T19:00:00,2025-01-25,19:00:00,Minnesota Wild,MIN,Calgary Flames,CGY,4.0,5.0,False,True,False
+785,2024020785,2025-01-25T19:30:00,2025-01-25,19:30:00,New York Islanders,NYI,Carolina Hurricanes,CAR,3.0,2.0,True,False,True
+786,2024020786,2025-01-25T22:00:00,2025-01-25,22:00:00,Vancouver Canucks,VAN,Washington Capitals,WSH,2.0,1.0,True,False,False
+787,2024020787,2025-01-25T22:00:00,2025-01-25,22:00:00,Anaheim Ducks,ANA,Nashville Predators,NSH,5.0,2.0,True,False,False
+788,2024020788,2025-01-25T22:00:00,2025-01-25,22:00:00,San Jose Sharks,SJS,Florida Panthers,FLA,2.0,7.0,False,True,False
+789,2024020789,2025-01-26T13:00:00,2025-01-26,13:00:00,New York Rangers,NYR,Colorado Avalanche,COL,4.0,5.0,False,True,False
+790,2024020790,2025-01-26T17:00:00,2025-01-26,17:00:00,Ottawa Senators,OTT,Utah Hockey Club,UTA,3.0,1.0,True,False,False
+791,2024020791,2025-01-26T18:00:00,2025-01-26,18:00:00,Winnipeg Jets,WPG,Calgary Flames,CGY,5.0,2.0,True,False,False
+792,2024020792,2025-01-26T19:00:00,2025-01-26,19:00:00,Chicago Blackhawks,CHI,Minnesota Wild,MIN,2.0,4.0,False,True,False
+793,2024020793,2025-01-26T20:00:00,2025-01-26,20:00:00,Vegas Golden Knights,VGK,Florida Panthers,FLA,4.0,1.0,True,False,False
+794,2024020794,2025-01-27T19:00:00,2025-01-27,19:00:00,Detroit Red Wings,DET,Los Angeles Kings,LAK,5.0,2.0,True,False,False
+795,2024020795,2025-01-27T19:00:00,2025-01-27,19:00:00,Philadelphia Flyers,PHI,New Jersey Devils,NJD,4.0,2.0,True,False,False
+796,2024020796,2025-01-27T19:30:00,2025-01-27,19:30:00,St. Louis Blues,STL,Vancouver Canucks,VAN,2.0,5.0,False,True,False
+797,2024020797,2025-01-27T21:30:00,2025-01-27,21:30:00,Edmonton Oilers,EDM,Seattle Kraken,SEA,4.0,2.0,True,False,False
+798,2024020798,2025-01-27T22:30:00,2025-01-27,22:30:00,San Jose Sharks,SJS,Pittsburgh Penguins,PIT,2.0,1.0,True,False,False
+799,2024020799,2025-01-28T19:00:00,2025-01-28,19:00:00,Buffalo Sabres,BUF,Boston Bruins,BOS,7.0,2.0,True,False,False
+800,2024020800,2025-01-28T19:00:00,2025-01-28,19:00:00,Montréal Canadiens,MTL,Winnipeg Jets,WPG,1.0,4.0,False,True,False
+801,2024020801,2025-01-28T19:00:00,2025-01-28,19:00:00,Tampa Bay Lightning,TBL,Chicago Blackhawks,CHI,1.0,4.0,False,True,False
+802,2024020802,2025-01-28T19:00:00,2025-01-28,19:00:00,New York Rangers,NYR,Carolina Hurricanes,CAR,0.0,4.0,False,True,False
+803,2024020803,2025-01-28T19:30:00,2025-01-28,19:30:00,New York Islanders,NYI,Colorado Avalanche,COL,5.0,2.0,True,False,False
+804,2024020804,2025-01-28T21:00:00,2025-01-28,21:00:00,Calgary Flames,CGY,Washington Capitals,WSH,1.0,3.0,False,True,False
+805,2024020805,2025-01-28T22:00:00,2025-01-28,22:00:00,Vegas Golden Knights,VGK,Dallas Stars,DAL,3.0,4.0,False,True,True
+806,2024020806,2025-01-28T22:00:00,2025-01-28,22:00:00,Seattle Kraken,SEA,Anaheim Ducks,ANA,4.0,6.0,False,True,False
+807,2024020807,2025-01-29T19:00:00,2025-01-29,19:00:00,Toronto Maple Leafs,TOR,Minnesota Wild,MIN,1.0,3.0,False,True,False
+808,2024020808,2025-01-29T19:00:00,2025-01-29,19:00:00,Florida Panthers,FLA,Los Angeles Kings,LAK,3.0,0.0,True,False,False
+809,2024020809,2025-01-29T19:00:00,2025-01-29,19:00:00,New Jersey Devils,NJD,Philadelphia Flyers,PHI,5.0,0.0,True,False,False
+810,2024020810,2025-01-29T21:00:00,2025-01-29,21:00:00,Nashville Predators,NSH,Vancouver Canucks,VAN,1.0,3.0,False,True,False
+811,2024020811,2025-01-29T21:30:00,2025-01-29,21:30:00,Utah Hockey Club,UTA,Pittsburgh Penguins,PIT,2.0,3.0,False,True,True
+812,2024020812,2025-01-30T19:00:00,2025-01-30,19:00:00,Boston Bruins,BOS,Winnipeg Jets,WPG,2.0,6.0,False,True,False
+813,2024020813,2025-01-30T19:00:00,2025-01-30,19:00:00,Montréal Canadiens,MTL,Minnesota Wild,MIN,0.0,4.0,False,True,False
+814,2024020814,2025-01-30T19:00:00,2025-01-30,19:00:00,Ottawa Senators,OTT,Washington Capitals,WSH,5.0,4.0,True,False,True
+815,2024020815,2025-01-30T19:00:00,2025-01-30,19:00:00,Tampa Bay Lightning,TBL,Los Angeles Kings,LAK,3.0,0.0,True,False,False
+816,2024020816,2025-01-30T19:30:00,2025-01-30,19:30:00,Philadelphia Flyers,PHI,New York Islanders,NYI,0.0,3.0,False,True,False
+817,2024020817,2025-01-30T19:00:00,2025-01-30,19:00:00,Carolina Hurricanes,CAR,Chicago Blackhawks,CHI,3.0,2.0,True,False,False
+818,2024020818,2025-01-30T21:00:00,2025-01-30,21:00:00,Calgary Flames,CGY,Anaheim Ducks,ANA,4.0,1.0,True,False,False
+819,2024020819,2025-01-30T21:00:00,2025-01-30,21:00:00,Edmonton Oilers,EDM,Detroit Red Wings,DET,2.0,3.0,False,True,True
+820,2024020820,2025-01-30T22:00:00,2025-01-30,22:00:00,Vegas Golden Knights,VGK,Columbus Blue Jackets,CBJ,1.0,2.0,False,True,True
+821,2024020821,2025-01-30T22:30:00,2025-01-30,22:30:00,Seattle Kraken,SEA,San Jose Sharks,SJS,6.0,2.0,True,False,False
+822,2024020822,2025-01-31T19:00:00,2025-01-31,19:00:00,Buffalo Sabres,BUF,Nashville Predators,NSH,4.0,3.0,True,False,False
+823,2024020823,2025-01-31T20:00:00,2025-01-31,20:00:00,Dallas Stars,DAL,Vancouver Canucks,VAN,5.0,3.0,True,False,False
+824,2024020824,2025-01-31T21:00:00,2025-01-31,21:00:00,Colorado Avalanche,COL,St. Louis Blues,STL,5.0,0.0,True,False,False
+825,2024020825,2025-01-31T21:00:00,2025-01-31,21:00:00,Utah Hockey Club,UTA,Columbus Blue Jackets,CBJ,2.0,3.0,False,True,True
+826,2024020826,2025-02-01T13:00:00,2025-02-01,13:00:00,Florida Panthers,FLA,Chicago Blackhawks,CHI,5.0,1.0,True,False,False
+827,2024020827,2025-02-01T15:30:00,2025-02-01,15:30:00,Boston Bruins,BOS,New York Rangers,NYR,6.0,3.0,True,False,False
+828,2024020828,2025-02-01T19:00:00,2025-02-01,19:00:00,Ottawa Senators,OTT,Minnesota Wild,MIN,6.0,0.0,True,False,False
+829,2024020829,2025-02-01T19:00:00,2025-02-01,19:00:00,Tampa Bay Lightning,TBL,New York Islanders,NYI,2.0,3.0,False,True,True
+830,2024020830,2025-02-01T19:00:00,2025-02-01,19:00:00,Pittsburgh Penguins,PIT,Nashville Predators,NSH,3.0,0.0,True,False,False
+831,2024020831,2025-02-01T19:00:00,2025-02-01,19:00:00,Washington Capitals,WSH,Winnipeg Jets,WPG,4.0,5.0,False,True,True
+832,2024020832,2025-02-01T19:00:00,2025-02-01,19:00:00,Carolina Hurricanes,CAR,Los Angeles Kings,LAK,2.0,4.0,False,True,False
+833,2024020833,2025-02-01T19:00:00,2025-02-01,19:00:00,Edmonton Oilers,EDM,Toronto Maple Leafs,TOR,3.0,4.0,False,True,False
+834,2024020834,2025-02-01T22:00:00,2025-02-01,22:00:00,Calgary Flames,CGY,Detroit Red Wings,DET,1.0,3.0,False,True,False
+835,2024020835,2025-02-02T13:00:00,2025-02-02,13:00:00,Buffalo Sabres,BUF,New Jersey Devils,NJD,4.0,3.0,True,False,False
+836,2024020836,2025-02-02T15:00:00,2025-02-02,15:00:00,Colorado Avalanche,COL,Philadelphia Flyers,PHI,2.0,0.0,True,False,False
+837,2024020837,2025-02-02T16:00:00,2025-02-02,16:00:00,Anaheim Ducks,ANA,Montréal Canadiens,MTL,3.0,2.0,True,False,False
+838,2024020838,2025-02-02T18:00:00,2025-02-02,18:00:00,Florida Panthers,FLA,New York Islanders,NYI,6.0,3.0,True,False,False
+839,2024020839,2025-02-02T18:00:00,2025-02-02,18:00:00,New York Rangers,NYR,Vegas Golden Knights,VGK,4.0,2.0,True,False,False
+840,2024020840,2025-02-02T18:00:00,2025-02-02,18:00:00,Dallas Stars,DAL,Columbus Blue Jackets,CBJ,5.0,3.0,True,False,False
+841,2024020841,2025-02-02T19:00:00,2025-02-02,19:00:00,Utah Hockey Club,UTA,St. Louis Blues,STL,1.0,2.0,False,True,False
+842,2024020842,2025-02-02T20:00:00,2025-02-02,20:00:00,Vancouver Canucks,VAN,Detroit Red Wings,DET,2.0,3.0,False,True,True
+843,2024020843,2025-02-02T21:00:00,2025-02-02,21:00:00,Seattle Kraken,SEA,Calgary Flames,CGY,2.0,3.0,False,True,False
+844,2024020844,2025-02-03T19:30:00,2025-02-03,19:30:00,Nashville Predators,NSH,Ottawa Senators,OTT,2.0,5.0,False,True,False
+845,2024020845,2025-02-04T19:00:00,2025-02-04,19:00:00,Boston Bruins,BOS,Minnesota Wild,MIN,3.0,0.0,True,False,False
+846,2024020846,2025-02-04T19:00:00,2025-02-04,19:00:00,Buffalo Sabres,BUF,Columbus Blue Jackets,CBJ,3.0,2.0,True,False,False
+847,2024020847,2025-02-04T19:00:00,2025-02-04,19:00:00,Tampa Bay Lightning,TBL,Ottawa Senators,OTT,4.0,3.0,True,False,False
+848,2024020848,2025-02-04T19:00:00,2025-02-04,19:00:00,Pittsburgh Penguins,PIT,New Jersey Devils,NJD,2.0,3.0,False,True,True
+849,2024020849,2025-02-04T19:00:00,2025-02-04,19:00:00,Washington Capitals,WSH,Florida Panthers,FLA,6.0,3.0,True,False,False
+850,2024020850,2025-02-04T19:30:00,2025-02-04,19:30:00,New York Islanders,NYI,Vegas Golden Knights,VGK,2.0,1.0,True,False,False
+851,2024020851,2025-02-04T20:00:00,2025-02-04,20:00:00,St. Louis Blues,STL,Edmonton Oilers,EDM,2.0,3.0,False,True,True
+852,2024020852,2025-02-04T20:00:00,2025-02-04,20:00:00,Winnipeg Jets,WPG,Carolina Hurricanes,CAR,3.0,0.0,True,False,False
+853,2024020853,2025-02-04T21:00:00,2025-02-04,21:00:00,Calgary Flames,CGY,Toronto Maple Leafs,TOR,3.0,6.0,False,True,False
+854,2024020854,2025-02-04T21:00:00,2025-02-04,21:00:00,Utah Hockey Club,UTA,Philadelphia Flyers,PHI,3.0,2.0,True,False,True
+855,2024020855,2025-02-04T22:00:00,2025-02-04,22:00:00,Vancouver Canucks,VAN,Colorado Avalanche,COL,3.0,0.0,True,False,False
+856,2024020856,2025-02-04T22:30:00,2025-02-04,22:30:00,Anaheim Ducks,ANA,Dallas Stars,DAL,2.0,1.0,True,False,False
+857,2024020857,2025-02-04T22:00:00,2025-02-04,22:00:00,Seattle Kraken,SEA,Detroit Red Wings,DET,4.0,5.0,False,True,True
+858,2024020858,2025-02-04T22:30:00,2025-02-04,22:30:00,San Jose Sharks,SJS,Montréal Canadiens,MTL,3.0,4.0,False,True,False
+859,2024020859,2025-02-05T19:00:00,2025-02-05,19:00:00,New York Rangers,NYR,Boston Bruins,BOS,3.0,2.0,True,False,False
+860,2024020860,2025-02-05T21:30:00,2025-02-05,21:30:00,Chicago Blackhawks,CHI,Edmonton Oilers,EDM,3.0,4.0,False,True,True
+861,2024020861,2025-02-05T22:30:00,2025-02-05,22:30:00,Los Angeles Kings,LAK,Montréal Canadiens,MTL,6.0,3.0,True,False,False
+862,2024020862,2025-02-06T19:00:00,2025-02-06,19:00:00,Tampa Bay Lightning,TBL,Ottawa Senators,OTT,5.0,1.0,True,False,False
+863,2024020863,2025-02-06T19:00:00,2025-02-06,19:00:00,New Jersey Devils,NJD,Vegas Golden Knights,VGK,1.0,3.0,False,True,False
+864,2024020864,2025-02-06T19:00:00,2025-02-06,19:00:00,Philadelphia Flyers,PHI,Washington Capitals,WSH,3.0,4.0,False,True,False
+865,2024020865,2025-02-06T19:00:00,2025-02-06,19:00:00,Columbus Blue Jackets,CBJ,Utah Hockey Club,UTA,2.0,3.0,False,True,True
+866,2024020866,2025-02-06T20:00:00,2025-02-06,20:00:00,St. Louis Blues,STL,Florida Panthers,FLA,2.0,3.0,False,True,False
+867,2024020867,2025-02-06T19:30:00,2025-02-06,19:30:00,Minnesota Wild,MIN,Carolina Hurricanes,CAR,2.0,1.0,True,False,False
+868,2024020868,2025-02-06T21:00:00,2025-02-06,21:00:00,Calgary Flames,CGY,Colorado Avalanche,COL,2.0,4.0,False,True,False
+869,2024020869,2025-02-06T22:00:00,2025-02-06,22:00:00,Seattle Kraken,SEA,Toronto Maple Leafs,TOR,1.0,3.0,False,True,False
+870,2024020870,2025-02-06T22:30:00,2025-02-06,22:30:00,San Jose Sharks,SJS,Vancouver Canucks,VAN,1.0,2.0,False,True,True
+871,2024020871,2025-02-07T19:00:00,2025-02-07,19:00:00,New York Rangers,NYR,Pittsburgh Penguins,PIT,2.0,3.0,False,True,False
+872,2024020872,2025-02-07T20:00:00,2025-02-07,20:00:00,Winnipeg Jets,WPG,New York Islanders,NYI,4.0,3.0,True,False,False
+873,2024020873,2025-02-07T20:30:00,2025-02-07,20:30:00,Chicago Blackhawks,CHI,Nashville Predators,NSH,6.0,2.0,True,False,False
+874,2024020874,2025-02-07T21:00:00,2025-02-07,21:00:00,Edmonton Oilers,EDM,Colorado Avalanche,COL,4.0,5.0,False,True,False
+875,2024020875,2025-02-07T22:30:00,2025-02-07,22:30:00,Los Angeles Kings,LAK,Dallas Stars,DAL,5.0,4.0,True,False,True
+876,2024020876,2025-02-08T13:00:00,2025-02-08,13:00:00,Montréal Canadiens,MTL,New Jersey Devils,NJD,0.0,4.0,False,True,False
+877,2024020877,2025-02-08T13:00:00,2025-02-08,13:00:00,Detroit Red Wings,DET,Tampa Bay Lightning,TBL,3.0,6.0,False,True,False
+878,2024020878,2025-02-08T13:00:00,2025-02-08,13:00:00,Carolina Hurricanes,CAR,Utah Hockey Club,UTA,7.0,3.0,True,False,False
+879,2024020879,2025-02-08T15:30:00,2025-02-08,15:30:00,Boston Bruins,BOS,Vegas Golden Knights,VGK,3.0,4.0,False,True,False
+880,2024020880,2025-02-08T19:00:00,2025-02-08,19:00:00,Florida Panthers,FLA,Ottawa Senators,OTT,5.0,1.0,True,False,False
+881,2024020881,2025-02-08T19:00:00,2025-02-08,19:00:00,Philadelphia Flyers,PHI,Pittsburgh Penguins,PIT,3.0,2.0,True,False,False
+882,2024020882,2025-02-08T19:00:00,2025-02-08,19:00:00,Columbus Blue Jackets,CBJ,New York Rangers,NYR,3.0,4.0,False,True,False
+883,2024020883,2025-02-08T19:00:00,2025-02-08,19:00:00,St. Louis Blues,STL,Chicago Blackhawks,CHI,6.0,5.0,True,False,True
+884,2024020884,2025-02-08T19:00:00,2025-02-08,19:00:00,Vancouver Canucks,VAN,Toronto Maple Leafs,TOR,2.0,1.0,True,False,False
+885,2024020885,2025-02-08T20:00:00,2025-02-08,20:00:00,Nashville Predators,NSH,Buffalo Sabres,BUF,6.0,4.0,True,False,False
+886,2024020886,2025-02-08T20:00:00,2025-02-08,20:00:00,Minnesota Wild,MIN,New York Islanders,NYI,6.0,3.0,True,False,False
+887,2024020887,2025-02-08T22:00:00,2025-02-08,22:00:00,Calgary Flames,CGY,Seattle Kraken,SEA,2.0,3.0,False,True,True
+888,2024020888,2025-02-08T22:30:00,2025-02-08,22:30:00,Los Angeles Kings,LAK,Anaheim Ducks,ANA,1.0,2.0,False,True,True
+889,2024020889,2025-02-08T22:00:00,2025-02-08,22:00:00,San Jose Sharks,SJS,Dallas Stars,DAL,3.0,8.0,False,True,False
+890,2024020890,2025-02-09T12:30:00,2025-02-09,12:30:00,Washington Capitals,WSH,Utah Hockey Club,UTA,4.0,5.0,False,True,True
+891,2024020891,2025-02-09T13:00:00,2025-02-09,13:00:00,Montréal Canadiens,MTL,Tampa Bay Lightning,TBL,3.0,5.0,False,True,False
+892,2024020892,2025-02-22T13:00:00,2025-02-22,13:00:00,Philadelphia Flyers,PHI,Edmonton Oilers,EDM,6.0,3.0,True,False,False
+893,2024020893,2025-02-22T15:00:00,2025-02-22,15:00:00,Pittsburgh Penguins,PIT,Washington Capitals,WSH,3.0,8.0,False,True,False
+894,2024020894,2025-02-22T12:30:00,2025-02-22,12:30:00,Detroit Red Wings,DET,Minnesota Wild,MIN,3.0,4.0,False,True,True
+895,2024020895,2025-02-22T17:30:00,2025-02-22,17:30:00,Buffalo Sabres,BUF,New York Rangers,NYR,8.0,2.0,True,False,False
+896,2024020896,2025-02-22T18:00:00,2025-02-22,18:00:00,Florida Panthers,FLA,Seattle Kraken,SEA,1.0,2.0,False,True,False
+897,2024020897,2025-02-22T18:00:00,2025-02-22,18:00:00,New Jersey Devils,NJD,Dallas Stars,DAL,2.0,4.0,False,True,False
+898,2024020898,2025-02-22T18:00:00,2025-02-22,18:00:00,Nashville Predators,NSH,Colorado Avalanche,COL,2.0,1.0,True,False,False
+899,2024020899,2025-02-22T19:00:00,2025-02-22,19:00:00,Boston Bruins,BOS,Anaheim Ducks,ANA,2.0,3.0,False,True,True
+900,2024020900,2025-02-22T19:00:00,2025-02-22,19:00:00,Toronto Maple Leafs,TOR,Carolina Hurricanes,CAR,6.0,3.0,True,False,False
+901,2024020901,2025-02-22T19:00:00,2025-02-22,19:00:00,Ottawa Senators,OTT,Montréal Canadiens,MTL,2.0,5.0,False,True,False
+902,2024020902,2025-02-22T19:00:00,2025-02-22,19:00:00,Columbus Blue Jackets,CBJ,Chicago Blackhawks,CHI,5.0,1.0,True,False,False
+903,2024020903,2025-02-22T19:00:00,2025-02-22,19:00:00,St. Louis Blues,STL,Winnipeg Jets,WPG,3.0,4.0,False,True,True
+904,2024020904,2025-02-22T21:00:00,2025-02-22,21:00:00,Los Angeles Kings,LAK,Utah Hockey Club,UTA,5.0,3.0,True,False,False
+905,2024020905,2025-02-22T22:00:00,2025-02-22,22:00:00,Vegas Golden Knights,VGK,Vancouver Canucks,VAN,3.0,1.0,True,False,False
+906,2024020906,2025-02-23T13:00:00,2025-02-23,13:00:00,Washington Capitals,WSH,Edmonton Oilers,EDM,7.0,3.0,True,False,False
+907,2024020907,2025-02-23T15:30:00,2025-02-23,15:30:00,Pittsburgh Penguins,PIT,New York Rangers,NYR,3.0,5.0,False,True,False
+908,2024020908,2025-02-23T18:00:00,2025-02-23,18:00:00,Detroit Red Wings,DET,Anaheim Ducks,ANA,5.0,4.0,True,False,True
+909,2024020909,2025-02-23T18:00:00,2025-02-23,18:00:00,Tampa Bay Lightning,TBL,Seattle Kraken,SEA,4.0,1.0,True,False,False
+910,2024020910,2025-02-23T18:00:00,2025-02-23,18:00:00,St. Louis Blues,STL,Colorado Avalanche,COL,3.0,1.0,True,False,False
+911,2024020911,2025-02-23T18:00:00,2025-02-23,18:00:00,Nashville Predators,NSH,New Jersey Devils,NJD,0.0,5.0,False,True,False
+912,2024020912,2025-02-23T19:00:00,2025-02-23,19:00:00,Chicago Blackhawks,CHI,Toronto Maple Leafs,TOR,2.0,5.0,False,True,False
+913,2024020913,2025-02-23T19:30:00,2025-02-23,19:30:00,New York Islanders,NYI,Dallas Stars,DAL,3.0,4.0,False,True,False
+914,2024020914,2025-02-23T20:00:00,2025-02-23,20:00:00,Calgary Flames,CGY,San Jose Sharks,SJS,3.0,2.0,True,False,False
+915,2024020915,2025-02-23T20:00:00,2025-02-23,20:00:00,Utah Hockey Club,UTA,Vancouver Canucks,VAN,2.0,1.0,True,False,False
+916,2024020916,2025-02-24T19:30:00,2025-02-24,19:30:00,Winnipeg Jets,WPG,San Jose Sharks,SJS,2.0,1.0,True,False,True
+917,2024020917,2025-02-24T22:30:00,2025-02-24,22:30:00,Los Angeles Kings,LAK,Vegas Golden Knights,VGK,5.0,2.0,True,False,False
+918,2024020918,2025-02-25T19:00:00,2025-02-25,19:00:00,Boston Bruins,BOS,Toronto Maple Leafs,TOR,4.0,5.0,False,True,True
+919,2024020919,2025-02-25T19:00:00,2025-02-25,19:00:00,Buffalo Sabres,BUF,Anaheim Ducks,ANA,3.0,2.0,True,False,False
+920,2024020920,2025-02-25T19:00:00,2025-02-25,19:00:00,Montréal Canadiens,MTL,Carolina Hurricanes,CAR,4.0,0.0,True,False,False
+921,2024020921,2025-02-25T19:30:00,2025-02-25,19:30:00,Tampa Bay Lightning,TBL,Edmonton Oilers,EDM,4.0,1.0,True,False,False
+922,2024020922,2025-02-25T19:00:00,2025-02-25,19:00:00,Philadelphia Flyers,PHI,Pittsburgh Penguins,PIT,6.0,1.0,True,False,False
+923,2024020923,2025-02-25T19:00:00,2025-02-25,19:00:00,Washington Capitals,WSH,Calgary Flames,CGY,1.0,3.0,False,True,False
+924,2024020924,2025-02-25T19:00:00,2025-02-25,19:00:00,Columbus Blue Jackets,CBJ,Dallas Stars,DAL,6.0,4.0,True,False,False
+925,2024020925,2025-02-25T19:30:00,2025-02-25,19:30:00,New York Islanders,NYI,New York Rangers,NYR,1.0,5.0,False,True,False
+926,2024020926,2025-02-25T20:00:00,2025-02-25,20:00:00,St. Louis Blues,STL,Seattle Kraken,SEA,7.0,2.0,True,False,False
+927,2024020927,2025-02-25T20:00:00,2025-02-25,20:00:00,Nashville Predators,NSH,Florida Panthers,FLA,1.0,4.0,False,True,False
+928,2024020928,2025-02-25T20:00:00,2025-02-25,20:00:00,Minnesota Wild,MIN,Detroit Red Wings,DET,2.0,3.0,False,True,False
+929,2024020929,2025-02-25T21:00:00,2025-02-25,21:00:00,Utah Hockey Club,UTA,Chicago Blackhawks,CHI,2.0,1.0,True,False,False
+930,2024020930,2025-02-26T19:00:00,2025-02-26,19:00:00,Ottawa Senators,OTT,Winnipeg Jets,WPG,1.0,4.0,False,True,False
+931,2024020931,2025-02-26T21:30:00,2025-02-26,21:30:00,Colorado Avalanche,COL,New Jersey Devils,NJD,5.0,1.0,True,False,False
+932,2024020932,2025-02-26T22:00:00,2025-02-26,22:00:00,Los Angeles Kings,LAK,Vancouver Canucks,VAN,2.0,3.0,False,True,True
+933,2024020933,2025-02-27T19:00:00,2025-02-27,19:00:00,Boston Bruins,BOS,New York Islanders,NYI,1.0,2.0,False,True,False
+934,2024020934,2025-02-27T19:00:00,2025-02-27,19:00:00,Montréal Canadiens,MTL,San Jose Sharks,SJS,4.0,3.0,True,False,True
+935,2024020935,2025-02-27T19:00:00,2025-02-27,19:00:00,Detroit Red Wings,DET,Columbus Blue Jackets,CBJ,2.0,5.0,False,True,False
+936,2024020936,2025-02-27T19:00:00,2025-02-27,19:00:00,Tampa Bay Lightning,TBL,Calgary Flames,CGY,3.0,0.0,True,False,False
+937,2024020937,2025-02-27T19:00:00,2025-02-27,19:00:00,Florida Panthers,FLA,Edmonton Oilers,EDM,4.0,3.0,True,False,False
+938,2024020938,2025-02-27T19:30:00,2025-02-27,19:30:00,Pittsburgh Penguins,PIT,Philadelphia Flyers,PHI,5.0,4.0,True,False,True
+939,2024020939,2025-02-27T19:00:00,2025-02-27,19:00:00,Washington Capitals,WSH,St. Louis Blues,STL,2.0,5.0,False,True,False
+940,2024020940,2025-02-27T19:00:00,2025-02-27,19:00:00,Carolina Hurricanes,CAR,Buffalo Sabres,BUF,5.0,2.0,True,False,False
+941,2024020941,2025-02-27T20:00:00,2025-02-27,20:00:00,Nashville Predators,NSH,Winnipeg Jets,WPG,2.0,1.0,True,False,False
+942,2024020942,2025-02-27T21:00:00,2025-02-27,21:00:00,Utah Hockey Club,UTA,Minnesota Wild,MIN,6.0,1.0,True,False,False
+943,2024020943,2025-02-27T22:00:00,2025-02-27,22:00:00,Vegas Golden Knights,VGK,Chicago Blackhawks,CHI,7.0,5.0,True,False,False
+944,2024020944,2025-02-27T22:00:00,2025-02-27,22:00:00,Anaheim Ducks,ANA,Vancouver Canucks,VAN,5.0,2.0,True,False,False
+945,2024020945,2025-02-28T19:00:00,2025-02-28,19:00:00,New York Rangers,NYR,Toronto Maple Leafs,TOR,2.0,3.0,False,True,False
+946,2024020946,2025-02-28T20:00:00,2025-02-28,20:00:00,Dallas Stars,DAL,Los Angeles Kings,LAK,6.0,2.0,True,False,False
+947,2024020947,2025-02-28T21:00:00,2025-02-28,21:00:00,Colorado Avalanche,COL,Minnesota Wild,MIN,5.0,2.0,True,False,False
+948,2024020948,2025-03-01T18:00:00,2025-03-01,18:00:00,Columbus Blue Jackets,CBJ,Detroit Red Wings,DET,5.0,3.0,True,False,False
+949,2024020949,2025-03-01T12:30:00,2025-03-01,12:30:00,New York Islanders,NYI,Nashville Predators,NSH,7.0,4.0,True,False,False
+950,2024020950,2025-03-01T12:30:00,2025-03-01,12:30:00,Washington Capitals,WSH,Tampa Bay Lightning,TBL,1.0,3.0,False,True,False
+951,2024020951,2025-03-01T15:00:00,2025-03-01,15:00:00,Florida Panthers,FLA,Calgary Flames,CGY,3.0,0.0,True,False,False
+952,2024020952,2025-03-01T15:00:00,2025-03-01,15:00:00,Pittsburgh Penguins,PIT,Boston Bruins,BOS,2.0,3.0,False,True,False
+953,2024020953,2025-03-01T19:00:00,2025-03-01,19:00:00,Buffalo Sabres,BUF,Montréal Canadiens,MTL,2.0,4.0,False,True,False
+954,2024020954,2025-03-01T19:00:00,2025-03-01,19:00:00,Ottawa Senators,OTT,San Jose Sharks,SJS,5.0,3.0,True,False,False
+955,2024020955,2025-03-01T19:00:00,2025-03-01,19:00:00,Carolina Hurricanes,CAR,Edmonton Oilers,EDM,1.0,3.0,False,True,False
+956,2024020956,2025-03-01T19:00:00,2025-03-01,19:00:00,Winnipeg Jets,WPG,Philadelphia Flyers,PHI,1.0,2.0,False,True,True
+957,2024020957,2025-03-01T20:00:00,2025-03-01,20:00:00,St. Louis Blues,STL,Los Angeles Kings,LAK,4.0,1.0,True,False,False
+958,2024020958,2025-03-01T21:00:00,2025-03-01,21:00:00,Utah Hockey Club,UTA,New Jersey Devils,NJD,1.0,3.0,False,True,False
+959,2024020959,2025-03-01T22:00:00,2025-03-01,22:00:00,Anaheim Ducks,ANA,Chicago Blackhawks,CHI,3.0,6.0,False,True,False
+960,2024020960,2025-03-01T22:00:00,2025-03-01,22:00:00,Seattle Kraken,SEA,Vancouver Canucks,VAN,6.0,3.0,True,False,False
+961,2024020961,2025-03-02T13:00:00,2025-03-02,13:00:00,Pittsburgh Penguins,PIT,Toronto Maple Leafs,TOR,5.0,6.0,False,True,True
+962,2024020962,2025-03-02T15:30:00,2025-03-02,15:30:00,Minnesota Wild,MIN,Boston Bruins,BOS,1.0,0.0,True,False,False
+963,2024020963,2025-03-02T17:00:00,2025-03-02,17:00:00,Carolina Hurricanes,CAR,Calgary Flames,CGY,2.0,1.0,True,False,True
+964,2024020964,2025-03-02T18:00:00,2025-03-02,18:00:00,Dallas Stars,DAL,St. Louis Blues,STL,6.0,3.0,True,False,False
+965,2024020965,2025-03-02T19:00:00,2025-03-02,19:00:00,New York Rangers,NYR,Nashville Predators,NSH,4.0,0.0,True,False,False
+966,2024020966,2025-03-02T20:00:00,2025-03-02,20:00:00,Vegas Golden Knights,VGK,New Jersey Devils,NJD,2.0,0.0,True,False,False
+967,2024020967,2025-03-03T18:30:00,2025-03-03,18:30:00,Washington Capitals,WSH,Ottawa Senators,OTT,5.0,4.0,True,False,True
+968,2024020968,2025-03-03T19:00:00,2025-03-03,19:00:00,Montréal Canadiens,MTL,Buffalo Sabres,BUF,4.0,3.0,True,False,True
+969,2024020969,2025-03-03T19:00:00,2025-03-03,19:00:00,Florida Panthers,FLA,Tampa Bay Lightning,TBL,2.0,1.0,True,False,False
+970,2024020970,2025-03-03T19:00:00,2025-03-03,19:00:00,New York Rangers,NYR,New York Islanders,NYI,4.0,0.0,True,False,False
+971,2024020971,2025-03-03T19:30:00,2025-03-03,19:30:00,Toronto Maple Leafs,TOR,San Jose Sharks,SJS,2.0,3.0,False,True,True
+972,2024020972,2025-03-03T20:30:00,2025-03-03,20:30:00,Chicago Blackhawks,CHI,Los Angeles Kings,LAK,5.0,1.0,True,False,False
+973,2024020973,2025-03-04T19:00:00,2025-03-04,19:00:00,Boston Bruins,BOS,Nashville Predators,NSH,3.0,6.0,False,True,False
+974,2024020974,2025-03-04T19:00:00,2025-03-04,19:00:00,Buffalo Sabres,BUF,San Jose Sharks,SJS,2.0,6.0,False,True,False
+975,2024020975,2025-03-04T19:00:00,2025-03-04,19:00:00,Detroit Red Wings,DET,Carolina Hurricanes,CAR,1.0,2.0,False,True,False
+976,2024020976,2025-03-04T19:00:00,2025-03-04,19:00:00,Tampa Bay Lightning,TBL,Columbus Blue Jackets,CBJ,6.0,2.0,True,False,False
+977,2024020977,2025-03-04T19:00:00,2025-03-04,19:00:00,Philadelphia Flyers,PHI,Calgary Flames,CGY,3.0,6.0,False,True,False
+978,2024020978,2025-03-04T19:30:00,2025-03-04,19:30:00,New York Islanders,NYI,Winnipeg Jets,WPG,3.0,2.0,True,False,False
+979,2024020979,2025-03-04T20:00:00,2025-03-04,20:00:00,Dallas Stars,DAL,New Jersey Devils,NJD,4.0,3.0,True,False,False
+980,2024020980,2025-03-04T21:00:00,2025-03-04,21:00:00,Colorado Avalanche,COL,Pittsburgh Penguins,PIT,4.0,1.0,True,False,False
+981,2024020981,2025-03-04T21:00:00,2025-03-04,21:00:00,Edmonton Oilers,EDM,Anaheim Ducks,ANA,2.0,6.0,False,True,False
+982,2024020982,2025-03-04T22:00:00,2025-03-04,22:00:00,Seattle Kraken,SEA,Minnesota Wild,MIN,3.0,4.0,False,True,False
+983,2024020983,2025-03-05T19:30:00,2025-03-05,19:30:00,New York Rangers,NYR,Washington Capitals,WSH,2.0,3.0,False,True,True
+984,2024020984,2025-03-05T19:30:00,2025-03-05,19:30:00,Chicago Blackhawks,CHI,Ottawa Senators,OTT,3.0,4.0,False,True,True
+985,2024020985,2025-03-05T22:00:00,2025-03-05,22:00:00,Vegas Golden Knights,VGK,Toronto Maple Leafs,TOR,5.0,2.0,True,False,False
+986,2024020986,2025-03-05T22:30:00,2025-03-05,22:30:00,Vancouver Canucks,VAN,Anaheim Ducks,ANA,3.0,2.0,True,False,False
+987,2024020987,2025-03-05T22:30:00,2025-03-05,22:30:00,Los Angeles Kings,LAK,St. Louis Blues,STL,2.0,3.0,False,True,True
+988,2024020988,2025-03-06T19:00:00,2025-03-06,19:00:00,Detroit Red Wings,DET,Utah Hockey Club,UTA,2.0,4.0,False,True,False
+989,2024020989,2025-03-06T19:00:00,2025-03-06,19:00:00,Tampa Bay Lightning,TBL,Buffalo Sabres,BUF,6.0,5.0,True,False,False
+990,2024020990,2025-03-06T19:00:00,2025-03-06,19:00:00,Florida Panthers,FLA,Columbus Blue Jackets,CBJ,3.0,0.0,True,False,False
+991,2024020991,2025-03-06T19:00:00,2025-03-06,19:00:00,Philadelphia Flyers,PHI,Winnipeg Jets,WPG,1.0,4.0,False,True,False
+992,2024020992,2025-03-06T19:00:00,2025-03-06,19:00:00,Carolina Hurricanes,CAR,Boston Bruins,BOS,3.0,2.0,True,False,False
+993,2024020993,2025-03-06T20:00:00,2025-03-06,20:00:00,Nashville Predators,NSH,Seattle Kraken,SEA,5.0,3.0,True,False,False
+994,2024020994,2025-03-06T20:00:00,2025-03-06,20:00:00,Dallas Stars,DAL,Calgary Flames,CGY,3.0,2.0,True,False,True
+995,2024020995,2025-03-06T21:00:00,2025-03-06,21:00:00,Edmonton Oilers,EDM,Montréal Canadiens,MTL,3.0,2.0,True,False,True
+996,2024020996,2025-03-06T21:30:00,2025-03-06,21:30:00,Colorado Avalanche,COL,San Jose Sharks,SJS,7.0,3.0,True,False,False
+997,2024020997,2025-03-07T19:00:00,2025-03-07,19:00:00,New Jersey Devils,NJD,Winnipeg Jets,WPG,1.0,6.0,False,True,False
+998,2024020998,2025-03-07T19:00:00,2025-03-07,19:00:00,Washington Capitals,WSH,Detroit Red Wings,DET,5.0,2.0,True,False,False
+999,2024020999,2025-03-07T20:30:00,2025-03-07,20:30:00,Chicago Blackhawks,CHI,Utah Hockey Club,UTA,4.0,3.0,True,False,True
+1000,2024021000,2025-03-07T22:00:00,2025-03-07,22:00:00,Vancouver Canucks,VAN,Minnesota Wild,MIN,3.0,1.0,True,False,False
+1001,2024021001,2025-03-07T22:00:00,2025-03-07,22:00:00,Vegas Golden Knights,VGK,Pittsburgh Penguins,PIT,4.0,0.0,True,False,False
+1002,2024021002,2025-03-07T22:00:00,2025-03-07,22:00:00,Anaheim Ducks,ANA,St. Louis Blues,STL,3.0,4.0,False,True,False
+1003,2024021003,2025-03-08T12:30:00,2025-03-08,12:30:00,Ottawa Senators,OTT,New York Rangers,NYR,4.0,3.0,True,False,True
+1004,2024021004,2025-03-08T12:30:00,2025-03-08,12:30:00,Philadelphia Flyers,PHI,Seattle Kraken,SEA,1.0,4.0,False,True,False
+1005,2024021005,2025-03-08T15:00:00,2025-03-08,15:00:00,Tampa Bay Lightning,TBL,Boston Bruins,BOS,0.0,4.0,False,True,False
+1006,2024021006,2025-03-08T18:00:00,2025-03-08,18:00:00,Florida Panthers,FLA,Buffalo Sabres,BUF,4.0,0.0,True,False,False
+1007,2024021007,2025-03-08T19:00:00,2025-03-08,19:00:00,Colorado Avalanche,COL,Toronto Maple Leafs,TOR,7.0,4.0,True,False,False
+1008,2024021008,2025-03-08T19:00:00,2025-03-08,19:00:00,Calgary Flames,CGY,Montréal Canadiens,MTL,1.0,0.0,True,False,False
+1009,2024021009,2025-03-08T20:00:00,2025-03-08,20:00:00,Nashville Predators,NSH,Chicago Blackhawks,CHI,3.0,2.0,True,False,True
+1010,2024021010,2025-03-08T20:00:00,2025-03-08,20:00:00,Los Angeles Kings,LAK,St. Louis Blues,STL,2.0,1.0,True,False,True
+1011,2024021011,2025-03-08T22:00:00,2025-03-08,22:00:00,Edmonton Oilers,EDM,Dallas Stars,DAL,5.0,4.0,True,False,False
+1012,2024021012,2025-03-08T22:00:00,2025-03-08,22:00:00,San Jose Sharks,SJS,New York Islanders,NYI,2.0,4.0,False,True,False
+1013,2024021013,2025-03-09T13:00:00,2025-03-09,13:00:00,Philadelphia Flyers,PHI,New Jersey Devils,NJD,1.0,3.0,False,True,False
+1014,2024021014,2025-03-09T15:30:00,2025-03-09,15:30:00,Washington Capitals,WSH,Seattle Kraken,SEA,4.0,2.0,True,False,False
+1015,2024021015,2025-03-09T15:30:00,2025-03-09,15:30:00,Minnesota Wild,MIN,Pittsburgh Penguins,PIT,1.0,3.0,False,True,False
+1016,2024021016,2025-03-09T17:00:00,2025-03-09,17:00:00,Carolina Hurricanes,CAR,Winnipeg Jets,WPG,4.0,2.0,True,False,False
+1017,2024021017,2025-03-09T18:00:00,2025-03-09,18:00:00,New York Rangers,NYR,Columbus Blue Jackets,CBJ,3.0,7.0,False,True,False
+1018,2024021018,2025-03-09T20:00:00,2025-03-09,20:00:00,Vegas Golden Knights,VGK,Los Angeles Kings,LAK,5.0,6.0,False,True,False
+1019,2024021019,2025-03-09T21:00:00,2025-03-09,21:00:00,Vancouver Canucks,VAN,Dallas Stars,DAL,1.0,4.0,False,True,False
+1020,2024021020,2025-03-09T21:00:00,2025-03-09,21:00:00,Anaheim Ducks,ANA,New York Islanders,NYI,4.0,1.0,True,False,False
+1021,2024021021,2025-03-10T19:00:00,2025-03-10,19:00:00,Buffalo Sabres,BUF,Edmonton Oilers,EDM,3.0,2.0,True,False,False
+1022,2024021022,2025-03-10T19:30:00,2025-03-10,19:30:00,Ottawa Senators,OTT,Detroit Red Wings,DET,2.0,1.0,True,False,False
+1023,2024021023,2025-03-10T21:00:00,2025-03-10,21:00:00,Colorado Avalanche,COL,Chicago Blackhawks,CHI,3.0,0.0,True,False,False
+1024,2024021024,2025-03-10T22:00:00,2025-03-10,22:00:00,Utah Hockey Club,UTA,Toronto Maple Leafs,TOR,3.0,4.0,False,True,True
+1025,2024021025,2025-03-11T19:00:00,2025-03-11,19:00:00,Boston Bruins,BOS,Florida Panthers,FLA,3.0,2.0,True,False,False
+1026,2024021026,2025-03-11T19:00:00,2025-03-11,19:00:00,New Jersey Devils,NJD,Columbus Blue Jackets,CBJ,5.0,3.0,True,False,False
+1027,2024021027,2025-03-11T19:00:00,2025-03-11,19:00:00,Philadelphia Flyers,PHI,Ottawa Senators,OTT,2.0,5.0,False,True,False
+1028,2024021028,2025-03-11T19:00:00,2025-03-11,19:00:00,Pittsburgh Penguins,PIT,Vegas Golden Knights,VGK,3.0,2.0,True,False,True
+1029,2024021029,2025-03-11T19:30:00,2025-03-11,19:30:00,Carolina Hurricanes,CAR,Tampa Bay Lightning,TBL,4.0,1.0,True,False,False
+1030,2024021030,2025-03-11T20:00:00,2025-03-11,20:00:00,Minnesota Wild,MIN,Colorado Avalanche,COL,2.0,1.0,True,False,True
+1031,2024021031,2025-03-11T20:00:00,2025-03-11,20:00:00,Winnipeg Jets,WPG,New York Rangers,NYR,2.0,1.0,True,False,False
+1032,2024021032,2025-03-11T22:00:00,2025-03-11,22:00:00,Vancouver Canucks,VAN,Montréal Canadiens,MTL,2.0,4.0,False,True,False
+1033,2024021033,2025-03-11T22:00:00,2025-03-11,22:00:00,Anaheim Ducks,ANA,Washington Capitals,WSH,4.0,7.0,False,True,False
+1034,2024021034,2025-03-11T22:30:00,2025-03-11,22:30:00,Los Angeles Kings,LAK,New York Islanders,NYI,4.0,1.0,True,False,False
+1035,2024021035,2025-03-11T22:30:00,2025-03-11,22:30:00,San Jose Sharks,SJS,Nashville Predators,NSH,2.0,3.0,False,True,False
+1036,2024021036,2025-03-12T19:30:00,2025-03-12,19:30:00,Detroit Red Wings,DET,Buffalo Sabres,BUF,7.0,3.0,True,False,False
+1037,2024021037,2025-03-12T21:00:00,2025-03-12,21:00:00,Calgary Flames,CGY,Vancouver Canucks,VAN,3.0,4.0,False,True,True
+1038,2024021038,2025-03-12T22:00:00,2025-03-12,22:00:00,Utah Hockey Club,UTA,Anaheim Ducks,ANA,3.0,2.0,True,False,False
+1039,2024021039,2025-03-12T22:30:00,2025-03-12,22:30:00,Seattle Kraken,SEA,Montréal Canadiens,MTL,5.0,4.0,True,False,True
+1040,2024021040,2025-03-13T19:00:00,2025-03-13,19:00:00,Toronto Maple Leafs,TOR,Florida Panthers,FLA,2.0,3.0,False,True,False
+1041,2024021041,2025-03-13T19:00:00,2025-03-13,19:00:00,Ottawa Senators,OTT,Boston Bruins,BOS,6.0,3.0,True,False,False
+1042,2024021042,2025-03-13T19:30:00,2025-03-13,19:30:00,New Jersey Devils,NJD,Edmonton Oilers,EDM,3.0,2.0,True,False,False
+1043,2024021043,2025-03-13T19:00:00,2025-03-13,19:00:00,Philadelphia Flyers,PHI,Tampa Bay Lightning,TBL,4.0,3.0,True,False,True
+1044,2024021044,2025-03-13T19:00:00,2025-03-13,19:00:00,Pittsburgh Penguins,PIT,St. Louis Blues,STL,5.0,3.0,True,False,False
+1045,2024021045,2025-03-13T19:00:00,2025-03-13,19:00:00,Columbus Blue Jackets,CBJ,Vegas Golden Knights,VGK,0.0,4.0,False,True,False
+1046,2024021046,2025-03-13T20:00:00,2025-03-13,20:00:00,Minnesota Wild,MIN,New York Rangers,NYR,2.0,3.0,False,True,True
+1047,2024021047,2025-03-13T22:30:00,2025-03-13,22:30:00,Los Angeles Kings,LAK,Washington Capitals,WSH,3.0,0.0,True,False,False
+1048,2024021048,2025-03-13T22:30:00,2025-03-13,22:30:00,San Jose Sharks,SJS,Chicago Blackhawks,CHI,4.0,2.0,True,False,False
+1049,2024021049,2025-03-14T19:00:00,2025-03-14,19:00:00,Carolina Hurricanes,CAR,Detroit Red Wings,DET,4.0,2.0,True,False,False
+1050,2024021050,2025-03-14T19:30:00,2025-03-14,19:30:00,New York Islanders,NYI,Edmonton Oilers,EDM,1.0,2.0,False,True,True
+1051,2024021051,2025-03-14T20:00:00,2025-03-14,20:00:00,Winnipeg Jets,WPG,Dallas Stars,DAL,4.0,1.0,True,False,False
+1052,2024021052,2025-03-14T21:00:00,2025-03-14,21:00:00,Calgary Flames,CGY,Colorado Avalanche,COL,2.0,4.0,False,True,False
+1053,2024021053,2025-03-14T22:00:00,2025-03-14,22:00:00,Anaheim Ducks,ANA,Nashville Predators,NSH,2.0,1.0,True,False,False
+1054,2024021054,2025-03-14T22:00:00,2025-03-14,22:00:00,Seattle Kraken,SEA,Utah Hockey Club,UTA,4.0,2.0,True,False,False
+1055,2024021055,2025-03-15T12:30:00,2025-03-15,12:30:00,Buffalo Sabres,BUF,Vegas Golden Knights,VGK,4.0,3.0,True,False,True
+1056,2024021056,2025-03-15T15:00:00,2025-03-15,15:00:00,Pittsburgh Penguins,PIT,New Jersey Devils,NJD,7.0,3.0,True,False,False
+1057,2024021057,2025-03-15T17:00:00,2025-03-15,17:00:00,San Jose Sharks,SJS,Washington Capitals,WSH,1.0,5.0,False,True,False
+1058,2024021058,2025-03-15T19:00:00,2025-03-15,19:00:00,Boston Bruins,BOS,Tampa Bay Lightning,TBL,2.0,6.0,False,True,False
+1059,2024021059,2025-03-15T19:00:00,2025-03-15,19:00:00,Toronto Maple Leafs,TOR,Ottawa Senators,OTT,2.0,4.0,False,True,False
+1060,2024021060,2025-03-15T19:00:00,2025-03-15,19:00:00,Montréal Canadiens,MTL,Florida Panthers,FLA,3.0,1.0,True,False,False
+1061,2024021061,2025-03-15T19:00:00,2025-03-15,19:00:00,Philadelphia Flyers,PHI,Carolina Hurricanes,CAR,0.0,5.0,False,True,False
+1062,2024021062,2025-03-15T19:00:00,2025-03-15,19:00:00,Columbus Blue Jackets,CBJ,New York Rangers,NYR,0.0,4.0,False,True,False
+1063,2024021063,2025-03-15T20:00:00,2025-03-15,20:00:00,Minnesota Wild,MIN,St. Louis Blues,STL,1.0,5.0,False,True,False
+1064,2024021064,2025-03-15T20:00:00,2025-03-15,20:00:00,Los Angeles Kings,LAK,Nashville Predators,NSH,1.0,0.0,True,False,True
+1065,2024021065,2025-03-15T22:00:00,2025-03-15,22:00:00,Vancouver Canucks,VAN,Chicago Blackhawks,CHI,6.0,2.0,True,False,False
+1066,2024021066,2025-03-16T13:00:00,2025-03-16,13:00:00,Detroit Red Wings,DET,Vegas Golden Knights,VGK,3.0,0.0,True,False,False
+1067,2024021067,2025-03-16T15:30:00,2025-03-16,15:30:00,Colorado Avalanche,COL,Dallas Stars,DAL,4.0,3.0,True,False,True
+1068,2024021068,2025-03-16T20:00:00,2025-03-16,20:00:00,St. Louis Blues,STL,Anaheim Ducks,ANA,3.5111485463800163,2.9642286100232216,0.5981057859116138,0.4018942140883862,0.15675175444589481
+1069,2024021069,2025-03-16T19:00:00,2025-03-16,19:00:00,New York Rangers,NYR,Edmonton Oilers,EDM,1.0,3.0,False,True,False
+1070,2024021070,2025-03-16T19:30:00,2025-03-16,19:30:00,New York Islanders,NYI,Florida Panthers,FLA,2.752156742843318,3.531859757563603,0.3590818549070672,0.6409181450929329,0.15557952359302327
+1071,2024021071,2025-03-16T20:00:00,2025-03-16,20:00:00,Vancouver Canucks,VAN,Utah Hockey Club,UTA,3.8263690728328394,3.196202615865642,0.6070536467435098,0.3929463532564902,0.14950183423871174
+1072,2024021072,2025-03-16T21:00:00,2025-03-16,21:00:00,Seattle Kraken,SEA,Winnipeg Jets,WPG,2.6932626989846185,3.6430245903783267,0.3309441382655722,0.6690558617344279,0.15166528913427957
+1073,2024021073,2025-03-17T19:00:00,2025-03-17,19:00:00,Boston Bruins,BOS,Buffalo Sabres,BUF,3.484425862165211,3.4477269155804073,0.5063661838760342,0.49363381612396584,0.15450143754446802
+1074,2024021074,2025-03-17T19:00:00,2025-03-17,19:00:00,Tampa Bay Lightning,TBL,Philadelphia Flyers,PHI,4.247442888555576,2.547613257753279,0.7728325566492134,0.22716744335078665,0.12794110683539137
+1075,2024021075,2025-03-17T19:00:00,2025-03-17,19:00:00,Columbus Blue Jackets,CBJ,New Jersey Devils,NJD,2.9902085976613617,3.558232555641816,0.39889886816097675,0.6011011318390233,0.15560919602760673
+1076,2024021076,2025-03-17T19:30:00,2025-03-17,19:30:00,Toronto Maple Leafs,TOR,Calgary Flames,CGY,3.5580949826749033,2.8841380483159567,0.620628560275044,0.379371439724956,0.15542240263204615
+1077,2024021077,2025-03-17T20:00:00,2025-03-17,20:00:00,Minnesota Wild,MIN,Los Angeles Kings,LAK,2.7895013388865677,2.9642163844209573,0.46595953287741515,0.5340404671225849,0.16996596036083966
+1078,2024021078,2025-03-18T19:00:00,2025-03-18,19:00:00,Montréal Canadiens,MTL,Ottawa Senators,OTT,3.0916759239353135,3.709064009475069,0.3928963135626454,0.6071036864373546,0.15207400291333395
+1079,2024021079,2025-03-18T19:00:00,2025-03-18,19:00:00,New York Rangers,NYR,Calgary Flames,CGY,3.2895634837085996,2.8532596545047473,0.5811672524344097,0.4188327475655903,0.16229035482853613
+1080,2024021080,2025-03-18T19:00:00,2025-03-18,19:00:00,Pittsburgh Penguins,PIT,New York Islanders,NYI,3.5067207469759456,3.2594038902830382,0.5434971607755347,0.45650283922446533,0.155832441400023
+1081,2024021081,2025-03-18T19:00:00,2025-03-18,19:00:00,Washington Capitals,WSH,Detroit Red Wings,DET,4.176389385203119,2.8641593031704695,0.713768950525182,0.28623104947481803,0.13673615351890003
+1082,2024021082,2025-03-18T20:00:00,2025-03-18,20:00:00,Nashville Predators,NSH,St. Louis Blues,STL,3.2692429307105,3.3607926383935047,0.48365855674712227,0.5163414432528777,0.15806287354963447
+1083,2024021083,2025-03-18T20:00:00,2025-03-18,20:00:00,Dallas Stars,DAL,Anaheim Ducks,ANA,4.137929666635365,2.6481853894200795,0.7441955854025157,0.25580441459748426,0.13412636163144034
+1084,2024021084,2025-03-18T20:30:00,2025-03-18,20:30:00,Chicago Blackhawks,CHI,Seattle Kraken,SEA,2.918573022848016,3.7283016887270857,0.358788853395095,0.6412111466049051,0.15090542838952362
+1085,2024021085,2025-03-18T21:00:00,2025-03-18,21:00:00,Edmonton Oilers,EDM,Utah Hockey Club,UTA,4.202481576521959,3.1204394342173214,0.6748863056239296,0.3251136943760704,0.13936050310933512
+1086,2024021086,2025-03-18T22:00:00,2025-03-18,22:00:00,Vancouver Canucks,VAN,Winnipeg Jets,WPG,2.643206534544248,3.502813950313735,0.3433076501292885,0.6566923498707115,0.155722826663593
+1087,2024021087,2025-03-19T19:00:00,2025-03-19,19:00:00,Toronto Maple Leafs,TOR,Colorado Avalanche,COL,3.5264165043046147,3.608455832148797,0.4860386873859639,0.5139613126140361,0.15214259014300435
+1088,2024021088,2025-03-19T21:30:00,2025-03-19,21:30:00,Minnesota Wild,MIN,Seattle Kraken,SEA,3.3655380684571354,3.093414195630755,0.549274646871274,0.45072535312872597,0.1594909431372489
+1089,2024021089,2025-03-20T19:00:00,2025-03-20,19:00:00,Ottawa Senators,OTT,Colorado Avalanche,COL,3.3819609741403625,3.437263234468963,0.49030411409113994,0.5096958859088601,0.15581392822101484
+1090,2024021090,2025-03-20T19:00:00,2025-03-20,19:00:00,New Jersey Devils,NJD,Calgary Flames,CGY,3.237227066553973,2.4862375434780843,0.643697667839876,0.35630233216012397,0.16334873254759533
+1091,2024021091,2025-03-20T19:00:00,2025-03-20,19:00:00,New York Rangers,NYR,Toronto Maple Leafs,TOR,3.4421116731753156,3.4995428935238193,0.4900469208754388,0.5099530791245612,0.1543709602661812
+1092,2024021092,2025-03-20T19:00:00,2025-03-20,19:00:00,Washington Capitals,WSH,Philadelphia Flyers,PHI,4.254202374716252,2.5417750756176902,0.7744809369575513,0.22551906304244873,0.12755111926005328
+1093,2024021093,2025-03-20T19:00:00,2025-03-20,19:00:00,Columbus Blue Jackets,CBJ,Florida Panthers,FLA,3.123373666569832,4.001661457984488,0.353855224901962,0.646144775098038,0.1448397769629052
+1094,2024021094,2025-03-20T19:30:00,2025-03-20,19:30:00,New York Islanders,NYI,Montréal Canadiens,MTL,3.3416995649045207,3.00912447397586,0.5607833114112093,0.43921668858879076,0.16047013459395937
+1095,2024021095,2025-03-20T19:30:00,2025-03-20,19:30:00,St. Louis Blues,STL,Vancouver Canucks,VAN,3.348549936000672,3.1856736188710704,0.5293257827463153,0.4706742172536847,0.15906666652487403
+1096,2024021096,2025-03-20T20:00:00,2025-03-20,20:00:00,Nashville Predators,NSH,Anaheim Ducks,ANA,3.4070803030500465,3.1121286146844453,0.553072407905134,0.446927592094866,0.15857944654029682
+1097,2024021097,2025-03-20T20:00:00,2025-03-20,20:00:00,Dallas Stars,DAL,Tampa Bay Lightning,TBL,3.556270555766466,3.349855001613423,0.5358474156756847,0.4641525843243153,0.15437809643415237
+1098,2024021098,2025-03-20T20:30:00,2025-03-20,20:30:00,Chicago Blackhawks,CHI,Los Angeles Kings,LAK,2.4190376662727835,3.5725875207395963,0.29115707325568385,0.7088429267443161,0.150583279211346
+1099,2024021099,2025-03-20T21:00:00,2025-03-20,21:00:00,Edmonton Oilers,EDM,Winnipeg Jets,WPG,2.9030202139232912,3.419782815716527,0.4058200373615238,0.5941799626384763,0.15901911971643837
+1100,2024021100,2025-03-20T21:00:00,2025-03-20,21:00:00,Utah Hockey Club,UTA,Buffalo Sabres,BUF,3.876846185702633,3.834261367147999,0.5068743751454967,0.49312562485450323,0.1461570086048041
+1101,2024021101,2025-03-20T22:00:00,2025-03-20,22:00:00,Vegas Golden Knights,VGK,Boston Bruins,BOS,3.999274639668614,2.6361806014966134,0.7288507212139318,0.2711492787860682,0.1387830365059565
+1102,2024021102,2025-03-20T22:30:00,2025-03-20,22:30:00,San Jose Sharks,SJS,Carolina Hurricanes,CAR,2.160989253100115,4.0466705228783395,0.18952331487592108,0.8104766851240789,0.1252321086828162
+1103,2024021103,2025-03-21T19:00:00,2025-03-21,19:00:00,Pittsburgh Penguins,PIT,Columbus Blue Jackets,CBJ,3.9731785009403815,3.6990394192111897,0.5443194450696078,0.45568055493039217,0.14589065874612048
+1104,2024021104,2025-03-22T13:00:00,2025-03-22,13:00:00,New York Rangers,NYR,Vancouver Canucks,VAN,3.3838332371916287,3.186289904735303,0.5354287534163457,0.46457124658365434,0.15847391401029653
+1105,2024021105,2025-03-22T14:00:00,2025-03-22,14:00:00,Dallas Stars,DAL,Philadelphia Flyers,PHI,4.273345487249141,2.541109178364317,0.776688191603334,0.22331180839666595,0.12683042113391613
+1106,2024021106,2025-03-22T14:00:00,2025-03-22,14:00:00,Minnesota Wild,MIN,Buffalo Sabres,BUF,3.7293710171252297,3.201868306279064,0.5907083719842022,0.40929162801579777,0.15168048125934636
+1107,2024021107,2025-03-22T15:00:00,2025-03-22,15:00:00,St. Louis Blues,STL,Chicago Blackhawks,CHI,3.869690031087322,2.682653782031925,0.7036709799366276,0.2963290200633723,0.14403509047331414
+1108,2024021108,2025-03-22T16:00:00,2025-03-22,16:00:00,New York Islanders,NYI,Calgary Flames,CGY,2.921039606159608,2.8143090274165004,0.5208515061151159,0.47914849388488406,0.17050981016716527
+1109,2024021109,2025-03-22T16:00:00,2025-03-22,16:00:00,Los Angeles Kings,LAK,Carolina Hurricanes,CAR,2.8354767033882555,2.9378872225426718,0.48007252556772656,0.5199274744322735,0.16992980937637328
+1110,2024021110,2025-03-22T17:00:00,2025-03-22,17:00:00,Washington Capitals,WSH,Florida Panthers,FLA,3.598370353201481,3.1991855971232983,0.5697730845209241,0.4302269154790759,0.15442419901766474
+1111,2024021111,2025-03-22T17:00:00,2025-03-22,17:00:00,Utah Hockey Club,UTA,Tampa Bay Lightning,TBL,3.031492986041234,4.2791424602486625,0.30035871814934045,0.6996412818506595,0.1360500248224197
+1112,2024021112,2025-03-22T19:00:00,2025-03-22,19:00:00,Montréal Canadiens,MTL,Colorado Avalanche,COL,3.074198802461371,3.9451604102744255,0.3536447248645923,0.6463552751354077,0.14599512811030763
+1113,2024021113,2025-03-22T19:00:00,2025-03-22,19:00:00,New Jersey Devils,NJD,Ottawa Senators,OTT,3.2266454424771833,2.9244731078182635,0.5563736261768161,0.443626373823184,0.1633789407393355
+1114,2024021114,2025-03-22T19:00:00,2025-03-22,19:00:00,Nashville Predators,NSH,Toronto Maple Leafs,TOR,3.305262453751566,3.673441724268818,0.4366813051221448,0.5633186948778551,0.15259822491549996
+1115,2024021115,2025-03-22T20:00:00,2025-03-22,20:00:00,Vegas Golden Knights,VGK,Detroit Red Wings,DET,4.117803061458732,2.92332862649927,0.696302738024714,0.303697261975286,0.13945135949564277
+1116,2024021116,2025-03-22T22:00:00,2025-03-22,22:00:00,Edmonton Oilers,EDM,Seattle Kraken,SEA,3.8065029996753337,3.149728381227802,0.6121333978312713,0.38786660216872865,0.14986667757046962
+1117,2024021117,2025-03-22T22:30:00,2025-03-22,22:30:00,San Jose Sharks,SJS,Boston Bruins,BOS,2.5602594221718453,3.4108827043147425,0.3422003231168069,0.6577996768831931,0.15805893754050052
+1118,2024021118,2025-03-23T15:00:00,2025-03-23,15:00:00,Chicago Blackhawks,CHI,Philadelphia Flyers,PHI,3.038805169838665,3.2669973780368236,0.458020620519484,0.541979379480516,0.16174892051323486
+1119,2024021119,2025-03-23T15:00:00,2025-03-23,15:00:00,Winnipeg Jets,WPG,Buffalo Sabres,BUF,4.248751576352077,2.6486584299336626,0.757250677427513,0.24274932257248708,0.13021675069265815
+1120,2024021120,2025-03-23T18:00:00,2025-03-23,18:00:00,Florida Panthers,FLA,Pittsburgh Penguins,PIT,4.275609804742969,3.074512944379755,0.6921766263642558,0.3078233736357442,0.13673087832042272
+1121,2024021121,2025-03-23T18:00:00,2025-03-23,18:00:00,St. Louis Blues,STL,Nashville Predators,NSH,3.537202059324013,3.1061973249986186,0.5763761751837636,0.4236238248162364,0.15596460219760827
+1122,2024021122,2025-03-23T20:00:00,2025-03-23,20:00:00,Vegas Golden Knights,VGK,Tampa Bay Lightning,TBL,3.4906758626021412,3.4199540481367325,0.5122916451450056,0.4877083548549944,0.15471457573572175
+1123,2024021123,2025-03-23T20:00:00,2025-03-23,20:00:00,Anaheim Ducks,ANA,Carolina Hurricanes,CAR,2.7021972817248385,3.5736370757718117,0.3432209452794946,0.6567790547205055,0.15395195609731324
+1124,2024021124,2025-03-23T21:00:00,2025-03-23,21:00:00,Los Angeles Kings,LAK,Boston Bruins,BOS,3.359366982405915,2.476304571361651,0.6656704000929817,0.33432959990701827,0.1590880442324695
+1125,2024021125,2025-03-24T19:30:00,2025-03-24,19:30:00,New Jersey Devils,NJD,Vancouver Canucks,VAN,3.329997003672981,2.776429258042116,0.602914122617032,0.397085877382968,0.16137312382444252
+1126,2024021126,2025-03-24T19:30:00,2025-03-24,19:30:00,New York Islanders,NYI,Columbus Blue Jackets,CBJ,3.3792223080205437,3.215973766499557,0.5292195559761541,0.4707804440238459,0.1582966182168807
+1127,2024021127,2025-03-24T20:00:00,2025-03-24,20:00:00,Dallas Stars,DAL,Minnesota Wild,MIN,3.7838778332137215,2.7636641253074385,0.6772649319681512,0.3227350680318488,0.14790753415055868
+1128,2024021128,2025-03-24T21:00:00,2025-03-24,21:00:00,Utah Hockey Club,UTA,Detroit Red Wings,DET,3.5761243925426194,3.657750798648537,0.4862360296779066,0.5137639703220934,0.1510549351081017
+1129,2024021129,2025-03-25T19:00:00,2025-03-25,19:00:00,Buffalo Sabres,BUF,Ottawa Senators,OTT,3.4055134118865236,3.843537898266596,0.42665421631503136,0.5733457836849687,0.14911024692458266
+1130,2024021130,2025-03-25T19:00:00,2025-03-25,19:00:00,Toronto Maple Leafs,TOR,Philadelphia Flyers,PHI,3.9633784344391296,2.8757120108821375,0.683282400761606,0.31671759923839404,0.14359524040235258
+1131,2024021131,2025-03-25T19:00:00,2025-03-25,19:00:00,Tampa Bay Lightning,TBL,Pittsburgh Penguins,PIT,4.478147862501507,3.024930493593007,0.725356513967056,0.274643486032944,0.12991956587252454
+1132,2024021132,2025-03-25T19:00:00,2025-03-25,19:00:00,Carolina Hurricanes,CAR,Nashville Predators,NSH,3.789127881331356,2.690396240984696,0.6910231932229435,0.3089768067770565,0.14684792938725544
+1133,2024021133,2025-03-25T20:00:00,2025-03-25,20:00:00,St. Louis Blues,STL,Montréal Canadiens,MTL,3.7240547439874474,3.050181313554614,0.6169131376774212,0.3830868623225788,0.1516121176974343
+1134,2024021134,2025-03-25T20:00:00,2025-03-25,20:00:00,Minnesota Wild,MIN,Vegas Golden Knights,VGK,2.9695980867886713,3.5288539402785943,0.39994991827978965,0.6000500817202103,0.15631937508123264
+1135,2024021135,2025-03-25T20:00:00,2025-03-25,20:00:00,Winnipeg Jets,WPG,Washington Capitals,WSH,3.314690260783404,2.960680780827788,0.5651497395756291,0.43485026042437086,0.1612912397667623
+1136,2024021136,2025-03-25T21:00:00,2025-03-25,21:00:00,Colorado Avalanche,COL,Detroit Red Wings,DET,3.9690238077554247,3.069268118028356,0.6507020854427488,0.34929791455725123,0.14531655339208488
+1137,2024021137,2025-03-25T21:00:00,2025-03-25,21:00:00,Calgary Flames,CGY,Seattle Kraken,SEA,3.103581994960733,3.136324343004359,0.49392563649295024,0.5060743635070497,0.16324683418648325
+1138,2024021138,2025-03-25T22:30:00,2025-03-25,22:30:00,Los Angeles Kings,LAK,New York Rangers,NYR,3.2743333065133684,2.771455430878794,0.594247518001263,0.40575248199873704,0.16284735507929377
+1139,2024021139,2025-03-26T19:30:00,2025-03-26,19:30:00,New York Islanders,NYI,Vancouver Canucks,VAN,3.004748488797248,3.142792990713318,0.4741678502693431,0.5258321497306568,0.16430956429211666
+1140,2024021140,2025-03-26T19:30:00,2025-03-26,19:30:00,Chicago Blackhawks,CHI,New Jersey Devils,NJD,2.46075350484689,3.6563275061139424,0.2868104136061603,0.7131895863938398,0.1481225952325719
+1141,2024021141,2025-03-26T22:00:00,2025-03-26,22:00:00,Edmonton Oilers,EDM,Dallas Stars,DAL,3.289842312817574,3.660614400909812,0.43607099336121213,0.5639290066387879,0.15289693737063254
+1142,2024021142,2025-03-26T22:00:00,2025-03-26,22:00:00,Anaheim Ducks,ANA,Boston Bruins,BOS,3.201462497408659,3.012169343744333,0.5351655501771193,0.4648344498228807,0.16319012056297708
+1143,2024021143,2025-03-27T19:00:00,2025-03-27,19:00:00,Buffalo Sabres,BUF,Pittsburgh Penguins,PIT,4.012577170559576,3.8684536959512923,0.5228981904062986,0.4771018095937014,0.14434539330977858
+1144,2024021144,2025-03-27T19:00:00,2025-03-27,19:00:00,Detroit Red Wings,DET,Ottawa Senators,OTT,3.248740294249071,3.54539978458342,0.4480091051124847,0.5519908948875152,0.15521533765088702
+1145,2024021145,2025-03-27T19:00:00,2025-03-27,19:00:00,Tampa Bay Lightning,TBL,Utah Hockey Club,UTA,4.5037564500759135,2.880304585363713,0.7505566311062267,0.24944336889377325,0.12641840224916556
+1146,2024021146,2025-03-27T19:00:00,2025-03-27,19:00:00,Philadelphia Flyers,PHI,Montréal Canadiens,MTL,3.3090765635652213,3.282809893845093,0.5047070978535461,0.49529290214645394,0.1586253972379693
+1147,2024021147,2025-03-27T20:00:00,2025-03-27,20:00:00,Nashville Predators,NSH,St. Louis Blues,STL,3.2692429307105,3.3607926383935047,0.48365855674712227,0.5163414432528777,0.15806287354963447
+1148,2024021148,2025-03-27T19:30:00,2025-03-27,19:30:00,Minnesota Wild,MIN,Washington Capitals,WSH,2.909492251351278,3.5790609502560407,0.3806589499519622,0.6193410500480379,0.15493815089029023
+1149,2024021149,2025-03-27T22:00:00,2025-03-27,22:00:00,Colorado Avalanche,COL,Los Angeles Kings,LAK,3.218404601628576,2.9785772377548008,0.5445923915530307,0.45540760844696926,0.1631574062378752
+1150,2024021150,2025-03-27T21:00:00,2025-03-27,21:00:00,Calgary Flames,CGY,Dallas Stars,DAL,2.682329521135662,3.64503622736205,0.32864478117054197,0.671355218829458,0.1514896121348131
+1151,2024021151,2025-03-27T22:00:00,2025-03-27,22:00:00,Seattle Kraken,SEA,Edmonton Oilers,EDM,3.3150589504135244,3.616662843902243,0.44782846006492544,0.5521715399350746,0.15358523184603048
+1152,2024021152,2025-03-27T22:30:00,2025-03-27,22:30:00,San Jose Sharks,SJS,Toronto Maple Leafs,TOR,2.52245924355047,4.129047601258268,0.23668117389986268,0.7633188261001373,0.13171908260596035
+1153,2024021153,2025-03-28T19:00:00,2025-03-28,19:00:00,Florida Panthers,FLA,Utah Hockey Club,UTA,4.300060164909858,2.9275164339192834,0.7190910710175833,0.2809089289824167,0.13383104504147528
+1154,2024021154,2025-03-28T19:00:00,2025-03-28,19:00:00,Carolina Hurricanes,CAR,Montréal Canadiens,MTL,3.9892885465366503,2.6418786321995,0.7266073422142422,0.27339265778575783,0.139237645305234
+1155,2024021155,2025-03-28T19:00:00,2025-03-28,19:00:00,Columbus Blue Jackets,CBJ,Vancouver Canucks,VAN,3.410035539937674,3.560841722106461,0.4739525642865528,0.5260474357134473,0.15383435686531083
+1156,2024021156,2025-03-28T20:00:00,2025-03-28,20:00:00,Winnipeg Jets,WPG,New Jersey Devils,NJD,3.232792301188402,2.509542796629279,0.6383453708341117,0.3616546291658883,0.16361918324102714
+1157,2024021157,2025-03-28T20:30:00,2025-03-28,20:30:00,Chicago Blackhawks,CHI,Vegas Golden Knights,VGK,2.575216410722613,4.253110405775856,0.23080179722504826,0.7691982027749518,0.12839209763602433
+1158,2024021158,2025-03-28T22:00:00,2025-03-28,22:00:00,Anaheim Ducks,ANA,New York Rangers,NYR,3.120425764651399,3.3711899509422865,0.4547196670819387,0.5452803329180613,0.15920001120916188
+1159,2024021159,2025-03-29T13:00:00,2025-03-29,13:00:00,Philadelphia Flyers,PHI,Buffalo Sabres,BUF,3.429048716290214,3.616049481645848,0.4679371764897124,0.5320628235102877,0.1528659135687004
+1160,2024021160,2025-03-29T14:00:00,2025-03-29,14:00:00,Tampa Bay Lightning,TBL,New York Islanders,NYI,3.8933367331841033,2.572729264930266,0.7258127874962607,0.27418721250373934,0.1413936852652989
+1161,2024021161,2025-03-29T16:30:00,2025-03-29,16:30:00,Colorado Avalanche,COL,St. Louis Blues,STL,3.756477473560113,3.065377858654944,0.6192843951950976,0.3807156048049024,0.15084696023866262
+1162,2024021162,2025-03-29T18:00:00,2025-03-29,18:00:00,Minnesota Wild,MIN,New Jersey Devils,NJD,2.8376057521322466,3.0336964000222046,0.46227708839019815,0.5377229116098019,0.16806749400062043
+1163,2024021163,2025-03-29T18:30:00,2025-03-29,18:30:00,Nashville Predators,NSH,Vegas Golden Knights,VGK,2.9817974946511114,3.8876785388455493,0.34601501447913763,0.6539849855208624,0.14688129697006555
+1164,2024021164,2025-03-29T19:00:00,2025-03-29,19:00:00,Ottawa Senators,OTT,Columbus Blue Jackets,CBJ,3.947588195491406,3.1394108618386785,0.6354217583715248,0.36457824162847524,0.14634233921462506
+1165,2024021165,2025-03-29T19:00:00,2025-03-29,19:00:00,Los Angeles Kings,LAK,Toronto Maple Leafs,TOR,3.309768621048465,2.997693071483061,0.557308090674646,0.44269190932535396,0.16119447269586898
+1166,2024021166,2025-03-29T20:00:00,2025-03-29,20:00:00,Detroit Red Wings,DET,Boston Bruins,BOS,3.4616520415054595,3.053845931619215,0.5732047684344334,0.42679523156556665,0.157739626375824
+1167,2024021167,2025-03-29T22:00:00,2025-03-29,22:00:00,Edmonton Oilers,EDM,Calgary Flames,CGY,3.558037036511182,2.768098211201931,0.6421150935494728,0.3578849064505272,0.15489557259290315
+1168,2024021168,2025-03-29T22:30:00,2025-03-29,22:30:00,San Jose Sharks,SJS,New York Rangers,NYR,2.495453084833291,3.817425975903132,0.27092617577080774,0.7290738242291922,0.14274208950717618
+1169,2024021169,2025-03-29T22:30:00,2025-03-29,22:30:00,Seattle Kraken,SEA,Dallas Stars,DAL,3.0521349951878034,3.8995775454276385,0.35654979880423093,0.6434502011957691,0.14706631661823555
+1170,2024021170,2025-03-30T13:00:00,2025-03-30,13:00:00,Florida Panthers,FLA,Montréal Canadiens,MTL,4.1649436976100125,2.7767286924135988,0.7266333971213411,0.2733666028786589,0.13564040672206573
+1171,2024021171,2025-03-30T15:00:00,2025-03-30,15:00:00,Washington Capitals,WSH,Buffalo Sabres,BUF,4.527588383613731,3.0023738548732357,0.7346452450623298,0.26535475493767025,0.12799560473285224
+1172,2024021172,2025-03-30T15:00:00,2025-03-30,15:00:00,Winnipeg Jets,WPG,Vancouver Canucks,VAN,3.686678129716821,2.5113829840830686,0.708377227526243,0.29162277247375695,0.14782616843530008
+1173,2024021173,2025-03-30T16:00:00,2025-03-30,16:00:00,Chicago Blackhawks,CHI,Utah Hockey Club,UTA,3.2221830271246135,3.6936326578192067,0.4186691890071319,0.5813308109928681,0.15242196639063313
+1174,2024021174,2025-03-30T17:00:00,2025-03-30,17:00:00,Pittsburgh Penguins,PIT,Ottawa Senators,OTT,3.4232360093142704,3.8076170043861652,0.435443373039243,0.5645566269607569,0.14972533415266215
+1175,2024021175,2025-03-30T17:00:00,2025-03-30,17:00:00,Carolina Hurricanes,CAR,New York Islanders,NYI,3.5604748097781256,2.4879086318799413,0.6944178669416453,0.3055821330583547,0.1520570507231846
+1176,2024021176,2025-03-30T20:00:00,2025-03-30,20:00:00,Anaheim Ducks,ANA,Toronto Maple Leafs,TOR,3.1541954692303094,3.6463847283983175,0.4142277102146752,0.5857722897853248,0.15352097731431658
+1177,2024021177,2025-03-30T22:00:00,2025-03-30,22:00:00,Los Angeles Kings,LAK,San Jose Sharks,SJS,3.8633268676313923,2.0309867992340123,0.8114037564469824,0.18859624355301763,0.12903022568858408
+1178,2024021178,2025-03-31T19:00:00,2025-03-31,19:00:00,New Jersey Devils,NJD,Minnesota Wild,MIN,3.19293640164953,2.6960870095873566,0.5946349387625123,0.4053650612374877,0.1651153614070177
+1179,2024021179,2025-03-31T19:00:00,2025-03-31,19:00:00,Philadelphia Flyers,PHI,Nashville Predators,NSH,3.1430452127486723,3.343098085817463,0.4638285795861627,0.5361714204138373,0.15952815976456453
+1180,2024021180,2025-03-31T20:30:00,2025-03-31,20:30:00,Colorado Avalanche,COL,Calgary Flames,CGY,3.629550653491994,2.731778155787566,0.6599603941008506,0.3400396058991494,0.1524504677544639
+1181,2024021181,2025-03-31T22:00:00,2025-03-31,22:00:00,Seattle Kraken,SEA,Dallas Stars,DAL,3.0521349951878034,3.8995775454276385,0.35654979880423093,0.6434502011957691,0.14706631661823555
+1182,2024021182,2025-04-01T19:00:00,2025-04-01,19:00:00,Boston Bruins,BOS,Washington Capitals,WSH,2.718396748359043,3.8538826679728717,0.3047531943799404,0.6952468056200597,0.14507510193491938
+1183,2024021183,2025-04-01T19:00:00,2025-04-01,19:00:00,Montréal Canadiens,MTL,Florida Panthers,FLA,2.922480350850925,3.9572271765911466,0.325646425010887,0.674353574989113,0.14431121436325844
+1184,2024021184,2025-04-01T19:00:00,2025-04-01,19:00:00,Ottawa Senators,OTT,Buffalo Sabres,BUF,4.045286821187881,3.2356716446121956,0.6333242572055857,0.3666757427944143,0.14442766427249434
+1185,2024021185,2025-04-01T19:00:00,2025-04-01,19:00:00,Columbus Blue Jackets,CBJ,Nashville Predators,NSH,3.60215166707109,3.472005721625121,0.5222666789262207,0.4777333210737793,0.1527195725912333
+1186,2024021186,2025-04-01T19:30:00,2025-04-01,19:30:00,New York Islanders,NYI,Tampa Bay Lightning,TBL,2.7077729075080677,3.6991659543963795,0.32517300462444715,0.6748269953755528,0.1500059905072662
+1187,2024021187,2025-04-01T20:00:00,2025-04-01,20:00:00,St. Louis Blues,STL,Detroit Red Wings,DET,3.559729045759599,3.2051376605789956,0.562238991066754,0.437761008933246,0.15516202397502754
+1188,2024021188,2025-04-01T21:00:00,2025-04-01,21:00:00,Utah Hockey Club,UTA,Calgary Flames,CGY,3.2702561774911754,3.255552576971147,0.5026519518503262,0.49734804814967376,0.15946911682791207
+1189,2024021189,2025-04-01T22:00:00,2025-04-01,22:00:00,Vegas Golden Knights,VGK,Edmonton Oilers,EDM,3.7816981818812865,3.1911791943376633,0.6009295835590825,0.39907041644091745,0.15051524624420126
+1190,2024021190,2025-04-01T22:00:00,2025-04-01,22:00:00,Anaheim Ducks,ANA,San Jose Sharks,SJS,3.681734132272512,2.470486161093737,0.7150042288145925,0.28499577118540753,0.14733995701099836
+1191,2024021191,2025-04-01T22:30:00,2025-04-01,22:30:00,Los Angeles Kings,LAK,Winnipeg Jets,WPG,2.5807773919044092,3.0194939904856595,0.4136805164623204,0.5863194835376796,0.1701519373370191
+1192,2024021192,2025-04-02T19:00:00,2025-04-02,19:00:00,New York Rangers,NYR,Minnesota Wild,MIN,3.244556769337487,3.094087413195628,0.5276203213099216,0.47237967869007835,0.1616558893335191
+1193,2024021193,2025-04-02T19:00:00,2025-04-02,19:00:00,Carolina Hurricanes,CAR,Washington Capitals,WSH,3.2251053304053423,3.2528731096841104,0.494968444273622,0.505031555726378,0.16007812513228215
+1194,2024021194,2025-04-02T19:30:00,2025-04-02,19:30:00,Toronto Maple Leafs,TOR,Florida Panthers,FLA,3.352380117543209,3.619492745420397,0.4539395099537103,0.5460604900462898,0.15332742694694215
+1195,2024021195,2025-04-02T21:30:00,2025-04-02,21:30:00,Chicago Blackhawks,CHI,Colorado Avalanche,COL,2.703777315627879,4.099442398189078,0.26963720142157843,0.7303627985784216,0.13654243865666937
+1196,2024021196,2025-04-02T22:30:00,2025-04-02,22:30:00,Vancouver Canucks,VAN,Seattle Kraken,SEA,3.4658296742986385,3.2262026882991344,0.542448809168686,0.457551190831314,0.15676565960593966
+1197,2024021197,2025-04-03T19:00:00,2025-04-03,19:00:00,Montréal Canadiens,MTL,Boston Bruins,BOS,3.2942941892613598,3.1948188423499864,0.5179997223701951,0.4820002776298049,0.15983092123963508
+1198,2024021198,2025-04-03T19:00:00,2025-04-03,19:00:00,Ottawa Senators,OTT,Tampa Bay Lightning,TBL,3.163204841652373,3.611099660684198,0.4216472187804586,0.5783527812195415,0.15426068449704233
+1199,2024021199,2025-04-03T19:30:00,2025-04-03,19:30:00,Columbus Blue Jackets,CBJ,Colorado Avalanche,COL,3.2855213492239996,3.989459198286646,0.38346637714386783,0.6165336228561322,0.14597450189650393
+1200,2024021200,2025-04-03T20:00:00,2025-04-03,20:00:00,St. Louis Blues,STL,Pittsburgh Penguins,PIT,3.8230060555030394,3.3772913993543527,0.5749521346534562,0.4250478653465438,0.1495586078665947
+1201,2024021201,2025-04-03T20:00:00,2025-04-03,20:00:00,Dallas Stars,DAL,Nashville Predators,NSH,4.1686340366461945,2.77501753572665,0.7273747418181136,0.27262525818188643,0.13548668995211113
+1202,2024021202,2025-04-03T21:00:00,2025-04-03,21:00:00,Utah Hockey Club,UTA,Los Angeles Kings,LAK,2.899810068779659,3.549671404149816,0.3836362368660178,0.6163637631339822,0.15569110446150744
+1203,2024021203,2025-04-03T21:30:00,2025-04-03,21:30:00,Calgary Flames,CGY,Anaheim Ducks,ANA,3.129036400404786,2.8640709186558846,0.5502720174368794,0.44972798256312063,0.1658684599803369
+1204,2024021204,2025-04-03T22:00:00,2025-04-03,22:00:00,Vegas Golden Knights,VGK,Winnipeg Jets,WPG,3.07237572677503,3.214439603314607,0.4737857206388374,0.5262142793611626,0.16238043523444487
+1205,2024021205,2025-04-03T22:30:00,2025-04-03,22:30:00,San Jose Sharks,SJS,Edmonton Oilers,EDM,2.4209711195963215,4.128980356716039,0.22069003519675162,0.7793099648032484,0.1292514677429233
+1206,2024021206,2025-04-04T19:00:00,2025-04-04,19:00:00,Detroit Red Wings,DET,Carolina Hurricanes,CAR,2.9218104989218827,3.6230821708593943,0.37585586980392716,0.6241441301960728,0.1538042661306217
+1207,2024021207,2025-04-04T19:00:00,2025-04-04,19:00:00,Washington Capitals,WSH,Chicago Blackhawks,CHI,4.540045650134814,2.3972598373837646,0.8239712395520558,0.17602876044794422,0.11294240408838065
+1208,2024021208,2025-04-04T19:30:00,2025-04-04,19:30:00,New York Islanders,NYI,Minnesota Wild,MIN,2.881074913010437,3.0518491805764727,0.4673456057246507,0.5326543942753492,0.16727019350992645
+1209,2024021209,2025-04-05T12:30:00,2025-04-05,12:30:00,New Jersey Devils,NJD,New York Rangers,NYR,3.3510823355032584,2.819248645917073,0.5983336053742149,0.40166639462578513,0.16080975956159985
+1210,2024021210,2025-04-05T14:00:00,2025-04-05,14:00:00,Ottawa Senators,OTT,Florida Panthers,FLA,3.2150537845361273,3.4477765337790176,0.45865425378873825,0.5413457462112617,0.1571574861305505
+1211,2024021211,2025-04-05T15:00:00,2025-04-05,15:00:00,Dallas Stars,DAL,Pittsburgh Penguins,PIT,4.505457392026994,3.0172078190400526,0.729781625388628,0.270218374611372,0.12894562763587436
+1212,2024021212,2025-04-05T16:00:00,2025-04-05,16:00:00,Vancouver Canucks,VAN,Anaheim Ducks,ANA,3.4942550981710774,2.9461472369263,0.5986452926918042,0.4013547073081958,0.15716582604953802
+1213,2024021213,2025-04-05T16:00:00,2025-04-05,16:00:00,Los Angeles Kings,LAK,Edmonton Oilers,EDM,3.176604048050362,2.997644251871906,0.533382406954129,0.4666175930458711,0.16377938758834987
+1214,2024021214,2025-04-05T19:00:00,2025-04-05,19:00:00,Boston Bruins,BOS,Carolina Hurricanes,CAR,2.6348115941144714,3.5187939848246423,0.33922868295011827,0.6607713170498818,0.15513634078880434
+1215,2024021215,2025-04-05T19:00:00,2025-04-05,19:00:00,Buffalo Sabres,BUF,Tampa Bay Lightning,TBL,3.167227831219548,4.294950742244628,0.320406064559222,0.679593935440778,0.13730333413563242
+1216,2024021216,2025-04-05T19:00:00,2025-04-05,19:00:00,Toronto Maple Leafs,TOR,Columbus Blue Jackets,CBJ,4.116203667405538,3.2957689478976535,0.6334783990154655,0.36652160098453446,0.14303100951899078
+1217,2024021217,2025-04-05T19:00:00,2025-04-05,19:00:00,Montréal Canadiens,MTL,Philadelphia Flyers,PHI,3.455125967673135,3.144044351493961,0.5555258339829531,0.4444741660170469,0.15747418948218492
+1218,2024021218,2025-04-05T19:00:00,2025-04-05,19:00:00,St. Louis Blues,STL,Colorado Avalanche,COL,3.226280833388014,3.569132220239786,0.4399791649213153,0.5600208350786847,0.15488890114336115
+1219,2024021219,2025-04-05T19:00:00,2025-04-05,19:00:00,Utah Hockey Club,UTA,Winnipeg Jets,WPG,2.6682183716876997,4.02199702067414,0.2735913033302601,0.7264086966697398,0.13857096592632537
+1220,2024021220,2025-04-05T22:00:00,2025-04-05,22:00:00,Calgary Flames,CGY,Vegas Golden Knights,VGK,2.738459933288538,3.577804269287608,0.34928144400327743,0.6507185559967226,0.15410244587551808
+1221,2024021221,2025-04-05T22:00:00,2025-04-05,22:00:00,San Jose Sharks,SJS,Seattle Kraken,SEA,2.5790109479327326,3.8306411806050744,0.2836481548567277,0.7163518451432723,0.1437488014932188
+1222,2024021222,2025-04-06T12:30:00,2025-04-06,12:30:00,New York Islanders,NYI,Washington Capitals,WSH,2.7015676990182267,3.7050528990194964,0.32318115633814776,0.6768188436618522,0.14974742815545203
+1223,2024021223,2025-04-06T15:00:00,2025-04-06,15:00:00,Minnesota Wild,MIN,Dallas Stars,DAL,2.90873001911544,3.5951660530457015,0.3779258364748334,0.6220741635251665,0.1545060409574315
+1224,2024021224,2025-04-06T17:00:00,2025-04-06,17:00:00,Ottawa Senators,OTT,Columbus Blue Jackets,CBJ,3.947588195491406,3.1394108618386785,0.6354217583715248,0.36457824162847524,0.14634233921462506
+1225,2024021225,2025-04-06T17:30:00,2025-04-06,17:30:00,Detroit Red Wings,DET,Florida Panthers,FLA,3.0709491901969517,3.782612633158498,0.3776375184057435,0.6223624815942566,0.15020907775362172
+1226,2024021226,2025-04-06T18:00:00,2025-04-06,18:00:00,Buffalo Sabres,BUF,Boston Bruins,BOS,3.6286995533313635,3.3106485267711108,0.5549593593940917,0.4450406406059083,0.15339374286483107
+1227,2024021227,2025-04-06T18:00:00,2025-04-06,18:00:00,Chicago Blackhawks,CHI,Pittsburgh Penguins,PIT,3.2038615310256193,3.8790974105807723,0.38612713230859413,0.6138728676914058,0.148292334765693
+1228,2024021228,2025-04-06T19:00:00,2025-04-06,19:00:00,Nashville Predators,NSH,Montréal Canadiens,MTL,3.6136760943370407,3.202369923085905,0.5717436992312335,0.42825630076876653,0.15410662053591423
+1229,2024021229,2025-04-06T22:00:00,2025-04-06,22:00:00,Vancouver Canucks,VAN,Vegas Golden Knights,VGK,3.0580908492444605,3.680334203166869,0.3914472824870537,0.6085527175129464,0.15271049447012253
+1230,2024021230,2025-04-07T19:00:00,2025-04-07,19:00:00,New York Rangers,NYR,Tampa Bay Lightning,TBL,3.0493906552759342,3.7503631869048153,0.37881842507426666,0.6211815749257333,0.15094670377381297
+1231,2024021231,2025-04-07T19:30:00,2025-04-07,19:30:00,Winnipeg Jets,WPG,St. Louis Blues,STL,3.7093043589548467,2.523524604308972,0.7093899527883774,0.29061004721162265,0.14719808735828607
+1232,2024021232,2025-04-07T22:30:00,2025-04-07,22:30:00,Anaheim Ducks,ANA,Edmonton Oilers,EDM,3.027290195507716,3.6463253443718955,0.3913360236215379,0.608663976378462,0.15349008456582092
+1233,2024021233,2025-04-07T22:30:00,2025-04-07,22:30:00,Los Angeles Kings,LAK,Seattle Kraken,SEA,3.3839712299151077,2.7810496839363683,0.6112072497622791,0.38879275023772086,0.15991612744826622
+1234,2024021234,2025-04-07T22:30:00,2025-04-07,22:30:00,San Jose Sharks,SJS,Calgary Flames,CGY,2.410668393298294,3.3665096530183836,0.32055696135183726,0.6794430386481628,0.1581527381668174
+1235,2024021235,2025-04-08T19:00:00,2025-04-08,19:00:00,Buffalo Sabres,BUF,Carolina Hurricanes,CAR,3.0628071005501156,3.9277527157260526,0.3542331802853416,0.6457668197146584,0.1463825916543519
+1236,2024021236,2025-04-08T19:00:00,2025-04-08,19:00:00,Montréal Canadiens,MTL,Detroit Red Wings,DET,3.3919287671151728,3.542816972789628,0.4738497058031518,0.5261502941968482,0.15425080435679128
+1237,2024021237,2025-04-08T19:00:00,2025-04-08,19:00:00,Florida Panthers,FLA,Toronto Maple Leafs,TOR,3.8094814439159417,3.1851882451660436,0.6063517029084214,0.39364829709157856,0.14987158898810177
+1238,2024021238,2025-04-08T19:00:00,2025-04-08,19:00:00,New Jersey Devils,NJD,Boston Bruins,BOS,3.438109165862765,2.5190079666826555,0.6699655343345372,0.33003446566546285,0.15676066878040318
+1239,2024021239,2025-04-08T19:00:00,2025-04-08,19:00:00,Columbus Blue Jackets,CBJ,Ottawa Senators,OTT,3.3041998600866163,3.750711755876352,0.42390381029422436,0.5760961897057757,0.15111424006444976
+1240,2024021240,2025-04-08T19:00:00,2025-04-08,19:00:00,Pittsburgh Penguins,PIT,Chicago Blackhawks,CHI,4.082712867278718,3.044076664922218,0.6712096579786249,0.32879034202137514,0.14193297936200494
+1241,2024021241,2025-04-08T20:00:00,2025-04-08,20:00:00,Nashville Predators,NSH,New York Islanders,NYI,3.2252374212826895,3.015734211637504,0.5388022512539942,0.46119774874600583,0.1627199922012877
+1242,2024021242,2025-04-08T20:00:00,2025-04-08,20:00:00,Dallas Stars,DAL,Vancouver Canucks,VAN,3.9463053007747844,2.8460201431256236,0.6860124063894829,0.3139875936105171,0.1437639232321442
+1243,2024021243,2025-04-08T21:00:00,2025-04-08,21:00:00,Utah Hockey Club,UTA,Seattle Kraken,SEA,3.498625737053321,3.704386754331564,0.4652427075729665,0.5347572924270335,0.15104427002900728
+1244,2024021244,2025-04-08T21:30:00,2025-04-08,21:30:00,Colorado Avalanche,COL,Vegas Golden Knights,VGK,3.4261923499642086,3.5459503149357356,0.47931218155483,0.52068781844517,0.15390559322758993
+1245,2024021245,2025-04-09T19:00:00,2025-04-09,19:00:00,Tampa Bay Lightning,TBL,Toronto Maple Leafs,TOR,3.9899387372503385,3.133820941703825,0.6426376889826355,0.3573623110173645,0.14521735839185929
+1246,2024021246,2025-04-09T19:30:00,2025-04-09,19:30:00,New York Rangers,NYR,Philadelphia Flyers,PHI,3.664259957514562,2.844923828599569,0.6446480406293053,0.35535195937069475,0.15226303054417448
+1247,2024021247,2025-04-09T20:00:00,2025-04-09,20:00:00,Minnesota Wild,MIN,San Jose Sharks,SJS,3.842282561082203,2.2591050538142463,0.7722896140305494,0.22771038596945056,0.13652103449723513
+1248,2024021248,2025-04-09T22:00:00,2025-04-09,22:00:00,Edmonton Oilers,EDM,St. Louis Blues,STL,3.6824629971447562,3.1061332521543905,0.6002536538295237,0.39974634617047633,0.15271941712506906
+1249,2024021249,2025-04-09T22:00:00,2025-04-09,22:00:00,Anaheim Ducks,ANA,Calgary Flames,CGY,3.014407207331377,2.9729832572118915,0.5078846487756955,0.4921153512243045,0.16681942149942217
+1250,2024021250,2025-04-10T19:00:00,2025-04-10,19:00:00,Boston Bruins,BOS,Chicago Blackhawks,CHI,3.4940129575370085,2.7528541295990205,0.6347112443952695,0.3652887556047305,0.1567031941742034
+1251,2024021251,2025-04-10T19:00:00,2025-04-10,19:00:00,Florida Panthers,FLA,Detroit Red Wings,DET,3.9811635632566094,2.917793006506052,0.6785377235377549,0.32146227646224507,0.14354282588090467
+1252,2024021252,2025-04-10T19:30:00,2025-04-10,19:30:00,Washington Capitals,WSH,Carolina Hurricanes,CAR,3.423617789104171,3.0642609810482035,0.5647632839690502,0.43523671603094977,0.15850111818331422
+1253,2024021253,2025-04-10T19:00:00,2025-04-10,19:00:00,Columbus Blue Jackets,CBJ,Buffalo Sabres,BUF,3.9299318698157326,3.7554819415009684,0.5282043844174729,0.47179561558252714,0.14615726074085594
+1254,2024021254,2025-04-10T19:30:00,2025-04-10,19:30:00,New York Islanders,NYI,New York Rangers,NYR,3.023774367464086,3.191262611068403,0.4688807247521529,0.5311192752478471,0.16326440667942732
+1255,2024021255,2025-04-10T20:00:00,2025-04-10,20:00:00,Dallas Stars,DAL,Winnipeg Jets,WPG,3.130109973956919,3.148553001293775,0.49659159327086755,0.5034084067291325,0.16272620372197855
+1256,2024021256,2025-04-10T21:00:00,2025-04-10,21:00:00,Colorado Avalanche,COL,Vancouver Canucks,VAN,3.7335634950295944,3.0506291798645218,0.6183287042504175,0.3816712957495825,0.15137491509702294
+1257,2024021257,2025-04-10T21:00:00,2025-04-10,21:00:00,Utah Hockey Club,UTA,Nashville Predators,NSH,3.5534936516499274,3.544838615206687,0.5014782295440575,0.4985217704559425,0.15261648188763777
+1258,2024021258,2025-04-10T22:00:00,2025-04-10,22:00:00,Vegas Golden Knights,VGK,Seattle Kraken,SEA,4.028565617286419,2.960600773175505,0.6778411615454307,0.3221588384545693,0.14260919625268006
+1259,2024021259,2025-04-10T22:00:00,2025-04-10,22:00:00,Los Angeles Kings,LAK,Anaheim Ducks,ANA,3.4117252817935912,2.539636418939156,0.6618717357696092,0.3381282642303908,0.15785669089422869
+1260,2024021260,2025-04-11T19:00:00,2025-04-11,19:00:00,Ottawa Senators,OTT,Montréal Canadiens,MTL,3.903754341342273,2.937486044392369,0.6640788466913158,0.3359211533086843,0.14603799262506809
+1261,2024021261,2025-04-11T19:00:00,2025-04-11,19:00:00,Tampa Bay Lightning,TBL,Detroit Red Wings,DET,4.169753535808964,2.870737966970289,0.7118350359979388,0.28816496400206115,0.1370522448442069
+1262,2024021262,2025-04-11T19:00:00,2025-04-11,19:00:00,New Jersey Devils,NJD,Pittsburgh Penguins,PIT,3.8018243577557413,2.9434310528723753,0.6479592370853896,0.3520407629146104,0.14900693038910012
+1263,2024021263,2025-04-11T21:30:00,2025-04-11,21:30:00,Edmonton Oilers,EDM,San Jose Sharks,SJS,4.345712274490621,2.3002310244209023,0.8195232712188908,0.1804767287811092,0.11742126766535757
+1264,2024021264,2025-04-11T22:00:00,2025-04-11,22:00:00,Calgary Flames,CGY,Minnesota Wild,MIN,2.86130805225546,2.9889637190238214,0.47536669007085613,0.5246333099291438,0.16867430694248559
+1265,2024021265,2025-04-12T12:30:00,2025-04-12,12:30:00,Philadelphia Flyers,PHI,New York Islanders,NYI,2.953379684312312,3.091486100903264,0.4738849011886654,0.5261150988113346,0.16576622697834406
+1266,2024021266,2025-04-12T15:00:00,2025-04-12,15:00:00,Carolina Hurricanes,CAR,New York Rangers,NYR,3.609752527762094,2.8017878870857347,0.6440430511335942,0.35595694886640583,0.15357631729480709
+1267,2024021267,2025-04-12T16:00:00,2025-04-12,16:00:00,Los Angeles Kings,LAK,Colorado Avalanche,COL,3.1349240113422034,3.0578944349569315,0.5143557341484113,0.4856442658515887,0.1638381106914877
+1268,2024021268,2025-04-12T18:00:00,2025-04-12,18:00:00,Florida Panthers,FLA,Buffalo Sabres,BUF,4.315945722429381,3.05859573766325,0.6999785083789376,0.3000214916210624,0.13533352094415843
+1269,2024021269,2025-04-12T19:00:00,2025-04-12,19:00:00,Toronto Maple Leafs,TOR,Montréal Canadiens,MTL,4.07049751411142,3.0837872824078163,0.6627705059978102,0.33722949400218977,0.14266176467463926
+1270,2024021270,2025-04-12T12:30:00,2025-04-12,12:30:00,Columbus Blue Jackets,CBJ,Washington Capitals,WSH,3.0659610618149893,4.1978924429399616,0.31670671244902027,0.6832932875509797,0.1388766005196862
+1271,2024021271,2025-04-12T19:00:00,2025-04-12,19:00:00,Chicago Blackhawks,CHI,Winnipeg Jets,WPG,2.225842586190435,4.047962396664089,0.19926745548016847,0.8007325445198316,0.1271300026965252
+1272,2024021272,2025-04-12T20:00:00,2025-04-12,20:00:00,Dallas Stars,DAL,Utah Hockey Club,UTA,4.53122215096955,2.8729511420455074,0.754732185511216,0.24526781448878396,0.12536989352498004
+1273,2024021273,2025-04-12T22:00:00,2025-04-12,22:00:00,Vancouver Canucks,VAN,Minnesota Wild,MIN,3.1952777052188313,3.0746191180934974,0.5223066032856903,0.47769339671430966,0.16267636974776067
+1274,2024021274,2025-04-12T22:00:00,2025-04-12,22:00:00,Vegas Golden Knights,VGK,Nashville Predators,NSH,4.091744422579912,2.833087536740488,0.7079258571221833,0.29207414287781674,0.13897149374720322
+1275,2024021275,2025-04-12T22:00:00,2025-04-12,22:00:00,Seattle Kraken,SEA,St. Louis Blues,STL,3.4163869004541287,3.30890013441375,0.5190093921899627,0.48099060781003733,0.1568554976597331
+1276,2024021276,2025-04-13T13:00:00,2025-04-13,13:00:00,Ottawa Senators,OTT,Philadelphia Flyers,PHI,3.8010232695601114,2.7392822935121863,0.6840719801769314,0.3159280198230686,0.14707449825096128
+1277,2024021277,2025-04-13T13:00:00,2025-04-13,13:00:00,New Jersey Devils,NJD,New York Islanders,NYI,3.305335794985601,2.503413293319835,0.6516499783688655,0.34835002163113454,0.16116707162463195
+1278,2024021278,2025-04-13T15:30:00,2025-04-13,15:30:00,Pittsburgh Penguins,PIT,Boston Bruins,BOS,3.647583631469324,3.2797079044712283,0.5635714365459806,0.4364285634540193,0.15318120653719458
+1279,2024021279,2025-04-13T17:00:00,2025-04-13,17:00:00,Carolina Hurricanes,CAR,Toronto Maple Leafs,TOR,3.648817798228196,3.030501606954901,0.6084829420256522,0.3915170579743478,0.15343417289187625
+1280,2024021280,2025-04-13T18:00:00,2025-04-13,18:00:00,Tampa Bay Lightning,TBL,Buffalo Sabres,BUF,4.5203945154512395,3.0092699825330045,0.7327510504446385,0.26724894955536144,0.12834303902673722
+1281,2024021281,2025-04-13T18:00:00,2025-04-13,18:00:00,Washington Capitals,WSH,Columbus Blue Jackets,CBJ,4.418241585141602,2.913053648995708,0.7356788021658353,0.26432119783416475,0.1298193726853027
+1282,2024021282,2025-04-13T19:00:00,2025-04-13,19:00:00,Winnipeg Jets,WPG,Edmonton Oilers,EDM,3.599288655897441,2.7582390828771217,0.6504218692342315,0.3495781307657685,0.15359199994180794
+1283,2024021283,2025-04-13T20:00:00,2025-04-13,20:00:00,Calgary Flames,CGY,San Jose Sharks,SJS,3.543219162454177,2.2904421217466764,0.7281757464716723,0.27182425352832773,0.1494673576407587
+1284,2024021284,2025-04-13T22:00:00,2025-04-13,22:00:00,Anaheim Ducks,ANA,Colorado Avalanche,COL,2.9875692971626884,3.7196134836995642,0.3725443800101053,0.6274556199898946,0.15150069019619425
+1285,2024021285,2025-04-14T19:00:00,2025-04-14,19:00:00,Montréal Canadiens,MTL,Chicago Blackhawks,CHI,3.6872786573178753,2.965286473649966,0.6264056015132918,0.37359439848670817,0.15226234563115015
+1286,2024021286,2025-04-14T19:00:00,2025-04-14,19:00:00,Detroit Red Wings,DET,Dallas Stars,DAL,3.013710488835232,3.9859577528177073,0.33727583732686217,0.6627241626731378,0.14438271649481527
+1287,2024021287,2025-04-14T19:00:00,2025-04-14,19:00:00,Florida Panthers,FLA,New York Rangers,NYR,3.768696063233344,2.9448002346916082,0.6426950863871597,0.35730491361284034,0.14994284200872968
+1288,2024021288,2025-04-14T20:00:00,2025-04-14,20:00:00,Nashville Predators,NSH,Utah Hockey Club,UTA,3.7309086869679833,3.3762717268477003,0.5602846232512682,0.43971537674873185,0.15127206539601856
+1289,2024021289,2025-04-14T22:00:00,2025-04-14,22:00:00,Edmonton Oilers,EDM,Los Angeles Kings,LAK,3.154991861060067,3.018178583164941,0.5255358987075521,0.47446410129244787,0.16395601330577364
+1290,2024021290,2025-04-14T22:00:00,2025-04-14,22:00:00,Vancouver Canucks,VAN,San Jose Sharks,SJS,3.9567809504361504,2.3560798318117158,0.7699354724890084,0.23006452751099163,0.13434003728143734
+1291,2024021291,2025-04-15T19:00:00,2025-04-15,19:00:00,Boston Bruins,BOS,New Jersey Devils,NJD,2.6512317556916205,3.266641763980263,0.38371909627644274,0.6162809037235573,0.16303482894084687
+1292,2024021292,2025-04-15T19:00:00,2025-04-15,19:00:00,Buffalo Sabres,BUF,Toronto Maple Leafs,TOR,3.575124712402598,4.0077090135000075,0.4297190963505722,0.5702809036494277,0.14576948535163287
+1293,2024021293,2025-04-15T19:00:00,2025-04-15,19:00:00,Ottawa Senators,OTT,Chicago Blackhawks,CHI,4.056417076815391,2.583537579105981,0.7447636485498179,0.2552363514501821,0.13571768447268912
+1294,2024021294,2025-04-15T19:00:00,2025-04-15,19:00:00,Tampa Bay Lightning,TBL,Florida Panthers,FLA,3.59265291607437,3.2065337800450378,0.5675016326172363,0.4324983673827637,0.15451297066724226
+1295,2024021295,2025-04-15T19:00:00,2025-04-15,19:00:00,Philadelphia Flyers,PHI,Columbus Blue Jackets,CBJ,3.3462329947267575,3.5084725109632373,0.47167238967152697,0.5283276103284731,0.15514888608455837
+1296,2024021296,2025-04-15T20:00:00,2025-04-15,20:00:00,New York Islanders,NYI,Washington Capitals,WSH,2.7015676990182267,3.7050528990194964,0.32318115633814776,0.6768188436618522,0.14974742815545203
+1297,2024021297,2025-04-15T20:00:00,2025-04-15,20:00:00,St. Louis Blues,STL,Utah Hockey Club,UTA,3.8448681709078545,3.2158186524528416,0.6064969728508922,0.3935030271491078,0.14911350263558176
+1298,2024021298,2025-04-15T20:00:00,2025-04-15,20:00:00,Minnesota Wild,MIN,Anaheim Ducks,ANA,3.393140938518567,2.824885652156868,0.6044222644786322,0.39557773552136777,0.15971096856400008
+1299,2024021299,2025-04-15T21:00:00,2025-04-15,21:00:00,Calgary Flames,CGY,Vegas Golden Knights,VGK,2.738459933288538,3.577804269287608,0.34928144400327743,0.6507185559967226,0.15410244587551808
+1300,2024021300,2025-04-15T22:30:00,2025-04-15,22:30:00,Seattle Kraken,SEA,Los Angeles Kings,LAK,2.927028153038438,3.215203827006575,0.446173020017823,0.553826979982177,0.16360228779522984
+1301,2024021301,2025-04-16T19:00:00,2025-04-16,19:00:00,Montréal Canadiens,MTL,Carolina Hurricanes,CAR,2.7805519541863557,3.790332402495014,0.32479586098196656,0.6752041390180334,0.147889440921423
+1302,2024021302,2025-04-16T19:00:00,2025-04-16,19:00:00,Winnipeg Jets,WPG,Anaheim Ducks,ANA,3.8656955409141656,2.336809787432844,0.7621954270393492,0.2378045729606508,0.13749374112116458
+1303,2024021303,2025-04-16T19:30:00,2025-04-16,19:30:00,New Jersey Devils,NJD,Detroit Red Wings,DET,3.5400060571964445,2.7933928711873905,0.6345419153048745,0.36545808469512553,0.15556288572026275
+1304,2024021304,2025-04-16T20:00:00,2025-04-16,20:00:00,Nashville Predators,NSH,Dallas Stars,DAL,2.920679374828854,3.9607334688690443,0.3248389060688459,0.6751610939311541,0.14418715382067862
+1305,2024021305,2025-04-16T22:00:00,2025-04-16,22:00:00,Vancouver Canucks,VAN,Vegas Golden Knights,VGK,3.0580908492444605,3.680334203166869,0.3914472824870537,0.6085527175129464,0.15271049447012253
+1306,2024021306,2025-04-16T22:30:00,2025-04-16,22:30:00,San Jose Sharks,SJS,Edmonton Oilers,EDM,2.4209711195963215,4.128980356716039,0.22069003519675162,0.7793099648032484,0.1292514677429233
+1307,2024021307,2025-04-17T19:00:00,2025-04-17,19:00:00,Buffalo Sabres,BUF,Philadelphia Flyers,PHI,3.8058574417757933,3.2580331824762188,0.592993381777885,0.40700661822211504,0.15002001655979963
+1308,2024021308,2025-04-17T19:00:00,2025-04-17,19:00:00,Toronto Maple Leafs,TOR,Detroit Red Wings,DET,3.89088486281487,3.240450891275475,0.609319459936109,0.3906805400638909,0.14811186519655564
+1309,2024021309,2025-04-17T19:00:00,2025-04-17,19:00:00,Ottawa Senators,OTT,Carolina Hurricanes,CAR,3.0589167454293613,3.3023676754898474,0.4554699889468782,0.5445300110531218,0.16092902146149313
+1310,2024021310,2025-04-17T19:00:00,2025-04-17,19:00:00,New York Rangers,NYR,Tampa Bay Lightning,TBL,3.0493906552759342,3.7503631869048153,0.37881842507426666,0.6211815749257333,0.15094670377381297
+1311,2024021311,2025-04-17T19:00:00,2025-04-17,19:00:00,Pittsburgh Penguins,PIT,Washington Capitals,WSH,3.176414488948425,4.261582251230002,0.32636633183854474,0.6736336681614552,0.1383227328849591
+1312,2024021312,2025-04-17T19:00:00,2025-04-17,19:00:00,Columbus Blue Jackets,CBJ,New York Islanders,NYI,3.384781583856323,3.210691746137041,0.5311552982878027,0.4688447017121972,0.1582527356966967

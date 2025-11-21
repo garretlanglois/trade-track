@@ -6,7 +6,9 @@
       "Bash(curl:*)",
       "Bash(DATABASE_URL=\"postgresql://neondb_owner:npg_YBtZFzR0jQ2D@ep-delicate-glitter-ahmyyn9z-pooler.c-3.us-east-1.aws.neon.tech/neondb?sslmode=require\" DIRECT_URL=\"postgresql://neondb_owner:npg_YBtZFzR0jQ2D@ep-delicate-glitter-ahmyyn9z.c-3.us-east-1.aws.neon.tech/neondb?sslmode=require\" npm run seed:*)",
       "Bash(npm run dev:*)",
-      "Bash(npm run build:*)"
+      "Bash(npm run build:*)",
+      "Bash(DATABASE_URL=\"postgresql://neondb_owner:npg_YBtZFzR0jQ2D@ep-delicate-glitter-ahmyyn9z-pooler.c-3.us-east-1.aws.neon.tech/neondb?sslmode=require\" DIRECT_URL=\"postgresql://neondb_owner:npg_YBtZFzR0jQ2D@ep-delicate-glitter-ahmyyn9z.c-3.us-east-1.aws.neon.tech/neondb?sslmode=require\" npx prisma migrate dev:*)",
+      "Bash(DATABASE_URL=\"postgresql://neondb_owner:npg_YBtZFzR0jQ2D@ep-delicate-glitter-ahmyyn9z-pooler.c-3.us-east-1.aws.neon.tech/neondb?sslmode=require\" DIRECT_URL=\"postgresql://neondb_owner:npg_YBtZFzR0jQ2D@ep-delicate-glitter-ahmyyn9z.c-3.us-east-1.aws.neon.tech/neondb?sslmode=require\" npm run seed:players:*)"
     ],
     "deny": [],
     "ask": []
