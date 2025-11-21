@@ -1,17 +1,17 @@
-import { redirect } from "next/navigation";
-import { auth } from "@/lib/auth";
 import { prisma } from "@/lib/prisma";
+import { getSession } from "@/lib/session";
+import { redirect } from "next/navigation";
 import DashboardClient from "@/components/DashboardClient";
 
 export default async function Dashboard() {
-  const session = await auth();
+  const session = await getSession();
 
-  if (!session?.user?.email) {
+  if (!session?.email) {
     redirect("/auth/signin");
   }
 
   const user = await prisma.user.findUnique({
-    where: { email: session.user.email },
+    where: { email: session.email },
     include: {
       draftPicks: {
         orderBy: { round: "asc" },

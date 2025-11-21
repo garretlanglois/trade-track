@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
-import { auth } from "@/lib/auth";
 import { prisma } from "@/lib/prisma";
+import { getSession } from "@/lib/session";
 
 // Force dynamic rendering for this route
 export const dynamic = 'force-dynamic';
@@ -9,9 +9,9 @@ export const runtime = 'nodejs';
 // Create a new trade
 export async function POST(request: Request) {
   try {
-    const session = await auth();
+    const session = await getSession();
 
-    if (!session?.user?.email) {
+    if (!session?.email) {
       return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
     }
 
@@ -25,7 +25,7 @@ export async function POST(request: Request) {
     }
 
     const currentUser = await prisma.user.findUnique({
-      where: { email: session.user.email },
+      where: { email: session.email },
     });
 
     if (!currentUser) {
@@ -85,9 +85,9 @@ export async function POST(request: Request) {
 // Update trade status (accept/reject)
 export async function PATCH(request: Request) {
   try {
-    const session = await auth();
+    const session = await getSession();
 
-    if (!session?.user?.email) {
+    if (!session?.email) {
       return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
     }
 
@@ -98,7 +98,7 @@ export async function PATCH(request: Request) {
     }
 
     const currentUser = await prisma.user.findUnique({
-      where: { email: session.user.email },
+      where: { email: session.email },
     });
 
     if (!currentUser) {

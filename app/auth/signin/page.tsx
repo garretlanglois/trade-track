@@ -1,52 +1,49 @@
-"use client";
+import { getGoogleAuthUrl } from "@/lib/google-auth";
+import { getSession } from "@/lib/session";
+import { redirect } from "next/navigation";
+import Link from "next/link";
 
-import { signIn } from "next-auth/react";
-import Image from "next/image";
+export default async function SignIn() {
+  const session = await getSession();
 
-export default function SignIn() {
+  if (session) {
+    redirect("/dashboard");
+  }
+
+  const googleAuthUrl = getGoogleAuthUrl();
+
   return (
-    <div className="min-h-screen bg-gradient-to-br from-[#0D1B2A] via-[#1B263B] to-[#0D1B2A] flex items-center justify-center p-4">
-      <div className="w-full max-w-md">
-        <div className="bg-white rounded-lg shadow-2xl overflow-hidden">
-          <div className="bg-gradient-to-r from-[#4169E1] to-[#0047AB] p-8">
-            <div className="text-center">
-              <div className="bg-white rounded-full w-20 h-20 flex items-center justify-center mx-auto mb-4 shadow-lg">
-                <svg
-                  className="w-12 h-12 text-[#4169E1]"
-                  fill="none"
-                  stroke="currentColor"
-                  viewBox="0 0 24 24"
-                >
-                  <path
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    strokeWidth={2}
-                    d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z"
-                  />
-                </svg>
-              </div>
-              <h1 className="text-3xl font-bold text-white mb-2">
-                Draft Trade Tracker
-              </h1>
-              <p className="text-blue-100 text-sm">
-                Hockey Fantasy League
-              </p>
+    <div className="min-h-screen bg-white flex flex-col">
+      {/* Header */}
+      <header className="border-b border-gray-100">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+          <Link href="/" className="flex items-center gap-3 w-fit">
+            <div className="w-10 h-10 bg-black rounded-lg flex items-center justify-center">
+              <svg className="w-6 h-6 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
+              </svg>
             </div>
+            <span className="text-xl font-semibold text-gray-900">Draft Tracker</span>
+          </Link>
+        </div>
+      </header>
+
+      {/* Main Content */}
+      <main className="flex-1 flex items-center justify-center px-4 sm:px-6 lg:px-8 py-12">
+        <div className="w-full max-w-md">
+          <div className="text-center mb-8">
+            <h1 className="text-3xl font-bold text-gray-900 mb-2">
+              Welcome back
+            </h1>
+            <p className="text-gray-600">
+              Sign in to manage your draft picks
+            </p>
           </div>
 
-          <div className="p-8">
-            <div className="mb-6">
-              <h2 className="text-2xl font-bold text-gray-800 mb-2">
-                Welcome Back
-              </h2>
-              <p className="text-gray-600 text-sm">
-                Sign in with your league-approved Google account to manage your draft picks
-              </p>
-            </div>
-
-            <button
-              onClick={() => signIn("google", { callbackUrl: "/dashboard" })}
-              className="w-full bg-white border-2 border-gray-300 rounded-lg px-6 py-3 flex items-center justify-center gap-3 hover:bg-gray-50 hover:border-gray-400 transition-all duration-200 shadow-md hover:shadow-lg group"
+          <div className="bg-white border border-gray-200 rounded-lg p-8">
+            <Link
+              href={googleAuthUrl}
+              className="w-full flex items-center justify-center gap-3 px-6 py-3 border border-gray-300 rounded-lg hover:bg-gray-50 transition-colors group"
             >
               <svg className="w-5 h-5" viewBox="0 0 24 24">
                 <path
@@ -66,26 +63,20 @@ export default function SignIn() {
                   d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z"
                 />
               </svg>
-              <span className="text-gray-700 font-medium group-hover:text-gray-900">
-                Sign in with Google
+              <span className="text-gray-900 font-medium">
+                Continue with Google
               </span>
-            </button>
+            </Link>
 
-            <div className="mt-6 pt-6 border-t border-gray-200">
-              <p className="text-xs text-gray-500 text-center">
-                Only league members with authorized email addresses can sign in.
-                Contact your league commissioner for access.
+            <div className="mt-6 pt-6 border-t border-gray-100">
+              <p className="text-xs text-gray-500 text-center leading-relaxed">
+                Only league members with authorized email addresses can access this platform.
+                Contact your commissioner for access.
               </p>
             </div>
           </div>
         </div>
-
-        <div className="mt-6 text-center">
-          <p className="text-sm text-gray-400">
-            Manage your draft picks and make trades with other league members
-          </p>
-        </div>
-      </div>
+      </main>
     </div>
   );
 }
