@@ -6,7 +6,7 @@ import Link from "next/link";
 export default async function SignIn() {
   const session = await getSession();
 
-  if (session) {
+  if (session?.email) {
     redirect("/dashboard");
   }
 

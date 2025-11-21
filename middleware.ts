@@ -16,14 +16,24 @@ export async function middleware(request: NextRequest) {
 
   try {
     // Verify the session token
-    await jwtVerify(sessionCookie.value, secret);
+    const { payload } = await jwtVerify(sessionCookie.value, secret);
+
+    // Check if session has required email field
+    if (!payload.email) {
+      const response = NextResponse.redirect(new URL("/auth/signin", request.url));
+      response.cookies.delete("session");
+      return response;
+    }
+
     return NextResponse.next();
   } catch (error) {
-    // Invalid session, redirect to signin
-    return NextResponse.redirect(new URL("/auth/signin", request.url));
+    // Invalid session, clear cookie and redirect to signin
+    const response = NextResponse.redirect(new URL("/auth/signin", request.url));
+    response.cookies.delete("session");
+    return response;
   }
 }
 
 export const config = {
-  matcher: ["/dashboard/:path*", "/league/:path*"],
+  matcher: ["/dashboard/:path*", "/league/:path*", "/admin/:path*"],
 };

@@ -39,9 +39,19 @@ export async function getSession(): Promise<SessionData | null> {
 
   try {
     const { payload } = await jwtVerify(token.value, secret);
+
+    // Validate required fields
+    if (!payload.email || !payload.userId) {
+      console.error("Invalid session: missing required fields");
+      cookieStore.delete("session");
+      return null;
+    }
+
     return payload as SessionData;
   } catch (error) {
     console.error("Error verifying session:", error);
+    // Delete invalid session cookie
+    cookieStore.delete("session");
     return null;
   }
 }
